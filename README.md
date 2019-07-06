@@ -19,6 +19,7 @@ For an introduction to the EMTF system, please check out:
 - [Meetings and News](#meetings-and-news)
 - [Lectures, Courses and Tutorials](#lectures-courses-and-tutorials)
 - [Workshops and Other Events](#workshops-and-other-events)
+- [Figures](#figures)
 
 
 ## Wikis
@@ -63,6 +64,7 @@ For an introduction to the EMTF system, please check out:
 - CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/796887)
 - CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1240504)
 - CMS Collaboration, [CMS Technical Design Report for the Level-1 Trigger Upgrade](https://cds.cern.ch/record/1556311), CERN-LHCC-2013-011, CMS-TDR-12. (2013) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1261310)
+  - Note: For CMS L1 trigger, the Phase-1 upgrade would happen during Long Shutdown 1 (LS1) in 2013-14. For the rest of CMS, the Phase-1 upgrade would typically happen during Long Shutdown 2 (LS2) in 2019-2020.
 - CMS Collaboration, [CMS Technical Design Report for the Muon Endcap GEM Upgrade](https://cds.cern.ch/record/2021453), CERN-LHCC-2015-012, CMS-TDR-013. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1614098)
 - CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886/), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1614097)
 - CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1485699)
@@ -70,6 +72,8 @@ For an introduction to the EMTF system, please check out:
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017)
 - CMS Collaboration, [Level-1 muon trigger performance in 2017 data and comparison with the legacy muon trigger system](https://cds.cern.ch/record/2286327), CMS-DP-2017-041. (2017)
   - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/Level1TriggerMuonPerformance2017andLegacy)
+- CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1667449)
+  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
 
 ### Proceedings
 
@@ -97,7 +101,7 @@ For an introduction to the EMTF system, please check out:
 - D. Rabady et al., [Interface between the Muon Track Finders and the micro-Global Muon Trigger in the Upgraded CMS Trigger for 2016](http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=DN2015_017_v3.pdf), CMS-DN-2015-017 (v3). (2016-02-05) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085635/DN2015_017_v3.pdf)
 - A. Madorsky, _EMTF PT LUT address formation_. (2016-08-11) [![doc](/assets/file-doc.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085642/EMU_TF_PT_LUT_address_formation.docx) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085646/EMU_TF_PT_LUT_address_formation.pdf)
 - M. Carver, _The Upgraded Endcap Muon Trackfinder of CMS_. (2016-08-12) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085641/EMTF_Algorithm.pdf)
-  - This is the draft version of the description of the EMTF algorithm included as part of M. Carver's PhD dissertation.
+  - Note: This is the draft version of the description of the EMTF algorithm included as part of M. Carver's PhD dissertation.
 - A. Madorsky, _EMTF track address format for uGMT output_. (2017-03-16) [![doc](/assets/file-doc.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085640/emtf-gmt-output_20170316.docx) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085645/emtf-gmt-output_20170316.pdf)
 - A. Madorsky, _CPPF to EMTF data format_. (2017-03-17) [![doc](/assets/file-doc.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085651/CPPF-EMTF-format_20170317.docx) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085652/CPPF-EMTF-format_20170317.pdf)
 - A. Madorsky, _CMS Muon Endcap Track Finder DAQ readout format_. (2018-05-01) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085649/EMU_TF_DAQ_format_2018_05_01.pdf) 
@@ -199,6 +203,51 @@ For an introduction to the EMTF system, please check out:
 - [Muon Review of LS2 plans and preparation for run3 data-taking](https://indico.cern.ch/event/790897/). (2019-02-21 &rarr; 2019-02-22)
 - [Level-1 Trigger Algorithms Workshop at CIEMAT (Madrid)](https://indico.cern.ch/event/791517/). (2019-03-25 &rarr; 2019-03-28)
 - [Level-1 Trigger Phase 2 Upgrade Technical Design Workshop](https://indico.cern.ch/event/815313/). (2019-06-19 &rarr; 2019-06-21)
+
+## Figures
+
+- Run 2 muon geometry
+
+<p align="center">
+<a href="figures/CMS-MUO-16-001_Figure_001.pdf"><img src="figures/CMS-MUO-16-001_Figure_001.png" height="300" /></a>
+</p>
+
+- Phase-2 muon geometry
+
+<p align="center">
+<a href="figures/cms_upg_o_g_b_ni_gem_re1_me0_grid_160229.pdf"><img src="figures/cms_upg_o_g_b_ni_gem_re1_me0_grid_160229.png" height="300" /></a>
+</p>
+
+- EMTF crates
+
+<p align="center">
+<a href="figures/emtf_crates_1.jpg"><img src="figures/emtf_crates_1.jpg" height="300" /></a>
+<a href="figures/emtf_crates_2.jpg"><img src="figures/emtf_crates_2.jpg" height="300" /></a>
+</p>
+
+- MTF7 trigger processor
+
+<p align="center">
+<a href="figures/mtf7_1.png"><img src="figures/mtf7_1.png" height="200" /></a>
+<br />
+MTF7 schematic. It uses a dual-card design with custom backplane connectors.
+</p>
+
+<p align="center">
+<a href="figures/mtf7_2.png"><img src="figures/mtf7_2.png" height="200" /></a>
+<a href="figures/mtf7_3.png"><img src="figures/mtf7_3.png" height="200" /></a>
+<br />
+<strong>Left</strong>: Optical module. <strong>Right</strong>: Core logic module (main FPGA is underneath the heat sink).
+</p>
+
+<p align="center">
+<a href="figures/mtf7_4.jpg"><img src="figures/mtf7_4.jpg" height="200" /></a>
+<a href="figures/mtf7_5.jpg"><img src="figures/mtf7_5.jpg" height="200" /></a>
+<br />
+<strong>Left</strong>: Core logic module with a Xilinx Virtex-7 FPGA. It is the large silver chip near the top left. <strong>Right</strong>: Core logic module with the 1.2 GB PT LUT (30-bit address space, for 9-bit PT words). They are the 8 black chips near the top right.
+</p>
+
+
 
 ## Acknowledgement
 
