@@ -14,6 +14,7 @@ For an introduction to the EMTF system, please check out:
 ## Table of contents
 
 - [Wikis](#wikis)
+- [Codes and Tickets](#codes-and-tickets)
 - [Monitoring and Control Pages](#monitoring-and-control-pages)
 - [Documents](#documents)
 - [Meetings and News](#meetings-and-news)
@@ -26,21 +27,37 @@ For an introduction to the EMTF system, please check out:
 
 ### Offline
 
-- [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) (obsolete)
-- [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives)
-- [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams)
-- [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues)
-- [CSC OTMB and relevant configuration tests in autumn 2018](https://twiki.cern.ch/twiki/bin/viewauth/CMS/CSCOTMB2018)
-- [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer)
-- [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger)
-- [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions)
-- [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions)
+- [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) [CMS/L1CSCTrackFinder] (obsolete)
+- [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [CMS/L1CSCTriggerPrimitives]
+- [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [CMS/L1TriggerPhaseIDiagrams]
+- [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [CMS/L1KnownIssues]
+- [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMS/CMSMuonLocalTriggerPhase2]
+- [CSC OTMB and relevant configuration tests in autumn 2018](https://twiki.cern.ch/twiki/bin/view/CMS/CSCOTMB2018) [CMS/CSCOTMB2018]
+- [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [CMS/EMTFAnalyzer]
+- [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [CMS/EndcapMuonTrigger]
+- [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [CMSPublic/SWGuideL1TStage2Instructions]
+- [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [CMSPublic/SWGuideL1TPhase2Instructions]
+- [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [CMS/L1TriggerPhase1]
+- [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [CMS/L1TriggerPhase2]
 
 ### Online
 
-- [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert)
-- [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware)
-- [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/viewauth/CMS/OnlineWBTrigger)
+- [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) [CMS/EMTFOnCallExpert]
+- [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) [CMS/EMTFSwatchControlSoftware]
+- [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) [CMS/OnlineWBTrigger]
+
+## Codes and Tickets
+
+### GitHub
+
+- [EMTF emulator](https://github.com/cms-sw/cmssw/tree/master/L1Trigger/L1TMuonEndCap) [L1Trigger/L1TMuonEndCap]
+- [EMTF unpacker](https://github.com/cms-sw/cmssw/tree/master/EventFilter/L1TRawToDigi) [EventFilter/L1TRawToDigi]
+
+### Jira
+
+- [CMS Level-1 Trigger Operations](https://its.cern.ch/jira/projects/CMSLITOPS/summary) [CMSL1TOPS]
+- [CMS Level-1 Trigger DPG](https://its.cern.ch/jira/projects/CMSLITDPG/summary) [CMSL1TDPG]
+- [CMS Online Networks and Systems](https://its.cern.ch/jira/projects/CMSONS/summary) [CMSONS]
 
 ## Monitoring and Control Pages
 
@@ -48,7 +65,6 @@ For an introduction to the EMTF system, please check out:
 - [CMS Online DQM](https://cmsweb.cern.ch/dqm/online/)
 - [CMS Offline DQM](https://cmsweb.cern.ch/dqm/offline/)
 - [CMS Online Elog](https://cmsonline.cern.ch/webcenter/portal/cmsonline/pages_common/elog)
-- [L1T Operations Jira](https://its.cern.ch/jira/projects/CMSLITOPS/summary)
 - [L1 Page](https://l1page.cms/)
 - [L1 Configuration Editor](https://l1ce.cms/)
 - [EMTF SWATCH Cell](http://l1ts-emtf.cms:3333/urn:xdaq-application:lid=13/)
@@ -62,11 +78,13 @@ For an introduction to the EMTF system, please check out:
 - CMS Collaboration, [CMS TriDAS project : Technical Design Report, Volume 1: The Trigger Systems](https://cds.cern.ch/record/706847), CERN-LHCC-2000-038, CMS-TDR-6-1. (2000) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/541210)
 - D. Acosta et al., [Development and test of a prototype regional track-finder for the Level-1 trigger of the cathode strip chamber muon system of CMS](https://cds.cern.ch/record/623631). NIM A496 (2003) 64-82. (2003) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/614106)
 - CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/796887)
+- CMS Collaboration, [Technical proposal for the upgrade of the CMS detector through 2020](https://cdsweb.cern.ch/record/1355706), CERN-LHCC-2011-006, LHCC-P-004. (2011)
 - CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1240504)
 - CMS Collaboration, [CMS Technical Design Report for the Level-1 Trigger Upgrade](https://cds.cern.ch/record/1556311), CERN-LHCC-2013-011, CMS-TDR-12. (2013) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1261310)
   - Note: For CMS L1 trigger, the Phase-1 upgrade would happen during Long Shutdown 1 (LS1) in 2013-14. For the rest of CMS, the Phase-1 upgrade would typically happen during Long Shutdown 2 (LS2) in 2019-2020.
 - CMS Collaboration, [CMS Technical Design Report for the Muon Endcap GEM Upgrade](https://cds.cern.ch/record/2021453), CERN-LHCC-2015-012, CMS-TDR-013. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1614098)
-- CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886/), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1614097)
+- CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1614097)
+- CMS Collaboration, [CMS Phase II Upgrade Scope Document](https://cds.cern.ch/record/2055167), CERN-LHCC-2015-019, LHCC-G-165. (2015)
 - CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1485699)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189/), CERN-LHCC-2017-012, CMS-TDR-016. (2017)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017)
