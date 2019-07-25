@@ -161,7 +161,9 @@ For an introduction to the EMTF system, please check out:
 ### Mailing Lists
 
 - CSCTF working group: <csctf-working-meeting@cern.ch>
-
+- Experts of muons L1 trigger emulator (EMTF,OMTF,BMTF,uGMT): <cms-l1t-emulator-muons@cern.ch>
+- Coordination of LCT and GEM trigger primitive developments: <cms-l1t-csc-lct-gem-run3@cern.ch>
+- L1T endcap muon trigger (EMTF) algorithms and software: <cms-l1t-emulator-muons-endcap@cern.ch>
 
 ## Lectures, Courses and Tutorials
 
