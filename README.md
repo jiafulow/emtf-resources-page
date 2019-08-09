@@ -50,6 +50,7 @@ For an introduction to the EMTF system, please check out:
 
 ### GitHub
 
+- [EMTF data formats](https://github.com/cms-sw/cmssw/tree/master/DataFormats/L1TMuon) [DataFormats/L1TMuon]
 - [EMTF emulator](https://github.com/cms-sw/cmssw/tree/master/L1Trigger/L1TMuonEndCap) [L1Trigger/L1TMuonEndCap]
 - [EMTF unpacker](https://github.com/cms-sw/cmssw/tree/master/EventFilter/L1TRawToDigi) [EventFilter/L1TRawToDigi]
 
@@ -104,6 +105,11 @@ For an introduction to the EMTF system, please check out:
 - J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1665070)
 
 ### Technical Reports
+
+#### Analysis Notes
+
+- C. Campagnari et al., [Muon Identification in CMS](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20AN-2008/098), CMS-AN-2008-098. (2008-11-04) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1892209/3120787/AN2008_098_v1.pdf)
+- G. Abbiendi et al., [Muon Reconstruction in the CMS Detector](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20AN-2008/097), CMS-AN-2008-097. (2009-07-08) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1892209/3120764/AN2008_097_v4.pdf)
 
 #### CSCTF Notes
 
