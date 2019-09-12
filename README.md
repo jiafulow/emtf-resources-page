@@ -33,6 +33,7 @@ For an introduction to the EMTF system, please check out:
 - [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [CMS/L1KnownIssues]
 - [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMS/CMSMuonLocalTriggerPhase2]
 - [CSC OTMB and relevant configuration tests in autumn 2018](https://twiki.cern.ch/twiki/bin/view/CMS/CSCOTMB2018) [CMS/CSCOTMB2018]
+- [Coordination of CSC LCT + GEM with EMTF for Run 3](https://twiki.cern.ch/twiki/bin/view/CMS/CscLctGemEmtfRun3) [CMS/CscLctGemEmtfRun3]
 - [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [CMS/EMTFAnalyzer]
 - [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [CMS/EndcapMuonTrigger]
 - [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [CMSPublic/SWGuideL1TStage2Instructions]
@@ -69,6 +70,7 @@ For an introduction to the EMTF system, please check out:
 - [L1 Page](https://l1page.cms/)
 - [L1 Configuration Editor](https://l1ce.cms/)
 - [EMTF SWATCH Cell](http://l1ts-emtf.cms:3333/urn:xdaq-application:lid=13/)
+- [EMTF IPMITools Monitor](http://l1ts-emtf.cms:4200/)
 
 
 ## Documents
@@ -151,10 +153,12 @@ For an introduction to the EMTF system, please check out:
 
 - [MUON](https://indico.cern.ch/category/20/)
   - EMTF Working Meeting
+  - CSC Weekly Meeting
 
 - [TRIGGER](https://indico.cern.ch/category/2091/)
   - Level-1 Trigger Weekly Meeting
   - L1T Operations
+  - L1T DPG meeting
   - Phase-2 L1 Trigger Muon Algorithms Group Meeting
 
 ### Hypernews
