@@ -40,6 +40,8 @@ For an introduction to the EMTF system, please check out:
 - [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [CMSPublic/SWGuideL1TPhase2Instructions]
 - [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [CMS/L1TriggerPhase1]
 - [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [CMS/L1TriggerPhase2]
+- [HLT Triggers](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) [CMSPublic/SWGuideGlobalHLT]
+- [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/viewauth/CMS/HighLevelTriggerPhase2) [CMS/HighLevelTriggerPhase2]
 
 ### Online
 
