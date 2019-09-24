@@ -93,6 +93,7 @@ For an introduction to the EMTF system, please check out:
 - CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1485699)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189/), CERN-LHCC-2017-012, CMS-TDR-016. (2017)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017)
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017)
 - CMS Collaboration, [Level-1 muon trigger performance in 2017 data and comparison with the legacy muon trigger system](https://cds.cern.ch/record/2286327), CMS-DP-2017-041. (2017)
   - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/Level1TriggerMuonPerformance2017andLegacy)
 - CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1667449)
