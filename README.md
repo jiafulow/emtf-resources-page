@@ -236,6 +236,7 @@ For an introduction to the EMTF system, please check out:
 - [Muon Review of LS2 plans and preparation for run3 data-taking](https://indico.cern.ch/event/790897/). (2019-02-21 &rarr; 2019-02-22)
 - [Level-1 Trigger Algorithms Workshop at CIEMAT (Madrid)](https://indico.cern.ch/event/791517/). (2019-03-25 &rarr; 2019-03-28)
 - [Level-1 Trigger Phase 2 Upgrade Technical Design Workshop](https://indico.cern.ch/event/815313/). (2019-06-19 &rarr; 2019-06-21)
+- [CMS GEM Workshop 24](https://indico.cern.ch/event/847049/). (2019-09-29 &rarr; 2019-10-04)
 
 ## Figures
 
