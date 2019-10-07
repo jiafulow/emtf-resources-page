@@ -36,12 +36,13 @@ For an introduction to the EMTF system, please check out:
 - [Coordination of CSC LCT + GEM with EMTF for Run 3](https://twiki.cern.ch/twiki/bin/view/CMS/CscLctGemEmtfRun3) [CMS/CscLctGemEmtfRun3]
 - [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [CMS/EMTFAnalyzer]
 - [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [CMS/EndcapMuonTrigger]
+- [L1T Offline Development Planning Page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TOfflineDev) [CMSPublic/SWGuideL1TOfflineDev]
 - [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [CMSPublic/SWGuideL1TStage2Instructions]
 - [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [CMSPublic/SWGuideL1TPhase2Instructions]
 - [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [CMS/L1TriggerPhase1]
 - [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [CMS/L1TriggerPhase2]
 - [HLT Triggers](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) [CMSPublic/SWGuideGlobalHLT]
-- [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/viewauth/CMS/HighLevelTriggerPhase2) [CMS/HighLevelTriggerPhase2]
+- [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) [CMS/HighLevelTriggerPhase2]
 
 ### Online
 
@@ -200,6 +201,7 @@ For an introduction to the EMTF system, please check out:
 - [Darin's lectures on Trigger/DAQ (SERB School)](https://indico.cern.ch/event/793524/#sc-1-2-darins-lectures-on-trig). (2019-01-31)
 - [CMS Induction Course (Jun 2019)](https://indico.cern.ch/event/819222/timetable/). (2019-06-19 &rarr; 2019-06-21)
 - [Introduction to EMTF](https://indico.cern.ch/event/830333/). (2019-06-24)
+- [Level 1 Trigger and High Level Trigger tutorial](https://indico.cern.ch/event/850482/). (2019-10-07 &rarr; 2019-10-08)
 
 
 ## Workshops and Other Events
