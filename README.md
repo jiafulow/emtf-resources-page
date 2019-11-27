@@ -95,8 +95,6 @@ For an introduction to the EMTF system, please check out:
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189/), CERN-LHCC-2017-012, CMS-TDR-016. (2017)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017)
-- CMS Collaboration, [Level-1 muon trigger performance in 2017 data and comparison with the legacy muon trigger system](https://cds.cern.ch/record/2286327), CMS-DP-2017-041. (2017)
-  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/Level1TriggerMuonPerformance2017andLegacy)
 - CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1667449)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
 
@@ -111,6 +109,21 @@ For an introduction to the EMTF system, please check out:
 - J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1665070)
 
 ### Technical Reports
+
+#### Detector Performance Summaries
+
+- CMS Collaboration, [Efficiency of the CMS level 1 muon trigger system in 2011 and 2012](https://cds.cern.ch/record/1478130), CMS-DP-2012-019. (2012)
+- CMS Collaboration, [Single Muon efficiencies in 2012 Data](https://cds.cern.ch/record/1536406), CMS-DP-2013-009. (2013)
+- CMS Collaboration, [L1 muon trigger performance - ICHEP16 dataset](https://cds.cern.ch/record/2202986), CMS-DP-2016-050. (2016)
+  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TMuonPerformanceICHEP16)
+- CMS Collaboration, [Level-1 muon trigger performance in 2017 data and comparison with the legacy muon trigger system](https://cds.cern.ch/record/2286327), CMS-DP-2017-041. (2017)
+  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/Level1TriggerMuonPerformance2017andLegacy)
+- CMS Collaboration, [Level-1 muon trigger performance with the full 2017 dataset](https://cds.cern.ch/record/2306376), CMS-DP-2018-008. (2018)
+  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/Level1TriggerMuonPerformance2017FullStats)
+- CMS Collaboration, [Level-1 Muon Trigger Performance (with part of 2018 dataset)](https://cds.cern.ch/record/2629852), CMS-DP-2018-044. (2018)
+  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/Level1TriggerMuon2018Performance)
+- CMS Collaboration, [Performance of CMS muon detectors in 2018 Collision Runs](https://cds.cern.ch/record/2630439), CMS-DP-2018-047. (2018)
+  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/MuonDPGPublic180622)
 
 #### Analysis Notes
 
@@ -240,6 +253,7 @@ For an introduction to the EMTF system, please check out:
 - [Level-1 Trigger Phase 2 Upgrade Technical Design Workshop](https://indico.cern.ch/event/815313/). (2019-06-19 &rarr; 2019-06-21)
 - [CMS GEM Workshop 24](https://indico.cern.ch/event/847049/). (2019-09-29 &rarr; 2019-10-04)
 - [Muon P2UG Review: Slide Drafts](https://indico.cern.ch/event/859833/). (2019-11-11)
+- [Annual Review - TDAQ](https://indico.cern.ch/event/844212/). (2019-12-04)
 
 ## Figures
 
