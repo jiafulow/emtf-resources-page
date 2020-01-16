@@ -97,6 +97,8 @@ For an introduction to the EMTF system, please check out:
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017)
 - CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1667449)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
+- CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) [![Inspire](/assets/inspire.png)](https://inspirehep.net/record/1769184)
+  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001/)
 
 ### Proceedings
 
@@ -255,6 +257,7 @@ For an introduction to the EMTF system, please check out:
 - [Muon Review of LS2 plans and preparation for run3 data-taking](https://indico.cern.ch/event/790897/). (2019-02-21 &rarr; 2019-02-22)
 - [Level-1 Trigger Algorithms Workshop at CIEMAT (Madrid)](https://indico.cern.ch/event/791517/). (2019-03-25 &rarr; 2019-03-28)
 - [Level-1 Trigger Phase 2 Upgrade Technical Design Workshop](https://indico.cern.ch/event/815313/). (2019-06-19 &rarr; 2019-06-21)
+- [Fast Machine Learning IRIS-HEP Blueprint Workshop](https://indico.cern.ch/event/822126/timetable/). (2019-09-10 &rarr; 2019-09-13)
 - [CMS GEM Workshop 24](https://indico.cern.ch/event/847049/). (2019-09-29 &rarr; 2019-10-04)
 - [Muon P2UG Review: Slide Drafts](https://indico.cern.ch/event/859833/). (2019-11-11)
 - [Annual Review - TDAQ](https://indico.cern.ch/event/844212/). (2019-12-04)
