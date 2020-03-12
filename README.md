@@ -27,28 +27,33 @@ For an introduction to the EMTF system, please check out:
 
 ### Offline
 
-- [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) [CMS/L1CSCTrackFinder] (obsolete)
-- [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [CMS/L1CSCTriggerPrimitives]
-- [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [CMS/L1TriggerPhaseIDiagrams]
-- [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [CMS/L1KnownIssues]
-- [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMS/CMSMuonLocalTriggerPhase2]
-- [CSC OTMB and relevant configuration tests in autumn 2018](https://twiki.cern.ch/twiki/bin/view/CMS/CSCOTMB2018) [CMS/CSCOTMB2018]
-- [Coordination of CSC LCT + GEM with EMTF for Run 3](https://twiki.cern.ch/twiki/bin/view/CMS/CscLctGemEmtfRun3) [CMS/CscLctGemEmtfRun3]
-- [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [CMS/EMTFAnalyzer]
-- [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [CMS/EndcapMuonTrigger]
-- [L1T Offline Development Planning Page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TOfflineDev) [CMSPublic/SWGuideL1TOfflineDev]
-- [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [CMSPublic/SWGuideL1TStage2Instructions]
-- [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [CMSPublic/SWGuideL1TPhase2Instructions]
-- [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [CMS/L1TriggerPhase1]
-- [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [CMS/L1TriggerPhase2]
-- [HLT Triggers](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) [CMSPublic/SWGuideGlobalHLT]
-- [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) [CMS/HighLevelTriggerPhase2]
+- [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) (obsolete) [L1CSCTrackFinder]
+- [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [L1CSCTriggerPrimitives]
+- [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [EMTFAnalyzer]
+- [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [EndcapMuonTrigger]
+- [L1T Offline Development Planning Page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TOfflineDev) [SWGuideL1TOfflineDev]
+- [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [SWGuideL1TStage2Instructions]
+- [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [SWGuideL1TPhase2Instructions]
+- [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [L1TriggerPhase1]
+- [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [L1TriggerPhase2]
+- [HLT Triggers](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) [SWGuideGlobalHLT]
+- [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) [HighLevelTriggerPhase2]
+- Specific for Run 2:
+  - [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [L1TriggerPhaseIDiagrams]
+  - [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [L1KnownIssues]
+  - [CSC OTMB and relevant configuration tests in autumn 2018](https://twiki.cern.ch/twiki/bin/view/CMS/CSCOTMB2018) [CSCOTMB2018]
+- Specific for Run 3:
+  - [Coordination of CSC LCT + GEM with EMTF for Run 3](https://twiki.cern.ch/twiki/bin/view/CMS/CscLctGemEmtfRun3) [CscLctGemEmtfRun3]
+  - [GEM CSC Trigger Task Force Run-3](https://twiki.cern.ch/twiki/bin/view/CMS/GEMCSCTriggerTaskForceRun3) [GEMCSCTriggerTaskForceRun3]
+- Specific for Phase 2:
+  - [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMSMuonLocalTriggerPhase2]
 
 ### Online
 
-- [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) [CMS/EMTFOnCallExpert]
-- [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) [CMS/EMTFSwatchControlSoftware]
-- [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) [CMS/OnlineWBTrigger]
+- [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) [EMTFOnCallExpert]
+- [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) [EMTFSwatchControlSoftware]
+- [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) [OnlineWBTrigger]
+- [.CMS Cluster user's guide](https://twiki.cern.ch/twiki/bin/view/CMS/ClusterUsersGuide) [ClusterUsersGuide]
 
 ## Codes and Tickets
 
@@ -168,6 +173,7 @@ For an introduction to the EMTF system, please check out:
 - A. Brinkerhoff, _EMTF detector geometry_. (2017-07-19) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085601/EMTF_geometry.pdf)
 - J.F. Low, _EMTF++ description_. (2018-11-21) [![link](/assets/link.png)](https://nbviewer.jupyter.org/github/jiafulow/L1TMuonDocsNov2018/blob/master/emtfpp_description.ipynb)
 - A. Madorsky, _Mapping between SWATCH link labels and CSC chambers_. (2019-04-25) [![xls](/assets/file-xls.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085648/link-chamber-map-values.xlsx)
+- Various contributors, [Muon algorithm TDR figures](https://twiki.cern.ch/twiki/bin/view/CMS/MuonAlgoTDRFigures). (2020)
 
 
 ## Meetings and News
