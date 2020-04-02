@@ -137,14 +137,21 @@ For an introduction to the EMTF system, please check out:
 - C. Campagnari et al., [Muon Identification in CMS](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20AN-2008/098), CMS-AN-2008-098. (2008-11-04) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1892209/3120787/AN2008_098_v1.pdf)
 - G. Abbiendi et al., [Muon Reconstruction in the CMS Detector](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20AN-2008/097), CMS-AN-2008-097. (2009-07-08) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1892209/3120764/AN2008_097_v4.pdf)
 
+#### CSC Notes
+
+- J. Hauser et al., [CSC Strip, Wire, Chamber, and Electronics Conventions](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20IN-2007/024), CMS-IN-2007-024. (2008-08-06) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085615/IN2007_024.pdf)
+
 #### CSCTF Notes
 
 - D. Acosta, M. Stoutimore, and S.M. Wang, [Simulated Performance of the CSC Track-Finder](https://cds.cern.ch/record/687344), CMS-NOTE-2001-033. (2001-06-21) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085606/likelihood_note01_033.pdf)
-- J. Hauser et al., [CSC Strip, Wire, Chamber, and Electronics Conventions](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20IN-2007/024), CMS-IN-2007-024. (2008-08-06) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085615/IN2007_024.pdf)
+
+#### TMB Notes
+
+- UCLA High Energy Physics, [TMB 2005 Design](http://cmsdoc.cern.ch/cms/MUON/cscTrigger/html/ucla/tmb2005/tmb2005_spec_v4p55.pdf). (2010-07-15) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/2014505/3366781/tmb2005_spec_v4p55.pdf)
 
 #### MPC Notes
 
-- Rice University, _Spartan-6 Muon Port Card Mezzanine for the CSC Upgrade_. (2018-05-05) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1955680/3248740/MPCMEZ6_050518.pdf)
+- Rice University, [Spartan-6 Muon Port Card Mezzanine for the CSC Upgrade](http://padley.rice.edu/cms/MPCMEZ6_050518.pdf). (2018-05-05) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1955680/3248740/MPCMEZ6_050518.pdf)
 
 #### EMTF Notes
 
