@@ -276,6 +276,10 @@ For an introduction to the EMTF system, please check out:
 - [Muon P2UG Review: Slide Drafts](https://indico.cern.ch/event/859833/). (2019-11-11)
 - [Annual Review - TDAQ](https://indico.cern.ch/event/844212/). (2019-12-04)
 
+### 2020
+
+- L1 Phase 2 Upgrade TDR Review [Part 1](https://indico.cern.ch/event/891695/), [Part 2](https://indico.cern.ch/event/891704/). (2020-05-06 &rarr; 2020-05-07)
+
 ## Figures
 
 - Run 2 muon geometry
