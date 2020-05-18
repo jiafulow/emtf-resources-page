@@ -323,6 +323,23 @@ MTF7 schematic. It uses a dual-card design with custom backplane connectors.
 <strong>Left</strong>: Core logic module with a Xilinx Virtex-7 FPGA. It is the large silver chip near the top left. <strong>Right</strong>: Core logic module with the 1.2 GB PT LUT (30-bit address space, for 9-bit PT words). They are the 8 black chips near the top right.
 </p>
 
+- CSC/RPC chambers, EMTF trigger sectors
+
+<p align="center">
+<a href="figures/emtf_system_1.pdf"><img src="figures/emtf_system_1.png" height="200" /></a>
+<a href="figures/emtf_system_2.pdf"><img src="figures/emtf_system_2.png" height="200" /></a>
+<a href="figures/emtf_system_3.pdf"><img src="figures/emtf_system_3.png" height="200" /></a>
+<br />
+<a href="figures/emtf_system_4.pdf"><img src="figures/emtf_system_4.png" height="200" /></a>
+<a href="figures/emtf_system_5.pdf"><img src="figures/emtf_system_5.png" height="200" /></a>
+<a href="figures/emtf_system_6.pdf"><img src="figures/emtf_system_6.png" height="200" /></a>
+<br />
+<a href="figures/emtf_system_7.pdf"><img src="figures/emtf_system_7.png" height="200" /></a>
+<a href="figures/emtf_system_8.pdf"><img src="figures/emtf_system_8.png" height="200" /></a>
+<a href="figures/emtf_system_9.pdf"><img src="figures/emtf_system_9.png" height="200" /></a>
+<br />
+Useful slides prepared by A. Brinkerhoff about the CSC and RPC chambers, and the EMTF trigger sectors.
+</p>
 
 
 ## Acknowledgement
