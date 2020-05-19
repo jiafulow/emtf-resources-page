@@ -15,7 +15,7 @@ For an introduction to the EMTF system, please check out:
 
 - [Wikis](#wikis)
 - [Codes and Tickets](#codes-and-tickets)
-- [Monitoring and Control Pages](#monitoring-and-control-pages)
+- [Monitoring and Control Webpages](#monitoring-and-control-webpages)
 - [Documents](#documents)
 - [Meetings and News](#meetings-and-news)
 - [Lectures, Courses and Tutorials](#lectures-courses-and-tutorials)
@@ -69,7 +69,7 @@ For an introduction to the EMTF system, please check out:
 - [CMS Level-1 Trigger DPG](https://its.cern.ch/jira/projects/CMSLITDPG/summary) [CMSL1TDPG]
 - [CMS Online Networks and Systems](https://its.cern.ch/jira/projects/CMSONS/summary) [CMSONS]
 
-## Monitoring and Control Pages
+## Monitoring and Control Webpages
 
 - [CMS Web-Based Monitoring](https://cmswbm.cern.ch/cmsdb/servlet/RunSummary)
 - [CMS Online DQM](https://cmsweb.cern.ch/dqm/online/)
@@ -235,6 +235,10 @@ For an introduction to the EMTF system, please check out:
 - [CMS Induction Course (Jun 2019)](https://indico.cern.ch/event/819222/timetable/). (2019-06-19 &rarr; 2019-06-21)
 - [Introduction to EMTF](https://indico.cern.ch/event/830333/). (2019-06-24)
 - [Level 1 Trigger and High Level Trigger tutorial](https://indico.cern.ch/event/850482/). (2019-10-07 &rarr; 2019-10-08)
+
+### 2020
+
+- [CMS Induction Course (Jun 2020)](https://indico.cern.ch/event/914784/timetable/). (2020-06-10 &rarr; 2020-06-12)
 
 
 ## Workshops and Other Events
