@@ -2,20 +2,21 @@
 
 ![license](https://img.shields.io/github/license/jiafulow/emtf-resources-page.svg)
 
-This page contains links to various resources that are relevant for the CMS
+This page contains links to various resources that are relevant for the [CMS](https://cms.cern/)
 Endcap Muon Track Finder (EMTF) &mdash; the L1 trigger for muons in the forward
 region (1.24 < |&eta;| < 2.4).
 
 For an introduction to the EMTF system, please check out:
 - D. Acosta, [Endcap Muon Trigger System Overview](https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072044/EMTFhardwareOverview.pdf). (2019-06-24)
-- A. Brinkerhoff, [The EMTF system and projects for Run 3](https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072125/2019_06_24_EMTF_system_Run3.pdf). (2019-06-24)
+- A. Brinkerhoff, [The EMTF System and Projects for Run 3](https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072125/2019_06_24_EMTF_system_Run3.pdf). (2019-06-24)
+- E. Yiğitbaşı, [EMTF Emulator Status and Plans](https://indico.cern.ch/event/900292/contributions/3798560/attachments/2008546/3355213/EMTF_emulator_review_L1Tweekly_24.03.2020.pdf). (2020-03-24)
 
 
 ## Table of contents
 
 - [Wikis](#wikis)
 - [Codes and Tickets](#codes-and-tickets)
-- [Monitoring and Control Webpages](#monitoring-and-control-webpages)
+- [Web Monitoring Tools](#web-monitoring-tools)
 - [Documents](#documents)
 - [Meetings and News](#meetings-and-news)
 - [Lectures, Courses and Tutorials](#lectures-courses-and-tutorials)
@@ -25,7 +26,7 @@ For an introduction to the EMTF system, please check out:
 
 ## Wikis
 
-### Offline
+### Offline Software
 
 - [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) (obsolete) [L1CSCTrackFinder]
 - [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [L1CSCTriggerPrimitives]
@@ -48,7 +49,7 @@ For an introduction to the EMTF system, please check out:
 - Specific for Phase 2:
   - [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMSMuonLocalTriggerPhase2]
 
-### Online
+### Online Software
 
 - [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) [EMTFOnCallExpert]
 - [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) [EMTFSwatchControlSoftware]
@@ -69,9 +70,10 @@ For an introduction to the EMTF system, please check out:
 - [CMS Level-1 Trigger DPG](https://its.cern.ch/jira/projects/CMSLITDPG/summary) [CMSL1TDPG]
 - [CMS Online Networks and Systems](https://its.cern.ch/jira/projects/CMSONS/summary) [CMSONS]
 
-## Monitoring and Control Webpages
+## Web Monitoring Tools
 
-- [CMS Web-Based Monitoring](https://cmswbm.cern.ch/cmsdb/servlet/RunSummary)
+- [CMS Online Monitoring System](https://cmsoms.cern.ch/)
+- [CMS Web-Based Monitoring](https://cmswbm.cern.ch/cmsdb/servlet/RunSummary) (obsolete)
 - [CMS Online DQM](https://cmsweb.cern.ch/dqm/online/)
 - [CMS Offline DQM](https://cmsweb.cern.ch/dqm/offline/)
 - [CMS Online Elog](https://cmsonline.cern.ch/webcenter/portal/cmsonline/pages_common/elog)
@@ -79,7 +81,6 @@ For an introduction to the EMTF system, please check out:
 - [L1 Configuration Editor](https://l1ce.cms/)
 - [EMTF SWATCH Cell](http://l1ts-emtf.cms:3333/urn:xdaq-application:lid=13/)
 - [EMTF IPMITools Monitor](http://l1ts-emtf.cms:4200/)
-
 
 ## Documents
 
@@ -211,6 +212,7 @@ For an introduction to the EMTF system, please check out:
 - Experts of muons L1 trigger emulator (EMTF,OMTF,BMTF,uGMT): <cms-l1t-emulator-muons@cern.ch>
 - Coordination of LCT and GEM trigger primitive developments: <cms-l1t-csc-lct-gem-run3@cern.ch>
 - L1T endcap muon trigger (EMTF) algorithms and software: <cms-l1t-emulator-muons-endcap@cern.ch>
+- GEM-CSC trigger task force: <cms-gem-csc-trigger-taskforce@cern.ch>
 
 ## Lectures, Courses and Tutorials
 
@@ -267,7 +269,6 @@ For an introduction to the EMTF system, please check out:
 - [Muon Upgrade Workshop (Sep 2018)](https://indico.cern.ch/event/752547/). (2018-09-11 &rarr; 2018-09-13)
 - [Annual Review - TDAQ](https://indico.cern.ch/event/766394/). (2018-11-13)
 - [Joint P2 Muon Upgrade + P2 L1 Muon Algorithms workshop](https://indico.cern.ch/event/768856/timetable/?view=standard). (2018-11-28 &rarr; 2018-11-30)
-
 
 ### 2019
 
