@@ -189,11 +189,11 @@ For an introduction to the EMTF system, please check out:
 
 ### Meetings
 
-- [MUON](https://indico.cern.ch/category/20/)
+- [MUON](https://indico.cern.ch/category/20/) [![indico](/assets/indico.png)](https://indico.cern.ch/category/20/)
   - EMTF Working Meeting
   - CSC Weekly Meeting
 
-- [TRIGGER](https://indico.cern.ch/category/2091/)
+- [TRIGGER](https://indico.cern.ch/category/2091/) [![indico](/assets/indico.png)](https://indico.cern.ch/category/2091/)
   - Level-1 Trigger Weekly Meeting
   - L1T Operations
   - L1T DPG meeting
@@ -201,10 +201,10 @@ For an introduction to the EMTF system, please check out:
 
 ### Hypernews
 
-- [L1 Trigger](https://hypernews.cern.ch/HyperNews/CMS/get/L1Trigger.html)
-- [L1 Trigger Software](https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerSW.html)
-- [L1 Trigger Upgrades](https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerUpgrades.html)
-- [Commissioning](https://hypernews.cern.ch/HyperNews/CMS/get/commissioning.html)
+- L1 Trigger: <https://hypernews.cern.ch/HyperNews/CMS/get/L1Trigger.html>
+- L1 Trigger Software: <https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerSW.html>
+- L1 Trigger Upgrades: <https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerUpgrades.html>
+- Commissioning: <https://hypernews.cern.ch/HyperNews/CMS/get/commissioning.html>
 
 ### Mailing Lists
 
@@ -213,6 +213,10 @@ For an introduction to the EMTF system, please check out:
 - Coordination of LCT and GEM trigger primitive developments: <cms-l1t-csc-lct-gem-run3@cern.ch>
 - L1T endcap muon trigger (EMTF) algorithms and software: <cms-l1t-emulator-muons-endcap@cern.ch>
 - GEM-CSC trigger task force: <cms-gem-csc-trigger-taskforce@cern.ch>
+
+### Mattermost
+
+- CMS EMTF: <https://mattermost.web.cern.ch/cms-emtf>
 
 ## Lectures, Courses and Tutorials
 
