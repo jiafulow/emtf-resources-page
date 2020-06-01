@@ -86,36 +86,36 @@ For an introduction to the EMTF system, please check out:
 
 ### Papers and Publications
 
-- CMS Collaboration, [The CMS muon project : Technical Design Report](https://cds.cern.ch/record/343814), CERN-LHCC-97-032, CMS-TDR-3. (1997) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1614056)
-- CMS Collaboration, [CMS TriDAS project : Technical Design Report, Volume 1: The Trigger Systems](https://cds.cern.ch/record/706847), CERN-LHCC-2000-038, CMS-TDR-6-1. (2000) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/541210)
-- D. Acosta et al., [Development and test of a prototype regional track-finder for the Level-1 trigger of the cathode strip chamber muon system of CMS](https://cds.cern.ch/record/623631). NIM A496 (2003) 64-82. (2003) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/614106)
-- CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/796887)
+- CMS Collaboration, [The CMS muon project : Technical Design Report](https://cds.cern.ch/record/343814), CERN-LHCC-97-032, CMS-TDR-3. (1997) [![Inspire][inspire]](http://inspirehep.net/record/1614056)
+- CMS Collaboration, [CMS TriDAS project : Technical Design Report, Volume 1: The Trigger Systems](https://cds.cern.ch/record/706847), CERN-LHCC-2000-038, CMS-TDR-6-1. (2000) [![Inspire][inspire]](http://inspirehep.net/record/541210)
+- D. Acosta et al., [Development and test of a prototype regional track-finder for the Level-1 trigger of the cathode strip chamber muon system of CMS](https://cds.cern.ch/record/623631). NIM A496 (2003) 64-82. (2003) [![Inspire][inspire]](http://inspirehep.net/record/614106)
+- CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire][inspire]](http://inspirehep.net/record/796887)
 - CMS Collaboration, [Technical proposal for the upgrade of the CMS detector through 2020](https://cdsweb.cern.ch/record/1355706), CERN-LHCC-2011-006, LHCC-P-004. (2011)
-- CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1240504)
-- CMS Collaboration, [CMS Technical Design Report for the Level-1 Trigger Upgrade](https://cds.cern.ch/record/1556311), CERN-LHCC-2013-011, CMS-TDR-12. (2013) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1261310)
+- CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1240504)
+- CMS Collaboration, [CMS Technical Design Report for the Level-1 Trigger Upgrade](https://cds.cern.ch/record/1556311), CERN-LHCC-2013-011, CMS-TDR-12. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1261310)
   - Note: For CMS L1 trigger, the Phase-1 upgrade would happen during Long Shutdown 1 (LS1) in 2013-14. For the rest of CMS, the Phase-1 upgrade would typically happen during Long Shutdown 2 (LS2) in 2019-2020.
-- CMS Collaboration, [CMS Technical Design Report for the Muon Endcap GEM Upgrade](https://cds.cern.ch/record/2021453), CERN-LHCC-2015-012, CMS-TDR-013. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1614098)
-- CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1614097)
+- CMS Collaboration, [CMS Technical Design Report for the Muon Endcap GEM Upgrade](https://cds.cern.ch/record/2021453), CERN-LHCC-2015-012, CMS-TDR-013. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1614098)
+- CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1614097)
 - CMS Collaboration, [CMS Phase II Upgrade Scope Document](https://cds.cern.ch/record/2055167), CERN-LHCC-2015-019, LHCC-G-165. (2015)
-- CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1485699)
+- CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1485699)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189/), CERN-LHCC-2017-012, CMS-TDR-016. (2017)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017)
-- CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1667449)
+- CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire][inspire]](http://inspirehep.net/record/1667449)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
-- CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) [![Inspire](/assets/inspire.png)](https://inspirehep.net/record/1769184)
+- CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) [![Inspire][inspire]](https://inspirehep.net/record/1769184)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001/)
 
 ### Proceedings
 
-- A. Madorsky et al., [Design Considerations for an Upgraded Track-Finding Processor in the Level-1 Endcap Muon Trigger of CMS for SLHC Operations](https://cds.cern.ch/record/1358819), TWEPP09, CMS-CR-2009-316. (2009) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1654156)
-- A. Madorsky et al., [The CMS Modular Track Finder Boards, MTF6 and MTF7](https://cds.cern.ch/record/1627822), TWEPP13, CMS-CR-2013-383. (2013) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1276615)
-- P. Bortignon, [Design and performance of the upgrade of the CMS L1 muon trigger](https://cds.cern.ch/record/2043177), 13th Pisa Meeting on Advanced Detectors, CMS-CR-2015-125. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1458015)
-- M. Matveev, [Commissioning of the Upgraded CSC Endcap Muon Port Cards at CMS](https://cds.cern.ch/record/2103727), TWEPP15, CMS-CR-2015-273. (2015) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1416321)
-- N.P. Ghanathe et al., [Software and Firmware co-development using High-level Synthesis](https://cds.cern.ch/record/2233159), TWEPP16, CMS-CR-2016-287. (2016) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1513692)
-- A. Madorsky et al., [Electronics for CMS Endcap Muon Level-1 Trigger System Phase-1 and HL LHC Upgrades Summary](https://cds.cern.ch/record/2264997), INSTR17, CMS-CR-2017-132. (2017) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1609400)
-- A. Carnes et al., [Boosted Decision Trees in the Level-1 Muon Endcap Trigger at CMS](https://cds.cern.ch/record/2290188), ACAT17, CMS-CR-2017-357. (2017) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1700005)
-- J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire](/assets/inspire.png)](http://inspirehep.net/record/1665070)
+- A. Madorsky et al., [Design Considerations for an Upgraded Track-Finding Processor in the Level-1 Endcap Muon Trigger of CMS for SLHC Operations](https://cds.cern.ch/record/1358819), TWEPP09, CMS-CR-2009-316. (2009) [![Inspire][inspire]](http://inspirehep.net/record/1654156)
+- A. Madorsky et al., [The CMS Modular Track Finder Boards, MTF6 and MTF7](https://cds.cern.ch/record/1627822), TWEPP13, CMS-CR-2013-383. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1276615)
+- P. Bortignon, [Design and performance of the upgrade of the CMS L1 muon trigger](https://cds.cern.ch/record/2043177), 13th Pisa Meeting on Advanced Detectors, CMS-CR-2015-125. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1458015)
+- M. Matveev, [Commissioning of the Upgraded CSC Endcap Muon Port Cards at CMS](https://cds.cern.ch/record/2103727), TWEPP15, CMS-CR-2015-273. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1416321)
+- N.P. Ghanathe et al., [Software and Firmware co-development using High-level Synthesis](https://cds.cern.ch/record/2233159), TWEPP16, CMS-CR-2016-287. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1513692)
+- A. Madorsky et al., [Electronics for CMS Endcap Muon Level-1 Trigger System Phase-1 and HL LHC Upgrades Summary](https://cds.cern.ch/record/2264997), INSTR17, CMS-CR-2017-132. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1609400)
+- A. Carnes et al., [Boosted Decision Trees in the Level-1 Muon Endcap Trigger at CMS](https://cds.cern.ch/record/2290188), ACAT17, CMS-CR-2017-357. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1700005)
+- J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1665070)
 
 ### Technical Reports
 
@@ -136,39 +136,39 @@ For an introduction to the EMTF system, please check out:
 
 #### Analysis Notes
 
-- C. Campagnari et al., [Muon Identification in CMS](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20AN-2008/098), CMS-AN-2008-098. (2008-11-04) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1892209/3120787/AN2008_098_v1.pdf)
-- G. Abbiendi et al., [Muon Reconstruction in the CMS Detector](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20AN-2008/097), CMS-AN-2008-097. (2009-07-08) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1892209/3120764/AN2008_097_v4.pdf)
+- C. Campagnari et al., [Muon Identification in CMS](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20AN-2008/098), CMS-AN-2008-098. (2008-11-04) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1892209/3120787/AN2008_098_v1.pdf)
+- G. Abbiendi et al., [Muon Reconstruction in the CMS Detector](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20AN-2008/097), CMS-AN-2008-097. (2009-07-08) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1892209/3120764/AN2008_097_v4.pdf)
 
 #### CSC Notes
 
-- J. Hauser et al., [CSC Strip, Wire, Chamber, and Electronics Conventions](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20IN-2007/024), CMS-IN-2007-024. (2008-08-06) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085615/IN2007_024.pdf)
+- J. Hauser et al., [CSC Strip, Wire, Chamber, and Electronics Conventions](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20IN-2007/024), CMS-IN-2007-024. (2008-08-06) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085615/IN2007_024.pdf)
 
 #### CSCTF Notes
 
-- D. Acosta, M. Stoutimore, and S.M. Wang, [Simulated Performance of the CSC Track-Finder](https://cds.cern.ch/record/687344), CMS-NOTE-2001-033. (2001-06-21) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085606/likelihood_note01_033.pdf)
+- D. Acosta, M. Stoutimore, and S.M. Wang, [Simulated Performance of the CSC Track-Finder](https://cds.cern.ch/record/687344), CMS-NOTE-2001-033. (2001-06-21) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085606/likelihood_note01_033.pdf)
 
 #### TMB Notes
 
-- UCLA High Energy Physics, [TMB 2005 Design](http://cmsdoc.cern.ch/cms/MUON/cscTrigger/html/ucla/tmb2005/tmb2005_spec_v4p55.pdf). (2010-07-15) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/2014505/3366781/tmb2005_spec_v4p55.pdf)
+- UCLA High Energy Physics, [TMB 2005 Design](http://cmsdoc.cern.ch/cms/MUON/cscTrigger/html/ucla/tmb2005/tmb2005_spec_v4p55.pdf). (2010-07-15) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/2014505/3366781/tmb2005_spec_v4p55.pdf)
 
 #### MPC Notes
 
-- Rice University, [Spartan-6 Muon Port Card Mezzanine for the CSC Upgrade](http://padley.rice.edu/cms/MPCMEZ6_050518.pdf). (2018-05-05) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1955680/3248740/MPCMEZ6_050518.pdf)
+- Rice University, [Spartan-6 Muon Port Card Mezzanine for the CSC Upgrade](http://padley.rice.edu/cms/MPCMEZ6_050518.pdf). (2018-05-05) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1955680/3248740/MPCMEZ6_050518.pdf)
 
 #### EMTF Notes
 
-- M. Carver, _Description of Upgraded CSCTF Algorithm_. (2014-03-10) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085656/Description_of_Upgraded_CSCTF_Algorithm.pdf)
-- A. Madorsky, _CMS Endcap Muon Track Finder Control interface specifications_. (2014-12-04) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085621/EMU_TF_registers.pdf)
-- A. Madorsky, _CMS Endcap Muon Track Finder firmware algorithm description_. (2015-06-29) [![doc](/assets/file-doc.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3220446/EMU_TF_algorithm-2.docx) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3220447/EMU_TF_algorithm-2.pdf)
-- E. Hazen, _AMC13 DAQ Facilities_. (2015-09-30) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085636/UpdatedDAQPath_2015-09-30.pdf)
-- D. Rabady et al., [Interface between the Muon Track Finders and the micro-Global Muon Trigger in the Upgraded CMS Trigger for 2016](http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=DN2015_017_v3.pdf), CMS-DN-2015-017 (v3). (2016-02-05) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085635/DN2015_017_v3.pdf)
-- A. Madorsky, _EMTF PT LUT address formation_. (2016-08-11) [![doc](/assets/file-doc.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085642/EMU_TF_PT_LUT_address_formation.docx) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085646/EMU_TF_PT_LUT_address_formation.pdf)
-- M. Carver, _The Upgraded Endcap Muon Trackfinder of CMS_. (2016-08-12) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085641/EMTF_Algorithm.pdf)
+- M. Carver, _Description of Upgraded CSCTF Algorithm_. (2014-03-10) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085656/Description_of_Upgraded_CSCTF_Algorithm.pdf)
+- A. Madorsky, _CMS Endcap Muon Track Finder Control interface specifications_. (2014-12-04) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085621/EMU_TF_registers.pdf)
+- A. Madorsky, _CMS Endcap Muon Track Finder firmware algorithm description_. (2015-06-29) [![DOC][doc]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3220446/EMU_TF_algorithm-2.docx) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3220447/EMU_TF_algorithm-2.pdf)
+- E. Hazen, _AMC13 DAQ Facilities_. (2015-09-30) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085636/UpdatedDAQPath_2015-09-30.pdf)
+- D. Rabady et al., [Interface between the Muon Track Finders and the micro-Global Muon Trigger in the Upgraded CMS Trigger for 2016](http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=DN2015_017_v3.pdf), CMS-DN-2015-017 (v3). (2016-02-05) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085635/DN2015_017_v3.pdf)
+- A. Madorsky, _EMTF PT LUT address formation_. (2016-08-11) [![DOC][doc]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085642/EMU_TF_PT_LUT_address_formation.docx) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085646/EMU_TF_PT_LUT_address_formation.pdf)
+- M. Carver, _The Upgraded Endcap Muon Trackfinder of CMS_. (2016-08-12) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085641/EMTF_Algorithm.pdf)
   - Note: This is the draft version of the description of the EMTF algorithm included as part of M. Carver's PhD dissertation.
-- A. Madorsky, _EMTF track address format for uGMT output_. (2017-03-16) [![doc](/assets/file-doc.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085640/emtf-gmt-output_20170316.docx) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085645/emtf-gmt-output_20170316.pdf)
-- A. Madorsky, _CPPF to EMTF data format_. (2017-03-17) [![doc](/assets/file-doc.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085651/CPPF-EMTF-format_20170317.docx) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085652/CPPF-EMTF-format_20170317.pdf)
-- A. Madorsky, _CMS Muon Endcap Track Finder DAQ readout format_. (2018-05-01) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085649/EMU_TF_DAQ_format_2018_05_01.pdf) 
-- A. Brinkerhoff and A. Madorsky, _EMTF PT LUT address formation (ver 2017)_. (2019-02-26) [![doc](/assets/file-doc.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085650/EMU_TF_PT_LUT_address_formation_2019_02_26.docx) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085653/EMU_TF_PT_LUT_address_formation_2019_02_26.pdf)
+- A. Madorsky, _EMTF track address format for uGMT output_. (2017-03-16) [![DOC][doc]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085640/emtf-gmt-output_20170316.docx) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085645/emtf-gmt-output_20170316.pdf)
+- A. Madorsky, _CPPF to EMTF data format_. (2017-03-17) [![DOC][doc]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085651/CPPF-EMTF-format_20170317.docx) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085652/CPPF-EMTF-format_20170317.pdf)
+- A. Madorsky, _CMS Muon Endcap Track Finder DAQ readout format_. (2018-05-01) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085649/EMU_TF_DAQ_format_2018_05_01.pdf)
+- A. Brinkerhoff and A. Madorsky, _EMTF PT LUT address formation (ver 2017)_. (2019-02-26) [![DOC][doc]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085650/EMU_TF_PT_LUT_address_formation_2019_02_26.docx) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085653/EMU_TF_PT_LUT_address_formation_2019_02_26.pdf)
 
 #### EMTF++ Notes
 
@@ -176,12 +176,12 @@ For an introduction to the EMTF system, please check out:
 
 #### Working Documents
 
-- A. Brinkerhoff, _The EMTF algorithm_. (2016-08-19) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085600/EMTF_algorithm_AWB_08_19.pdf)
-- M. Carver, _EMTF Emulator Flow Chart_. (2016-08-23) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085643/EMTF_Emulator_Flow_Chart.pdf)
-- A. Brinkerhoff, _The EMTF track-building algorithm_. (2017-06-01) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085599/2017_06_01_EMTF_algorithm.pdf)
-- A. Brinkerhoff, _EMTF detector geometry_. (2017-07-19) [![pdf](/assets/file-pdf.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085601/EMTF_geometry.pdf)
-- J.F. Low, _EMTF++ description_. (2018-11-21) [![link](/assets/link.png)](https://nbviewer.jupyter.org/github/jiafulow/L1TMuonDocsNov2018/blob/master/emtfpp_description.ipynb)
-- A. Madorsky, _Mapping between SWATCH link labels and CSC chambers_. (2019-04-25) [![xls](/assets/file-xls.png)](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085648/link-chamber-map-values.xlsx)
+- A. Brinkerhoff, _The EMTF algorithm_. (2016-08-19) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085600/EMTF_algorithm_AWB_08_19.pdf)
+- M. Carver, _EMTF Emulator Flow Chart_. (2016-08-23) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085643/EMTF_Emulator_Flow_Chart.pdf)
+- A. Brinkerhoff, _The EMTF track-building algorithm_. (2017-06-01) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085599/2017_06_01_EMTF_algorithm.pdf)
+- A. Brinkerhoff, _EMTF detector geometry_. (2017-07-19) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085601/EMTF_geometry.pdf)
+- J.F. Low, _EMTF++ description_. (2018-11-21) [![Link][link]](https://nbviewer.jupyter.org/github/jiafulow/L1TMuonDocsNov2018/blob/master/emtfpp_description.ipynb)
+- A. Madorsky, _Mapping between SWATCH link labels and CSC chambers_. (2019-04-25) [![XLS][xls]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085648/link-chamber-map-values.xlsx)
 - Various contributors, [Muon algorithm TDR figures](https://twiki.cern.ch/twiki/bin/view/CMS/MuonAlgoTDRFigures). (2020)
 
 
@@ -189,11 +189,11 @@ For an introduction to the EMTF system, please check out:
 
 ### Meetings
 
-- [MUON](https://indico.cern.ch/category/20/) [![indico](/assets/indico.png)](https://indico.cern.ch/category/20/)
+- [MUON](https://indico.cern.ch/category/20/) [![Indico][indico]](https://indico.cern.ch/category/20/)
   - EMTF Working Meeting
   - CSC Weekly Meeting
 
-- [TRIGGER](https://indico.cern.ch/category/2091/) [![indico](/assets/indico.png)](https://indico.cern.ch/category/2091/)
+- [TRIGGER](https://indico.cern.ch/category/2091/) [![Indico][indico]](https://indico.cern.ch/category/2091/)
   - Level-1 Trigger Weekly Meeting
   - L1T Operations
   - L1T DPG meeting
@@ -222,7 +222,7 @@ For an introduction to the EMTF system, please check out:
 
 ### 2017 and before
 
-- [L1 Trigger SWATCH tutorial](https://indico.cern.ch/event/436271/attachments/1136924/1627286/L1T_SWATCH_tutorial_20150806_v0.pdf) by Tom Williams (RAL). (2015-08-06)
+- [L1 Trigger SWATCH tutorial](https://indico.cern.ch/event/436271/attachments/1136924/1627286/L1T_SWATCH_tutorial_20150806_v0.pdf) by Tom Williams. (2015-08-06)
 - [CSC-101 for newcomers](https://indico.cern.ch/event/522500/). (2016-05-30 &rarr; 2016-06-01)
 - [L1CE quick start guide](https://docs.google.com/presentation/d/1gG3eawOO1iZdUfI6TEPW5hF7gd3Qup3C8rzKqy5wIDU/edit) by Giuseppe & Glenn. (2017)
 - [L1 Trigger Shifter Tutorial](https://indico.cern.ch/event/668931/). (2017-10-04)
@@ -354,3 +354,12 @@ Useful slides prepared by A. Brinkerhoff about the CSC and RPC chambers, and the
 ## Acknowledgement
 
 This page was inspired by the [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources) repo.
+
+<!--Definitions-->
+
+[pdf]: /assets/file-pdf.png 'PDF'
+[doc]: /assets/file-doc.png 'DOC'
+[xls]: /assets/file-xls.png 'XLS'
+[link]: /assets/link.png 'Link'
+[inspire]: /assets/inspire.png 'Inspire'
+[indico]: /assets/indico.png 'Indico'
