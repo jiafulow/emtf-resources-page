@@ -183,6 +183,9 @@ For an introduction to the EMTF system, please check out:
 - J.F. Low, _EMTF++ description_. (2018-11-21) [![Link][link]](https://nbviewer.jupyter.org/github/jiafulow/L1TMuonDocsNov2018/blob/master/emtfpp_description.ipynb)
 - A. Madorsky, _Mapping between SWATCH link labels and CSC chambers_. (2019-04-25) [![XLS][xls]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085648/link-chamber-map-values.xlsx)
 - Various contributors, [Muon algorithm TDR figures](https://twiki.cern.ch/twiki/bin/view/CMS/MuonAlgoTDRFigures). (2020)
+- S. Dildick et al., [Improving the performance of the CLCT pattern finder in
+CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master/temp/DN-19-059_temp.pdf). (2020)
+- S. Dildick et al., [Trigger data formats for the CSC and GEM systems for Run-3](https://gitlab.cern.ch/tdr/notes/DN-20-016/blob/master/temp/DN-20-016_temp.pdf). (2020)
 
 
 ## Meetings and News
@@ -198,6 +201,8 @@ For an introduction to the EMTF system, please check out:
   - L1T Operations
   - L1T DPG meeting
   - Phase-2 L1 Trigger Muon Algorithms Group Meeting
+
+- [CMS WEEKS](https://indico.cern.ch/category/154/) [![Indico][indico]](https://indico.cern.ch/category/154/)
 
 ### Hypernews
 
