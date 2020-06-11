@@ -6,10 +6,17 @@ This page contains links to various resources that are relevant for the [CMS](ht
 Endcap Muon Track Finder (EMTF) &mdash; the L1 trigger for muons in the forward
 region (1.24 < |&eta;| < 2.4).
 
-For an introduction to the EMTF system, please check out:
+For an introduction to the EMTF system, please check out the following:
 - D. Acosta, [Endcap Muon Trigger System Overview](https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072044/EMTFhardwareOverview.pdf). (2019-06-24)
 - A. Brinkerhoff, [The EMTF System and Projects for Run 3](https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072125/2019_06_24_EMTF_system_Run3.pdf). (2019-06-24)
 - E. Yiğitbaşı, [EMTF Emulator Status and Plans](https://indico.cern.ch/event/900292/contributions/3798560/attachments/2008546/3355213/EMTF_emulator_review_L1Tweekly_24.03.2020.pdf). (2020-03-24)
+
+For an introduction to the L1 online software, please check out the following:
+- G. Dirkx, [CMS Level-1 Trigger Online Software](https://indico.cern.ch/event/914784/contributions/3846235/attachments/2054240/3444025/induction_course_10_jun_2020.pdf). (2020-06-11)
+
+For an introduction to the Trigger & DAQ systems in CMS, please check out the following Darin Acosta's lectures:
+- D. Acosta, [Introduction to Trigger Systems](https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913452/TriggerLecture.pdf). (2019-01-31)
+- D. Acosta, [Electronics in High Energy Physics](https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913453/ElectronicsLecture.pdf). (2019-01-31)
 
 
 ## Table of contents
@@ -39,6 +46,7 @@ For an introduction to the EMTF system, please check out:
 - [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [L1TriggerPhase2]
 - [HLT Triggers](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) [SWGuideGlobalHLT]
 - [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) [HighLevelTriggerPhase2]
+- [Talks and posters about the CMS High Level Trigger](https://twiki.cern.ch/twiki/bin/view/CMSPublic/TriggerStudiesTalks) [TriggerStudiesTalks]
 - Specific for Run 2:
   - [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [L1TriggerPhaseIDiagrams]
   - [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [L1KnownIssues]
@@ -241,15 +249,19 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 ### 2019
 
+- [CMS Data Analysis School at Fermilab LPC 2019](https://indico.cern.ch/e/cmsdas2019). (2019-01-14 &rarr; 2019-01-18)
 - [CMS Induction Course (Jan 2019)](https://indico.cern.ch/event/782790/timetable/). (2019-01-30 &rarr; 2019-02-01)
-- [Darin's lectures on Trigger/DAQ (SERB School)](https://indico.cern.ch/event/793524/#sc-1-2-darins-lectures-on-trig). (2019-01-31)
+- [Darin Acosta's lectures on Trigger/DAQ (SERB School)](https://indico.cern.ch/event/793524/#sc-1-2-darins-lectures-on-trig). (2019-01-31)
+- [Level-1 Trigger Operations monitoring & alerting hackathon](https://indico.cern.ch/event/800750/). (2019-03-08)
 - [CMS Induction Course (Jun 2019)](https://indico.cern.ch/event/819222/timetable/). (2019-06-19 &rarr; 2019-06-21)
 - [Introduction to EMTF](https://indico.cern.ch/event/830333/). (2019-06-24)
 - [Level 1 Trigger and High Level Trigger tutorial](https://indico.cern.ch/event/850482/). (2019-10-07 &rarr; 2019-10-08)
 
 ### 2020
 
-- [CMS Induction Course (Jun 2020)](https://indico.cern.ch/event/914784/timetable/). (2020-06-10 &rarr; 2020-06-12)
+- [CMS Data Analysis School at Fermilab LPC 2020](https://indico.cern.ch/e/cmsdas2020). (2020-01-13 &rarr; 2020-01-17)
+- [9th CMS Induction Course](https://indico.cern.ch/event/862170/timetable/). (2020-01-29 &rarr; 2020-01-31)
+- [10th CMS Induction Course](https://indico.cern.ch/event/914784/timetable/). (2020-06-10 &rarr; 2020-06-12)
 
 
 ## Workshops and Other Events
@@ -274,6 +286,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 - [Triggering on New Physics at the High Luminosity LHC](https://indico.cern.ch/event/678456/timetable/?view=standard). (2018-01-15 &rarr; 2018-01-17)
 - [CMS GEM/CSC Forward Muon Upgrade Workshop](https://indico.cern.ch/event/712513/timetable/?view=standard). (2018-04-08 &rarr; 2018-04-11)
+- [ACES 2018 - Sixth Common ATLAS CMS Electronics Workshop for LHC Upgrades](https://indico.cern.ch/event/681247/timetable/?view=standard). (2018-04-24 &rarr; 2018-04-26)
 - [L1T Phase 2 Upgrade Workshop (Jun 2018)](https://indico.cern.ch/event/718306/timetable/?view=standard). (2018-06-12 &rarr; 2018-06-15)
 - [Muon Upgrade Workshop (Sep 2018)](https://indico.cern.ch/event/752547/). (2018-09-11 &rarr; 2018-09-13)
 - [Annual Review - TDAQ](https://indico.cern.ch/event/766394/). (2018-11-13)
@@ -284,6 +297,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [Level-1 Trigger Operations + DPG: LS2 Kick-Off](https://indico.cern.ch/event/778025/timetable/). (2019-02-13 &rarr; 2019-02-15)
 - [Muon Review of LS2 plans and preparation for run3 data-taking](https://indico.cern.ch/event/790897/). (2019-02-21 &rarr; 2019-02-22)
 - [Level-1 Trigger Algorithms Workshop at CIEMAT (Madrid)](https://indico.cern.ch/event/791517/). (2019-03-25 &rarr; 2019-03-28)
+- [ISOTDAQ 2019 - International School of Trigger and Data AcQuisition](https://indico.cern.ch/event/739424/). (2019-04-03 &rarr; 2019-04-12)
 - [Level-1 Trigger Phase 2 Upgrade Technical Design Workshop](https://indico.cern.ch/event/815313/). (2019-06-19 &rarr; 2019-06-21)
 - [Fast Machine Learning IRIS-HEP Blueprint Workshop](https://indico.cern.ch/event/822126/timetable/). (2019-09-10 &rarr; 2019-09-13)
 - [CMS GEM Workshop 24](https://indico.cern.ch/event/847049/). (2019-09-29 &rarr; 2019-10-04)
@@ -293,6 +307,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 ### 2020
 
 - L1 Phase 2 Upgrade TDR Review [Part 1](https://indico.cern.ch/event/891695/), [Part 2](https://indico.cern.ch/event/891704/). (2020-05-06 &rarr; 2020-05-07)
+- [ACES 2020 - Seventh Common ATLAS CMS Electronics Workshop for LHC Upgrades](https://indico.cern.ch/event/863071/timetable/?view=standard). (2020-05-26 &rarr; 2020-05-28)
 
 ## Figures
 
