@@ -40,8 +40,12 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [L1CSCTriggerPrimitives]
 - [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [EMTFAnalyzer]
 - [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [EndcapMuonTrigger]
+- [Level-1 Trigger Public Performance Results](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TriggerDPGResults) [L1TriggerDPGResults]
+  - :memo: &nbsp; List public Level-1 Trigger performance plots for each system in each year, plus upgrade vs. legacy performance plots.
 - [L1T Offline Development Planning Page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TOfflineDev) [SWGuideL1TOfflineDev]
+  - :memo: &nbsp; Provide instructions for developing Level-1 Trigger emulator code, in particular the L1T NTuple code.
 - [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [SWGuideL1TStage2Instructions]
+  - :memo: &nbsp; Provide instructions for running Level-1 Trigger emulator, in particular the L1T NTuples.
 - [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [SWGuideL1TPhase2Instructions]
 - [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [L1TriggerPhase1]
 - [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [L1TriggerPhase2]
@@ -52,15 +56,21 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
   - [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [L1TriggerPhaseIDiagrams]
   - [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [L1KnownIssues]
   - [CSC OTMB and relevant configuration tests in autumn 2018](https://twiki.cern.ch/twiki/bin/view/CMS/CSCOTMB2018) [CSCOTMB2018]
+    - :memo: &nbsp; Describe the modified CSC LCT algorithm versions tested in data in 2018.
 - Specific for Run 3:
   - [Coordination of CSC LCT + GEM with EMTF for Run 3](https://twiki.cern.ch/twiki/bin/view/CMS/CscLctGemEmtfRun3) [CscLctGemEmtfRun3]
+    - :memo: &nbsp; Describe the studies related to GEM TPs in the EMTF (no longer updated).
   - [GEM CSC Trigger Task Force Run-3](https://twiki.cern.ch/twiki/bin/view/CMS/GEMCSCTriggerTaskForceRun3) [GEMCSCTriggerTaskForceRun3]
+    - :memo: &nbsp; Describe the studies related to GEM & CSC TPs for Run-3.
 - Specific for Phase 2:
   - [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMSMuonLocalTriggerPhase2]
+- Non-Wikis:
+  - CMS CSC Level-1 Track Finder Home Page: http://cms-csctf.web.cern.ch/
 
 ### Online Software
 
 - [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) [EMTFOnCallExpert]
+  - :memo: &nbsp; Mostly for the EMTF on-call shifter, but has lots of other info. It also contains a [list of other EMTF pages](https://twiki.cern.ch/twiki/bin/viewauth/CMS/EMTFOnCallExpert#Important_Twiki_Pages).
 - [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) [EMTFSwatchControlSoftware]
 - [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) [OnlineWBTrigger]
 - [.CMS Cluster user's guide](https://twiki.cern.ch/twiki/bin/view/CMS/ClusterUsersGuide) [ClusterUsersGuide]
@@ -123,10 +133,10 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 ### Hypernews
 
-- L1 Trigger: <https://hypernews.cern.ch/HyperNews/CMS/get/L1Trigger.html>
-- L1 Trigger Software: <https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerSW.html>
-- L1 Trigger Upgrades: <https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerUpgrades.html>
-- Commissioning: <https://hypernews.cern.ch/HyperNews/CMS/get/commissioning.html>
+- [L1 Trigger](https://hypernews.cern.ch/HyperNews/CMS/get/L1Trigger.html) [L1Trigger]
+- [L1 Trigger Software](https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerSW.html) [L1TriggerSW]
+- [L1 Trigger Upgrades](https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerUpgrades.html) [L1TriggerUpgrades]
+- [Commissioning](https://hypernews.cern.ch/HyperNews/CMS/get/commissioning.html) [commissioning]
 
 ### Mailing Lists
 
@@ -238,6 +248,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - A. Brinkerhoff, _The EMTF algorithm_. (2016-08-19) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085600/EMTF_algorithm_AWB_08_19.pdf)
 - M. Carver, _EMTF Emulator Flow Chart_. (2016-08-23) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085643/EMTF_Emulator_Flow_Chart.pdf)
 - A. Brinkerhoff, _The EMTF track-building algorithm_. (2017-06-01) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085599/2017_06_01_EMTF_algorithm.pdf)
+- A. Brinkerhoff, _Plan for EMTF track-building modifications: startup 2018_. (2018-03-29) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3448848/2018_03_29_EMTF_algo_mods_2018.pdf)
 - A. Brinkerhoff, _EMTF detector geometry_. (2017-07-19) [![PDF][pdf]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085601/EMTF_geometry.pdf)
 - J.F. Low, _EMTF++ description_. (2018-11-21) [![Link][link]](https://nbviewer.jupyter.org/github/jiafulow/L1TMuonDocsNov2018/blob/master/emtfpp_description.ipynb)
 - A. Madorsky, _Mapping between SWATCH link labels and CSC chambers_. (2019-04-25) [![XLS][xls]](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085648/link-chamber-map-values.xlsx)
@@ -261,7 +272,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 - [L1 Trigger Shifter Tutorial](https://indico.cern.ch/event/697373/). (2018-01-22)
 - [DAQ Shifter Tutorial](https://indico.cern.ch/event/709047/). (2018-03-01)
-- [EMTF on-call training](https://indico.cern.ch/event/737981/#5-emtf-on-call-training-friday). (2018-06-22)
+- [Introduction to EMTF (2018)](https://indico.cern.ch/event/737981/#5-emtf-on-call-training-friday). (2018-06-22)
 
 ### 2019
 
@@ -270,7 +281,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [Darin Acosta's lectures on Trigger/DAQ (SERB School)](https://indico.cern.ch/event/793524/#sc-1-2-darins-lectures-on-trig). (2019-01-31)
 - [Level-1 Trigger Operations monitoring & alerting hackathon](https://indico.cern.ch/event/800750/). (2019-03-08)
 - [CMS Induction Course (Jun 2019)](https://indico.cern.ch/event/819222/timetable/). (2019-06-19 &rarr; 2019-06-21)
-- [Introduction to EMTF](https://indico.cern.ch/event/830333/). (2019-06-24)
+- [Introduction to EMTF (2019)](https://indico.cern.ch/event/830333/). (2019-06-24)
 - [Level 1 Trigger and High Level Trigger tutorial](https://indico.cern.ch/event/850482/). (2019-10-07 &rarr; 2019-10-08)
 
 ### 2020
