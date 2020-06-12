@@ -3,8 +3,8 @@
 ![license](https://img.shields.io/github/license/jiafulow/emtf-resources-page.svg)
 
 This page contains links to various resources that are relevant for the [CMS](https://cms.cern/)
-Endcap Muon Track Finder (EMTF) &mdash; the L1 trigger for muons in the forward
-region (1.24 < |&eta;| < 2.4).
+Endcap Muon Track Finder (EMTF) &mdash; the L1 [trigger](https://cms.cern/detector/triggering-and-data-acquisition)
+for muons in the forward region (1.24 < |&eta;| < 2.4).
 
 For an introduction to the EMTF system, please check out the following:
 - D. Acosta, [Endcap Muon Trigger System Overview](https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072044/EMTFhardwareOverview.pdf). (2019-06-24)
@@ -22,10 +22,11 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 ## Table of contents
 
 - [Wikis](#wikis)
-- [Codes and Tickets](#codes-and-tickets)
+- [Code Repositories](#code-repositories)
+- [Issue Tracking](#issue-tracking)
 - [Web Monitoring Tools](#web-monitoring-tools)
-- [Documents](#documents)
 - [Meetings and News](#meetings-and-news)
+- [Documents](#documents)
 - [Lectures, Courses and Tutorials](#lectures-courses-and-tutorials)
 - [Workshops and Other Events](#workshops-and-other-events)
 - [Figures](#figures)
@@ -64,15 +65,27 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) [OnlineWBTrigger]
 - [.CMS Cluster user's guide](https://twiki.cern.ch/twiki/bin/view/CMS/ClusterUsersGuide) [ClusterUsersGuide]
 
-## Codes and Tickets
+## Code Repositories
 
-### GitHub
+### Offline Software
 
 - [EMTF data formats](https://github.com/cms-sw/cmssw/tree/master/DataFormats/L1TMuon) [DataFormats/L1TMuon]
 - [EMTF emulator](https://github.com/cms-sw/cmssw/tree/master/L1Trigger/L1TMuonEndCap) [L1Trigger/L1TMuonEndCap]
-- [EMTF unpacker](https://github.com/cms-sw/cmssw/tree/master/EventFilter/L1TRawToDigi) [EventFilter/L1TRawToDigi]
+- [EMTF packer/unpacker](https://github.com/cms-sw/cmssw/tree/master/EventFilter/L1TRawToDigi) [EventFilter/L1TRawToDigi]
 
-### Jira
+### Online Software
+
+- [Trigger Supervisor](https://gitlab.cern.ch/cms-cactus/core/ts)
+- [SWATCH](https://gitlab.cern.ch/cms-cactus/core/swatch)
+- [EMTF SWATCH cell](https://gitlab.cern.ch/cms-cactus/projects/emtf/)
+
+## Issue Tracking
+
+### Offline Software
+
+- &nbsp;
+
+### Online Software
 
 - [CMS Level-1 Trigger Operations](https://its.cern.ch/jira/projects/CMSLITOPS/summary) [CMSL1TOPS]
 - [CMS Level-1 Trigger DPG](https://its.cern.ch/jira/projects/CMSLITDPG/summary) [CMSL1TDPG]
@@ -89,6 +102,44 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - [L1 Configuration Editor](https://l1ce.cms/)
 - [EMTF SWATCH Cell](http://l1ts-emtf.cms:3333/urn:xdaq-application:lid=13/)
 - [EMTF IPMITools Monitor](http://l1ts-emtf.cms:4200/)
+
+## Meetings and News
+
+### Meetings
+
+- [MUON](https://indico.cern.ch/category/20/) [![Indico][indico]](https://indico.cern.ch/category/20/)
+  - EMTF Working Meeting
+  - CSC Weekly Meeting
+  - GEM-CSC Trigger Task Force Meeting
+
+- [TRIGGER](https://indico.cern.ch/category/2091/) [![Indico][indico]](https://indico.cern.ch/category/2091/)
+  - Level-1 Trigger Weekly Meeting
+  - L1T Operations
+  - L1T DPG meeting
+  - L1T Offline SW Meeting
+  - Phase-2 L1 Trigger Muon Algorithms Group Meeting
+
+- [CMS WEEKS](https://indico.cern.ch/category/154/) [![Indico][indico]](https://indico.cern.ch/category/154/)
+
+### Hypernews
+
+- L1 Trigger: <https://hypernews.cern.ch/HyperNews/CMS/get/L1Trigger.html>
+- L1 Trigger Software: <https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerSW.html>
+- L1 Trigger Upgrades: <https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerUpgrades.html>
+- Commissioning: <https://hypernews.cern.ch/HyperNews/CMS/get/commissioning.html>
+
+### Mailing Lists
+
+- CSCTF working group: <csctf-working-meeting@cern.ch>
+- Experts of muons L1 trigger emulator (EMTF,OMTF,BMTF,uGMT): <cms-l1t-emulator-muons@cern.ch>
+- Coordination of LCT and GEM trigger primitive developments: <cms-l1t-csc-lct-gem-run3@cern.ch>
+- L1T endcap muon trigger (EMTF) algorithms and software: <cms-l1t-emulator-muons-endcap@cern.ch>
+- GEM-CSC trigger task force: <cms-gem-csc-trigger-taskforce@cern.ch>
+
+### Mattermost
+
+- CMS EMTF: <https://mattermost.web.cern.ch/cms-emtf>
+
 
 ## Documents
 
@@ -195,41 +246,6 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master/temp/DN-19-059_temp.pdf). (2020)
 - S. Dildick et al., [Trigger data formats for the CSC and GEM systems for Run-3](https://gitlab.cern.ch/tdr/notes/DN-20-016/blob/master/temp/DN-20-016_temp.pdf). (2020)
 
-
-## Meetings and News
-
-### Meetings
-
-- [MUON](https://indico.cern.ch/category/20/) [![Indico][indico]](https://indico.cern.ch/category/20/)
-  - EMTF Working Meeting
-  - CSC Weekly Meeting
-
-- [TRIGGER](https://indico.cern.ch/category/2091/) [![Indico][indico]](https://indico.cern.ch/category/2091/)
-  - Level-1 Trigger Weekly Meeting
-  - L1T Operations
-  - L1T DPG meeting
-  - Phase-2 L1 Trigger Muon Algorithms Group Meeting
-
-- [CMS WEEKS](https://indico.cern.ch/category/154/) [![Indico][indico]](https://indico.cern.ch/category/154/)
-
-### Hypernews
-
-- L1 Trigger: <https://hypernews.cern.ch/HyperNews/CMS/get/L1Trigger.html>
-- L1 Trigger Software: <https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerSW.html>
-- L1 Trigger Upgrades: <https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerUpgrades.html>
-- Commissioning: <https://hypernews.cern.ch/HyperNews/CMS/get/commissioning.html>
-
-### Mailing Lists
-
-- CSCTF working group: <csctf-working-meeting@cern.ch>
-- Experts of muons L1 trigger emulator (EMTF,OMTF,BMTF,uGMT): <cms-l1t-emulator-muons@cern.ch>
-- Coordination of LCT and GEM trigger primitive developments: <cms-l1t-csc-lct-gem-run3@cern.ch>
-- L1T endcap muon trigger (EMTF) algorithms and software: <cms-l1t-emulator-muons-endcap@cern.ch>
-- GEM-CSC trigger task force: <cms-gem-csc-trigger-taskforce@cern.ch>
-
-### Mattermost
-
-- CMS EMTF: <https://mattermost.web.cern.ch/cms-emtf>
 
 ## Lectures, Courses and Tutorials
 
