@@ -1,4 +1,4 @@
-# EMTF Resources Page
+# EMTF Resources
 
 ![license](https://img.shields.io/github/license/jiafulow/emtf-resources-page.svg)
 
@@ -52,6 +52,8 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - [HLT Triggers](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) [SWGuideGlobalHLT]
 - [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) [HighLevelTriggerPhase2]
 - [Talks and posters about the CMS High Level Trigger](https://twiki.cern.ch/twiki/bin/view/CMSPublic/TriggerStudiesTalks) [TriggerStudiesTalks]
+- [Muon DPG Office](https://twiki.cern.ch/twiki/bin/view/CMS/MuonDPGOffice) [MuonDPGOffice]
+- [CMS Machine Learning](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMachineLearning) [CMSMachineLearning]
 - Specific for Run 2:
   - [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [L1TriggerPhaseIDiagrams]
   - [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [L1KnownIssues]
@@ -70,7 +72,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 ### Online Software
 
 - [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) [EMTFOnCallExpert]
-  - :memo: &nbsp; Mostly for the EMTF on-call shifter, but has lots of other info. It also contains a [list of other EMTF pages](https://twiki.cern.ch/twiki/bin/viewauth/CMS/EMTFOnCallExpert#Important_Twiki_Pages).
+  - :memo: &nbsp; Mostly for the EMTF on-call shifter, but has lots of other info. It also contains a [list of other EMTF pages](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert#Important_Twiki_Pages).
 - [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) [EMTFSwatchControlSoftware]
 - [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) [OnlineWBTrigger]
 - [.CMS Cluster user's guide](https://twiki.cern.ch/twiki/bin/view/CMS/ClusterUsersGuide) [ClusterUsersGuide]
