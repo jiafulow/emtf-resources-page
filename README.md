@@ -84,6 +84,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - [EMTF data formats](https://github.com/cms-sw/cmssw/tree/master/DataFormats/L1TMuon) [DataFormats/L1TMuon]
 - [EMTF emulator](https://github.com/cms-sw/cmssw/tree/master/L1Trigger/L1TMuonEndCap) [L1Trigger/L1TMuonEndCap]
 - [EMTF packer/unpacker](https://github.com/cms-sw/cmssw/tree/master/EventFilter/L1TRawToDigi) [EventFilter/L1TRawToDigi]
+- [EMTF DQM](https://github.com/cms-sw/cmssw/tree/master/DQM/L1TMonitor) [DQM/L1TMonitor]
 
 ### Online Software
 
@@ -109,6 +110,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - [CMS Web-Based Monitoring](https://cmswbm.cern.ch/cmsdb/servlet/RunSummary) (obsolete)
 - [CMS Online DQM](https://cmsweb.cern.ch/dqm/online/)
 - [CMS Offline DQM](https://cmsweb.cern.ch/dqm/offline/)
+- [CMS RelVal DQM](https://cmsweb.cern.ch/dqm/relval/)
 - [CMS Online Elog](https://cmsonline.cern.ch/webcenter/portal/cmsonline/pages_common/elog)
 - [L1 Page](https://l1page.cms/)
 - [L1 Configuration Editor](https://l1ce.cms/)
@@ -174,11 +176,14 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017)
 - CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire][inspire]](http://inspirehep.net/record/1667449)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
-- CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) [![Inspire][inspire]](https://inspirehep.net/record/1769184)
+- CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1769184)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001/)
+- CMS Collaboration, [Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2721198), CMS-TRG-17-001, CERN-EP-2020-065. (2020) [![Inspire][inspire]](http://inspirehep.net/record/1801861)
+  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-17-001/)
 
 ### Proceedings
 
+- J. Hauser et al., [Experience with Trigger Electronics for the Cathode Strip Chamber System of CMS](https://cds.cern.ch/record/814259). (2004)
 - A. Madorsky et al., [Design Considerations for an Upgraded Track-Finding Processor in the Level-1 Endcap Muon Trigger of CMS for SLHC Operations](https://cds.cern.ch/record/1358819), TWEPP09, CMS-CR-2009-316. (2009) [![Inspire][inspire]](http://inspirehep.net/record/1654156)
 - A. Madorsky et al., [The CMS Modular Track Finder Boards, MTF6 and MTF7](https://cds.cern.ch/record/1627822), TWEPP13, CMS-CR-2013-383. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1276615)
 - P. Bortignon, [Design and performance of the upgrade of the CMS L1 muon trigger](https://cds.cern.ch/record/2043177), 13th Pisa Meeting on Advanced Detectors, CMS-CR-2015-125. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1458015)
@@ -258,6 +263,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - S. Dildick et al., [Improving the performance of the CLCT pattern finder in
 CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master/temp/DN-19-059_temp.pdf). (2020)
 - S. Dildick et al., [Trigger data formats for the CSC and GEM systems for Run-3](https://gitlab.cern.ch/tdr/notes/DN-20-016/blob/master/temp/DN-20-016_temp.pdf). (2020)
+- J. L. Holgado et al., [Analytical Method for DT Trigger Primitive Generation in HL-LHC](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20IN-2019/003). (2020)
 
 
 ## Lectures, Courses and Tutorials
@@ -397,6 +403,15 @@ MTF7 schematic. It uses a dual-card design with custom backplane connectors.
 <a href="figures/emtf_system_9.pdf"><img src="figures/emtf_system_9.png" height="200" /></a>
 <br />
 Useful slides prepared by A. Brinkerhoff about the CSC and RPC chambers, and the EMTF trigger sectors.
+</p>
+
+- Phase-2 muon trigger primitive (TP) architecture
+
+<p align="center">
+<a href="figures/muon_tp_barrel_architecture.pdf"><img src="figures/muon_tp_barrel_architecture.png" height="200" /></a>
+<a href="figures/muon_tp_endcap_architecture.pdf"><img src="figures/muon_tp_endcap_architecture.png" height="200" /></a>
+<br />
+<strong>Left</strong>: Muon barrel TP architecture. <strong>Right</strong>: Muon endcap TP architecture.
 </p>
 
 
