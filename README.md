@@ -36,24 +36,35 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 ### Offline Software
 
-- [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) (obsolete) [L1CSCTrackFinder]
-- [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [L1CSCTriggerPrimitives]
 - [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [EMTFAnalyzer]
 - [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [EndcapMuonTrigger]
-- [Level-1 Trigger Public Performance Results](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TriggerDPGResults) [L1TriggerDPGResults]
-  - :memo: &nbsp; List public Level-1 Trigger performance plots for each system in each year, plus upgrade vs. legacy performance plots.
+  - :memo: &nbsp; Contain MTF7 & EMTF documentation and source codes.
+- [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) [L1CSCTrackFinder]
+- [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [L1CSCTriggerPrimitives]
 - [L1T Offline Development Planning Page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TOfflineDev) [SWGuideL1TOfflineDev]
-  - :memo: &nbsp; Provide instructions for developing Level-1 Trigger emulator code, in particular the L1T NTuple code.
+  - :memo: &nbsp; Provide instructions for developing L1 Trigger emulator code, in particular the L1T NTuple code.
 - [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [SWGuideL1TStage2Instructions]
-  - :memo: &nbsp; Provide instructions for running Level-1 Trigger emulator, in particular the L1T NTuples.
+  - :memo: &nbsp; Provide instructions for running L1 Trigger emulator, in particular the L1T NTuples.
 - [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [SWGuideL1TPhase2Instructions]
-- [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [L1TriggerPhase1]
-- [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [L1TriggerPhase2]
+  - :memo: &nbsp; Provide instructions for running L1 Trigger emulator for Phase-2 Upgrade.
+
+- [Level-1 Trigger](https://twiki.cern.ch/twiki/bin/view/CMS/L1Trigger) [L1Trigger]
+  - [Level-1 Trigger Public Performance Results](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TriggerDPGResults) [L1TriggerDPGResults]
+  - [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [L1TriggerPhase1]
+  - [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [L1TriggerPhase2]
 - [HLT Triggers](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) [SWGuideGlobalHLT]
-- [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) [HighLevelTriggerPhase2]
-- [Talks and posters about the CMS High Level Trigger](https://twiki.cern.ch/twiki/bin/view/CMSPublic/TriggerStudiesTalks) [TriggerStudiesTalks]
-- [Muon DPG Office](https://twiki.cern.ch/twiki/bin/view/CMS/MuonDPGOffice) [MuonDPGOffice]
-- [CMS Machine Learning](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMachineLearning) [CMSMachineLearning]
+  - [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) [HighLevelTriggerPhase2]
+  - [Talks and posters about the CMS High Level Trigger](https://twiki.cern.ch/twiki/bin/view/CMSPublic/TriggerStudiesTalks) [TriggerStudiesTalks]
+- [Muon Wiki Pages](https://twiki.cern.ch/twiki/bin/view/CMS/MuonWikiHome) [MuonWikiHome]
+  - [Muon DPG Office](https://twiki.cern.ch/twiki/bin/view/CMS/MuonDPGOffice) [MuonDPGOffice]
+  - [Muon DT](https://twiki.cern.ch/twiki/bin/view/CMS/MuonDT) [MuonDT]
+  - [Muon CSC](https://twiki.cern.ch/twiki/bin/view/CMS/MuonCSC) [MuonCSC]
+    - [CSC Geometry](https://twiki.cern.ch/twiki/bin/view/CMS/CSCDPGGeometry) [CSCDPGGeometry]
+    - [CSC-related figures and diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/CSCDPGFigures) [CSCDPGFigures]
+  - [Muon RPC](https://twiki.cern.ch/twiki/bin/view/CMS/RPComm) [RPComm]
+  - [Muon GEM](https://twiki.cern.ch/twiki/bin/view/CMS/MuonGEM) [MuonGEM]
+    - [GEM Trigger Road Map](https://twiki.cern.ch/twiki/bin/view/CMS/GEMCSCIntegratedLocalTrigger) [GEMCSCIntegratedLocalTrigger]
+
 - Specific for Run 2:
   - [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [L1TriggerPhaseIDiagrams]
   - [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [L1KnownIssues]
@@ -67,7 +78,9 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - Specific for Phase 2:
   - [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMSMuonLocalTriggerPhase2]
 - Non-Wikis:
-  - CMS CSC Level-1 Track Finder Home Page: http://cms-csctf.web.cern.ch/
+  - CMS CSC Level-1 Track Finder Home Page: <http://cms-csctf.web.cern.ch/>
+  - Darin Acosta's CSC Track-Finder webpage: <http://www.phys.ufl.edu/~acosta/cms/trigger.html>
+  - UCLA CSC Trigger webpage: <http://cmsdoc.cern.ch/cms/MUON/cscTrigger/html/CERN/>
 
 ### Online Software
 
@@ -160,7 +173,9 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 ### Papers and Publications
 
 - CMS Collaboration, [The CMS muon project : Technical Design Report](https://cds.cern.ch/record/343814), CERN-LHCC-97-032, CMS-TDR-3. (1997) [![Inspire][inspire]](http://inspirehep.net/record/1614056)
+  - See also: <https://twiki.cern.ch/twiki/bin/view/CMS/MuonTDR>
 - CMS Collaboration, [CMS TriDAS project : Technical Design Report, Volume 1: The Trigger Systems](https://cds.cern.ch/record/706847), CERN-LHCC-2000-038, CMS-TDR-6-1. (2000) [![Inspire][inspire]](http://inspirehep.net/record/541210)
+  - See also: <http://cmsdoc.cern.ch/cms/TDR/TRIGGER-public/trigger.html>
 - D. Acosta et al., [Development and test of a prototype regional track-finder for the Level-1 trigger of the cathode strip chamber muon system of CMS](https://cds.cern.ch/record/623631). NIM A496 (2003) 64-82. (2003) [![Inspire][inspire]](http://inspirehep.net/record/614106)
 - CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire][inspire]](http://inspirehep.net/record/796887)
 - CMS Collaboration, [Technical proposal for the upgrade of the CMS detector through 2020](https://cdsweb.cern.ch/record/1355706), CERN-LHCC-2011-006, LHCC-P-004. (2011)
@@ -219,20 +234,30 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 #### CSC Notes
 
+- J. Hauser et al., [CMS Endcap Muon Trigger System Inter-Module Signals](http://cmsdoc.cern.ch/cms/MUON/cscTrigger/html/ucla/triggerbits.pdf). (2001-01-18)
+  - [![PDF][pdf] triggerbits.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/2014507/3477130/triggerbits.pdf)
 - J. Hauser et al., [CSC Strip, Wire, Chamber, and Electronics Conventions](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20IN-2007/024), CMS-IN-2007-024. (2008-08-06)
   - [![PDF][pdf] IN2007_024.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/2014507/3085615/IN2007_024.pdf)
 
 #### CSCTF Notes
 
+See also: <http://cms-csctf.web.cern.ch/publications/publications.html>
+
 - D. Acosta, M. Stoutimore, and S.M. Wang, [Simulated Performance of the CSC Track-Finder](https://cds.cern.ch/record/687344), CMS-NOTE-2001-033. (2001-06-21)
   - [![PDF][pdf] likelihood_note01_033.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085606/likelihood_note01_033.pdf)
+- D. Acosta et al., [The CSC Beam Halo Muon Trigger in CMS](http://cms.cern.ch/iCMS/jsp/openfile.jsp?type=IN&year=2008&files=IN2008_041.pdf), CMS-IN-2008-041. (2008-10-23)
+  - [![PDF][pdf] IN2008_041.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3477077/IN2008_041.pdf)
 
 #### EMTF Notes
+
+See also: <https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger>
 
 - M. Carver, _Description of Upgraded CSCTF Algorithm_. (2014-03-10)
   - [![PDF][pdf] Description_of_Upgraded_CSCTF_Algorithm.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085656/Description_of_Upgraded_CSCTF_Algorithm.pdf)
 - A. Madorsky, _CMS Endcap Muon Track Finder Control interface specifications_. (2014-12-04)
   - [![PDF][pdf] EMU_TF_registers.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085621/EMU_TF_registers.pdf)
+- A. Madorsky, _Modular Track Finder_. (2015-02-05)
+  - [![PDF][pdf] MTF_specs.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3477072/MTF_specs.pdf)
 - A. Madorsky, _CMS Endcap Muon Track Finder firmware algorithm description_. (2015-06-29)
   - [![DOC][doc] EMU_TF_algorithm-1.docx](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085619/EMU_TF_algorithm-1.docx) [![PDF][pdf] EMU_TF_algorithm-1.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085634/EMU_TF_algorithm-1.pdf)
   - [![DOC][doc] EMU_TF_algorithm-2.docx](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3220446/EMU_TF_algorithm-2.docx) [![PDF][pdf] EMU_TF_algorithm-2.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3220447/EMU_TF_algorithm-2.pdf)
@@ -246,6 +271,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - A. Madorsky, _CPPF to EMTF data format_. (2017-03-17)
   - [![DOC][doc] CPPF-EMTF-format_20170317.docx](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085651/CPPF-EMTF-format_20170317.docx) [![PDF][pdf] CPPF-EMTF-format_20170317.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085652/CPPF-EMTF-format_20170317.pdf)
 - A. Madorsky, _CMS Muon Endcap Track Finder DAQ readout format_. (2018-05-01)
+  - [![PDF][pdf] EMU_TF_DAQ_format_2018_03_23.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3477125/EMU_TF_DAQ_format_2018_03_23.pdf)
   - [![PDF][pdf] EMU_TF_DAQ_format_2018_05_01.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085649/EMU_TF_DAQ_format_2018_05_01.pdf)
 - A. Brinkerhoff and A. Madorsky, _EMTF PT LUT address formation (ver 2017)_. (2019-02-26)
   - [![DOC][doc] EMU_TF_PT_LUT_address_formation_2019_02_26.docx](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085650/EMU_TF_PT_LUT_address_formation_2019_02_26.docx) [![PDF][pdf] EMU_TF_PT_LUT_address_formation_2019_02_26.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085653/EMU_TF_PT_LUT_address_formation_2019_02_26.pdf)
@@ -276,6 +302,8 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 #### Working Documents
 
+- Unknown author, _Table of CSC chamber parameters_. (2001-05-17)
+  - [![PDF][pdf] csc_params.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3477132/csc_params.pdf)
 - A. Brinkerhoff, _The EMTF algorithm_. (2016-08-19)
   - [![PDF][pdf] EMTF_algorithm_AWB_08_19.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085600/EMTF_algorithm_AWB_08_19.pdf)
 - M. Carver, _EMTF Emulator Flow Chart_. (2016-08-23)
@@ -434,6 +462,14 @@ MTF7 schematic. It uses a dual-card design with custom backplane connectors.
 <a href="figures/emtf_system_9.pdf"><img src="figures/emtf_system_9.png" height="200" /></a>
 <br />
 Useful slides prepared by A. Brinkerhoff about the CSC and RPC chambers, and the EMTF trigger sectors.
+</p>
+
+- Neighbor sharing
+
+<p align="center">
+<a href="figures/neighbor_sharing.png"><img src="figures/neighbor_sharing.png" height="200" /></a>
+<br />
+<strong>Left</strong>: Chambers belong to neighbor sector in ME1 are highlighted. <strong>Right</strong>: Chambers belong to neighbor sector in ME2, ME3, and ME4 are highlighted.
 </p>
 
 - Phase-2 muon trigger primitive (TP) architecture
