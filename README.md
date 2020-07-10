@@ -98,6 +98,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - [EMTF emulator](https://github.com/cms-sw/cmssw/tree/master/L1Trigger/L1TMuonEndCap) [L1Trigger/L1TMuonEndCap]
 - [EMTF packer/unpacker](https://github.com/cms-sw/cmssw/tree/master/EventFilter/L1TRawToDigi) [EventFilter/L1TRawToDigi]
 - [EMTF DQM](https://github.com/cms-sw/cmssw/tree/master/DQM/L1TMonitor) [DQM/L1TMonitor]
+- [EMTF O2O](https://github.com/cms-sw/cmssw/tree/master/L1TriggerConfig/L1TConfigProducers) [L1TriggerConfig/L1TConfigProducers]
 
 ### Online Software
 
@@ -270,11 +271,12 @@ See also: <https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger>
   - [![DOC][doc] emtf-gmt-output_20170316.docx](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085640/emtf-gmt-output_20170316.docx) [![PDF][pdf] emtf-gmt-output_20170316.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085645/emtf-gmt-output_20170316.pdf)
 - A. Madorsky, _CPPF to EMTF data format_. (2017-03-17)
   - [![DOC][doc] CPPF-EMTF-format_20170317.docx](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085651/CPPF-EMTF-format_20170317.docx) [![PDF][pdf] CPPF-EMTF-format_20170317.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085652/CPPF-EMTF-format_20170317.pdf)
-- A. Madorsky, _CMS Muon Endcap Track Finder DAQ readout format_. (2018-05-01)
-  - [![PDF][pdf] EMU_TF_DAQ_format_2018_03_23.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3477125/EMU_TF_DAQ_format_2018_03_23.pdf)
-  - [![PDF][pdf] EMU_TF_DAQ_format_2018_05_01.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085649/EMU_TF_DAQ_format_2018_05_01.pdf)
 - A. Brinkerhoff and A. Madorsky, _EMTF PT LUT address formation (ver 2017)_. (2019-02-26)
   - [![DOC][doc] EMU_TF_PT_LUT_address_formation_2019_02_26.docx](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085650/EMU_TF_PT_LUT_address_formation_2019_02_26.docx) [![PDF][pdf] EMU_TF_PT_LUT_address_formation_2019_02_26.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085653/EMU_TF_PT_LUT_address_formation_2019_02_26.pdf)
+- A. Madorsky, _CMS Muon Endcap Track Finder DAQ readout format_. (2020-05-21)
+  - [![PDF][pdf] EMU_TF_DAQ_format_2018_03_23.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3477125/EMU_TF_DAQ_format_2018_03_23.pdf)
+  - [![PDF][pdf] EMU_TF_DAQ_format_2018_05_01.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085649/EMU_TF_DAQ_format_2018_05_01.pdf)
+  - [![PDF][pdf] EMU_TF_DAQ_format_2020_05_21.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3479975/EMU_TF_DAQ_format_2020_05_21.pdf)
 
 #### EMTF++ Notes
 
@@ -402,84 +404,53 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 - L1 Phase 2 Upgrade TDR Review [Part 1](https://indico.cern.ch/event/891695/), [Part 2](https://indico.cern.ch/event/891704/). (2020-05-06 &rarr; 2020-05-07)
 - [ACES 2020 - Seventh Common ATLAS CMS Electronics Workshop for LHC Upgrades](https://indico.cern.ch/event/863071/timetable/?view=standard). (2020-05-26 &rarr; 2020-05-28)
+- [CMS GEM Workshop 28](https://indico.cern.ch/event/924698/). (2020-06-10 &rarr; 2020-06-12)
 
 ## Figures
 
-- Run 2 muon geometry
+| Run 2 muon geometry |
+|---|
+| [![img](figures/CMS-MUO-16-001_Figure_001.png)](figures/CMS-MUO-16-001_Figure_001.pdf) |
 
-<p align="center">
-<a href="figures/CMS-MUO-16-001_Figure_001.pdf"><img src="figures/CMS-MUO-16-001_Figure_001.png" height="300" /></a>
-</p>
+| Phase-2 muon geometry |
+|---|
+| [![img](figures/cms_upg_o_g_b_ni_gem_re1_me0_grid_160229.png)](figures/cms_upg_o_g_b_ni_gem_re1_me0_grid_160229.pdf) |
 
-- Phase-2 muon geometry
+| EMTF crates | EMTF crates |
+|---|---|
+| [![img](figures/emtf_crates_1.jpg)](figures/emtf_crates_1.jpg) | [![img](figures/emtf_crates_2.jpg)](figures/emtf_crates_2.jpg) |
 
-<p align="center">
-<a href="figures/cms_upg_o_g_b_ni_gem_re1_me0_grid_160229.pdf"><img src="figures/cms_upg_o_g_b_ni_gem_re1_me0_grid_160229.png" height="300" /></a>
-</p>
+| MTF7 schematic | |
+|---|---|
+| [![img](figures/mtf7_1.png)](figures/mtf7_1.png) | <img src="figures/1x1-ffffff7f.png" width="656" /> |
 
-- EMTF crates
+| MTF7 optical module | MTF7 core logic module |
+|---|---|
+| [![img](figures/mtf7_2.png)](figures/mtf7_2.png) | [![img](figures/mtf7_3.png)](figures/mtf7_3.png) |
 
-<p align="center">
-<a href="figures/emtf_crates_1.jpg"><img src="figures/emtf_crates_1.jpg" height="300" /></a>
-<a href="figures/emtf_crates_2.jpg"><img src="figures/emtf_crates_2.jpg" height="300" /></a>
-</p>
+| MTF7 core logic module | MTF7 core logic module |
+|---|---|
+| [![img](figures/mtf7_4.jpg)](figures/mtf7_4.jpg) | [![img](figures/mtf7_5.jpg)](figures/mtf7_5.jpg) |
 
-- MTF7 trigger processor
+| CSC trigger sectors | CSC chambers | RPC sectors |
+|---|---|---|
+| [![img](figures/emtf_system_1.png)](figures/emtf_system_1.pdf) | [![img](figures/emtf_system_2.png)](figures/emtf_system_2.pdf) | [![img](figures/emtf_system_3.png)](figures/emtf_system_3.pdf)
 
-<p align="center">
-<a href="figures/mtf7_1.png"><img src="figures/mtf7_1.png" height="200" /></a>
-<br />
-MTF7 schematic. It uses a dual-card design with custom backplane connectors.
-</p>
+| RPC sectors | CSC single sector | RPC single sector |
+|---|---|---|
+| [![img](figures/emtf_system_4.png)](figures/emtf_system_4.pdf) | [![img](figures/emtf_system_5.png)](figures/emtf_system_5.pdf) | [![img](figures/emtf_system_6.png)](figures/emtf_system_6.pdf)
 
-<p align="center">
-<a href="figures/mtf7_2.png"><img src="figures/mtf7_2.png" height="200" /></a>
-<a href="figures/mtf7_3.png"><img src="figures/mtf7_3.png" height="200" /></a>
-<br />
-<strong>Left</strong>: Optical module. <strong>Right</strong>: Core logic module (main FPGA is underneath the heat sink).
-</p>
+| RPC single sector | CSC front/rear | RPC-CPPF-EMTF mapping |
+|---|---|---|
+| [![img](figures/emtf_system_7.png)](figures/emtf_system_7.pdf) | [![img](figures/emtf_system_8.png)](figures/emtf_system_8.pdf) | [![img](figures/emtf_system_9.png)](figures/emtf_system_9.pdf)
 
-<p align="center">
-<a href="figures/mtf7_4.jpg"><img src="figures/mtf7_4.jpg" height="200" /></a>
-<a href="figures/mtf7_5.jpg"><img src="figures/mtf7_5.jpg" height="200" /></a>
-<br />
-<strong>Left</strong>: Core logic module with a Xilinx Virtex-7 FPGA. It is the large silver chip near the top left. <strong>Right</strong>: Core logic module with the 1.2 GB PT LUT (30-bit address space, for 9-bit PT words). They are the 8 black chips near the top right.
-</p>
+| Neighbor sharing |
+|---|
+| [![img](figures/neighbor_sharing.png)](figures/neighbor_sharing.png) |
 
-- CSC/RPC chambers, EMTF trigger sectors
-
-<p align="center">
-<a href="figures/emtf_system_1.pdf"><img src="figures/emtf_system_1.png" height="200" /></a>
-<a href="figures/emtf_system_2.pdf"><img src="figures/emtf_system_2.png" height="200" /></a>
-<a href="figures/emtf_system_3.pdf"><img src="figures/emtf_system_3.png" height="200" /></a>
-<br />
-<a href="figures/emtf_system_4.pdf"><img src="figures/emtf_system_4.png" height="200" /></a>
-<a href="figures/emtf_system_5.pdf"><img src="figures/emtf_system_5.png" height="200" /></a>
-<a href="figures/emtf_system_6.pdf"><img src="figures/emtf_system_6.png" height="200" /></a>
-<br />
-<a href="figures/emtf_system_7.pdf"><img src="figures/emtf_system_7.png" height="200" /></a>
-<a href="figures/emtf_system_8.pdf"><img src="figures/emtf_system_8.png" height="200" /></a>
-<a href="figures/emtf_system_9.pdf"><img src="figures/emtf_system_9.png" height="200" /></a>
-<br />
-Useful slides prepared by A. Brinkerhoff about the CSC and RPC chambers, and the EMTF trigger sectors.
-</p>
-
-- Neighbor sharing
-
-<p align="center">
-<a href="figures/neighbor_sharing.png"><img src="figures/neighbor_sharing.png" height="200" /></a>
-<br />
-<strong>Left</strong>: Chambers belong to neighbor sector in ME1 are highlighted. <strong>Right</strong>: Chambers belong to neighbor sector in ME2, ME3, and ME4 are highlighted.
-</p>
-
-- Phase-2 muon trigger primitive (TP) architecture
-
-<p align="center">
-<a href="figures/muon_tp_barrel_architecture.pdf"><img src="figures/muon_tp_barrel_architecture.png" height="200" /></a>
-<a href="figures/muon_tp_endcap_architecture.pdf"><img src="figures/muon_tp_endcap_architecture.png" height="200" /></a>
-<br />
-<strong>Left</strong>: Muon barrel TP architecture. <strong>Right</strong>: Muon endcap TP architecture.
-</p>
+| Phase-2 barrel TP architecture | Phase-2 endcap TP architecture |
+|---|---|
+| [![img](figures/muon_tp_barrel_architecture.png)](figures/muon_tp_barrel_architecture.pdf) | [![img](figures/muon_tp_endcap_architecture.png)](figures/muon_tp_endcap_architecture.pdf) |
 
 
 ## Acknowledgement
