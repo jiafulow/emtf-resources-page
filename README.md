@@ -196,17 +196,23 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001/)
 - CMS Collaboration, [Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2721198), CMS-TRG-17-001, CERN-EP-2020-065. (2020) [![Inspire][inspire]](http://inspirehep.net/record/1801861)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-17-001/)
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS Level-1 Trigger](https://cds.cern.ch/record/2714892?), CERN-LHCC-2020-004, CMS-TDR-021. (2020)
 
 ### Proceedings
 
-- J. Hauser et al., [Experience with Trigger Electronics for the Cathode Strip Chamber System of CMS](https://cds.cern.ch/record/814259). (2004)
+- B. Scurlock et al., [A 3-D Track-Finding Processor for the CMS Level-1 Muon Trigger](https://cds.cern.ch/record/622151), CHEP2003. (2003) [![Inspire][inspire]](http://inspirehep.net/record/621399)
+- J. Hauser et al., [Experience with Trigger Electronics for the Cathode Strip Chamber System of CMS](https://cds.cern.ch/record/814259), LECC2004. (2004)
 - A. Madorsky et al., [Design Considerations for an Upgraded Track-Finding Processor in the Level-1 Endcap Muon Trigger of CMS for SLHC Operations](https://cds.cern.ch/record/1358819), TWEPP09, CMS-CR-2009-316. (2009) [![Inspire][inspire]](http://inspirehep.net/record/1654156)
+- J. Brooke, [Performance of the CMS Level-1 Trigger](https://cds.cern.ch/record/1496888), ICHEP2012, CMS-CR-2012-322. (2012) [![Inspire][inspire]](http://inspirehep.net/record/1218375)
+- P. Klabbers, [Operation and performance of the CMS Level-1 Trigger during 7 TeV Collisions](https://cds.cern.ch/record/2103410), TIPP2011. (2012) [![Inspire][inspire]](http://inspirehep.net/record/1313506)
 - A. Madorsky et al., [The CMS Modular Track Finder Boards, MTF6 and MTF7](https://cds.cern.ch/record/1627822), TWEPP13, CMS-CR-2013-383. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1276615)
 - P. Bortignon, [Design and performance of the upgrade of the CMS L1 muon trigger](https://cds.cern.ch/record/2043177), 13th Pisa Meeting on Advanced Detectors, CMS-CR-2015-125. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1458015)
 - M. Matveev, [Commissioning of the Upgraded CSC Endcap Muon Port Cards at CMS](https://cds.cern.ch/record/2103727), TWEPP15, CMS-CR-2015-273. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1416321)
+- D. Rabady et al., [Upgrade of the CMS muon trigger system in the barrel region](https://cds.cern.ch/record/2153775), VCI2016, CMS-CR-2016-038. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1513598)
 - N.P. Ghanathe et al., [Software and Firmware co-development using High-level Synthesis](https://cds.cern.ch/record/2233159), TWEPP16, CMS-CR-2016-287. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1513692)
+- C. Lazaridis et al., [SWATCH Common software for controlling and monitoring the upgraded CMS Level-1 trigger](https://cds.cern.ch/record/2255266), CHEP2016, CMS-CR-2017-041. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1638264)
 - A. Madorsky et al., [Electronics for CMS Endcap Muon Level-1 Trigger System Phase-1 and HL LHC Upgrades Summary](https://cds.cern.ch/record/2264997), INSTR17, CMS-CR-2017-132. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1609400)
-- A. Carnes et al., [Boosted Decision Trees in the Level-1 Muon Endcap Trigger at CMS](https://cds.cern.ch/record/2290188), ACAT17, CMS-CR-2017-357. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1700005)
+- A. Carnes et al., [Boosted Decision Trees in the Level-1 Muon Endcap Trigger at CMS](https://cds.cern.ch/record/2290188), ACATi2017, CMS-CR-2017-357. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1700005)
 - J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1665070)
 
 ### Technical Reports
@@ -331,6 +337,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 ### 2017 and before
 
+- N. Ellis, _Trigger and data acquisition_, [arXiv:1010.2942 [physics.ins-det]](https://arxiv.org/abs/1010.2942). (2010-10-14)
 - [L1 Trigger SWATCH tutorial](https://indico.cern.ch/event/436271/attachments/1136924/1627286/L1T_SWATCH_tutorial_20150806_v0.pdf) by Tom Williams. (2015-08-06)
 - [CSC-101 for newcomers](https://indico.cern.ch/event/522500/). (2016-05-30 &rarr; 2016-06-01)
 - [L1CE quick start guide](https://docs.google.com/presentation/d/1gG3eawOO1iZdUfI6TEPW5hF7gd3Qup3C8rzKqy5wIDU/edit) by Giuseppe & Glenn. (2017)
@@ -448,7 +455,11 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 |---|
 | [![img](figures/neighbor_sharing.png)](figures/neighbor_sharing.png) |
 
-| Phase-2 barrel TP architecture | Phase-2 endcap TP architecture |
+| Legacy L1 muon trigger system during Run 1 | Phase-1 L1 trigger system during Run 2 |
+|---|---|
+| [![img](figures/legacy_l1_muon_trigger_system.jpg)](figures/legacy_l1_muon_trigger_system.jpg) | [![img](figures/Images_l1_upgrade_v2020_for_paper.png)](figures/Images_l1_upgrade_v2020_for_paper.pdf) |
+
+| Phase-2 muon barrel TP architecture | Phase-2 muon endcap TP architecture |
 |---|---|
 | [![img](figures/muon_tp_barrel_architecture.png)](figures/muon_tp_barrel_architecture.pdf) | [![img](figures/muon_tp_endcap_architecture.png)](figures/muon_tp_endcap_architecture.pdf) |
 
