@@ -81,6 +81,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
   - CMS CSC Level-1 Track Finder Home Page: <http://cms-csctf.web.cern.ch/>
   - Darin Acosta's CSC Track-Finder webpage: <http://www.phys.ufl.edu/~acosta/cms/trigger.html>
   - UCLA CSC Trigger webpage: <http://cmsdoc.cern.ch/cms/MUON/cscTrigger/html/CERN/>
+  - TriDAS Muon Trigger Home Page: <http://cmsdoc.cern.ch/ftp/afscms/TRIDAS/mutrig/html/>
 
 ### Online Software
 
@@ -171,58 +172,89 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 ## Documents
 
-### Papers and Publications
+### TDRs
 
 - CMS Collaboration, [The CMS muon project : Technical Design Report](https://cds.cern.ch/record/343814), CERN-LHCC-97-032, CMS-TDR-3. (1997) [![Inspire][inspire]](http://inspirehep.net/record/1614056)
   - See also: <https://twiki.cern.ch/twiki/bin/view/CMS/MuonTDR>
 - CMS Collaboration, [CMS TriDAS project : Technical Design Report, Volume 1: The Trigger Systems](https://cds.cern.ch/record/706847), CERN-LHCC-2000-038, CMS-TDR-6-1. (2000) [![Inspire][inspire]](http://inspirehep.net/record/541210)
   - See also: <http://cmsdoc.cern.ch/cms/TDR/TRIGGER-public/trigger.html>
-- D. Acosta et al., [Development and test of a prototype regional track-finder for the Level-1 trigger of the cathode strip chamber muon system of CMS](https://cds.cern.ch/record/623631). NIM A496 (2003) 64-82. (2003) [![Inspire][inspire]](http://inspirehep.net/record/614106)
-- CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire][inspire]](http://inspirehep.net/record/796887)
 - CMS Collaboration, [Technical proposal for the upgrade of the CMS detector through 2020](https://cdsweb.cern.ch/record/1355706), CERN-LHCC-2011-006, LHCC-P-004. (2011)
-- CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1240504)
 - CMS Collaboration, [CMS Technical Design Report for the Level-1 Trigger Upgrade](https://cds.cern.ch/record/1556311), CERN-LHCC-2013-011, CMS-TDR-12. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1261310)
   - Note: For CMS L1 trigger, the Phase-1 upgrade would happen during Long Shutdown 1 (LS1) in 2013-14. For the rest of CMS, the Phase-1 upgrade would typically happen during Long Shutdown 2 (LS2) in 2019-2020.
 - CMS Collaboration, [CMS Technical Design Report for the Muon Endcap GEM Upgrade](https://cds.cern.ch/record/2021453), CERN-LHCC-2015-012, CMS-TDR-013. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1614098)
 - CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1614097)
 - CMS Collaboration, [CMS Phase II Upgrade Scope Document](https://cds.cern.ch/record/2055167), CERN-LHCC-2015-019, LHCC-G-165. (2015)
-- CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1485699)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189/), CERN-LHCC-2017-012, CMS-TDR-016. (2017)
+  - See also: <https://twiki.cern.ch/twiki/bin/view/CMS/MuonPhase2TDR>
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017)
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017)
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS Level-1 Trigger](https://cds.cern.ch/record/2714892?), CERN-LHCC-2020-004, CMS-TDR-021. (2020)
+
+### Papers and Publications
+
+- M.M. Baarmand et al., [Spatial resolution attainable with cathode strip chambers at the trigger level](https://cds.cern.ch/record/394968), Nucl.Instrum.Meth.A 425 (1999) 92-105. (1999) [![Inspire][inspire]](http://inspirehep.net/record/501011)
+- D. Acosta et al., [Development and test of a prototype regional track-finder for the Level-1 trigger of the cathode strip chamber muon system of CMS](https://cds.cern.ch/record/623631), Nucl.Instrum.Meth.A 496 (2003) 64-82. (2003) [![Inspire][inspire]](http://inspirehep.net/record/614106)
+- Yu. Pakhotin et al., [Efficiency of finding muon track trigger primitives in CMS cathode strip chambers](https://cds.cern.ch/record/1073689), Nucl.Instrum.Meth.A 592 (2008) 26-37. (2007) [![Inspire][inspire]](http://inspirehep.net/record/772923)
+- A. Drozdetskiy et al., [Fast algorithm for track segment and hit reconstruction in the CMS cathode strip chambers](https://cds.cern.ch/record/1061268), Nucl.Instrum.Meth.A 589 (2008) 383-397. (2007) [![Inspire][inspire]](http://inspirehep.net/record/764609)
+- CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire][inspire]](http://inspirehep.net/record/796887)
+  - [JINST 3 (2008) S08004](http://dx.doi.org/10.1088/1748-0221/3/08/S08004)
+- CMS Collaboration, [Performance of CMS muon reconstruction in pp collision events at √s = 7 TeV](https://cds.cern.ch/record/1456510), CERN-PH-EP-2012-173, CMS-MUO-10-004. (2012) [![Inspire][inspire]](http://inspirehep.net/record/1118729)
+  - [JINST 7 (2012) P10002](http://dx.doi.org/10.1088/1748-0221/7/10/P10002)
+  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-10-004/)
+- CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1240504)
+  - [JINST 8 (2013) P11002](http://dx.doi.org/10.1088/1748-0221/8/11/P11002)
+  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-11-001/)
+- CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1485699)
 - CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire][inspire]](http://inspirehep.net/record/1667449)
+  - [JINST 13 (2018) P06015](http://dx.doi.org/10.1088/1748-0221/13/06/P06015)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
 - CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1769184)
+  - [JINST 15 (2020) P02027](http://dx.doi.org/10.1088/1748-0221/15/02/P02027)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001/)
 - CMS Collaboration, [Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2721198), CMS-TRG-17-001, CERN-EP-2020-065. (2020) [![Inspire][inspire]](http://inspirehep.net/record/1801861)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-17-001/)
-- CMS Collaboration, [The Phase-2 Upgrade of the CMS Level-1 Trigger](https://cds.cern.ch/record/2714892?), CERN-LHCC-2020-004, CMS-TDR-021. (2020)
 
 ### Proceedings
 
+- D. Acosta et al., [Large CMS cathode strip chambers: Design and performance](https://cds.cern.ch/record/494639), INSTR99, Nucl.Instrum.Meth.A 453 (2000) 182-187. (2000) [![Inspire][inspire]](http://inspirehep.net/record/539171)
+- S.M. Wang et al., [A prototype track-finding processor for the level-1 trigger of the CMS endcap muon system](https://cds.cern.ch/record/555529), DPF 2000. (2001) [![Inspire][inspire]](http://inspirehep.net/record/571352)
+- A. Madorsky et al., [The Track-Finding Processor for the Level-1 Trigger of the CMS Endcap Muon System](https://cds.cern.ch/record/529418), LEB2001. (2001)
 - B. Scurlock et al., [A 3-D Track-Finding Processor for the CMS Level-1 Muon Trigger](https://cds.cern.ch/record/622151), CHEP2003. (2003) [![Inspire][inspire]](http://inspirehep.net/record/621399)
 - J. Hauser et al., [Experience with Trigger Electronics for the Cathode Strip Chamber System of CMS](https://cds.cern.ch/record/814259), LECC2004. (2004)
-- A. Madorsky et al., [Design Considerations for an Upgraded Track-Finding Processor in the Level-1 Endcap Muon Trigger of CMS for SLHC Operations](https://cds.cern.ch/record/1358819), TWEPP09, CMS-CR-2009-316. (2009) [![Inspire][inspire]](http://inspirehep.net/record/1654156)
+- A. Madorsky et al., [Performance of a Pre-Production Track-Finding Processor for the Level-1 Trigger of the CMS Endcap Muon System](https://cds.cern.ch/record/814321), LECC2004. (2004)
+- A. Madorsky et al., [Design Considerations for an Upgraded Track-Finding Processor in the Level-1 Endcap Muon Trigger of CMS for SLHC Operations](https://cds.cern.ch/record/1234904), TWEPP09, CMS-CR-2009-316. (2009) [![Inspire][inspire]](http://inspirehep.net/record/1654156)
+- M. Matveev and P. Padley, _Upgrade of the CSC endcap muon port card at CMS_, TWEPP10. (2010) [![Inspire][inspire]](http://inspirehep.net/record/881562)
 - J. Brooke, [Performance of the CMS Level-1 Trigger](https://cds.cern.ch/record/1496888), ICHEP2012, CMS-CR-2012-322. (2012) [![Inspire][inspire]](http://inspirehep.net/record/1218375)
 - P. Klabbers, [Operation and performance of the CMS Level-1 Trigger during 7 TeV Collisions](https://cds.cern.ch/record/2103410), TIPP2011. (2012) [![Inspire][inspire]](http://inspirehep.net/record/1313506)
 - A. Madorsky et al., [The CMS Modular Track Finder Boards, MTF6 and MTF7](https://cds.cern.ch/record/1627822), TWEPP13, CMS-CR-2013-383. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1276615)
+- M. Matveev et al., _Upgrade of the Muon Sorter in the Cathode Strip Chamber Level 1 Trigger System at CMS_, TWEPP13. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1266352)
+- M. Jeitler et al., [Upgrade of the Global Muon Trigger for the CMS experiment](https://cds.cern.ch/record/1709946), TWEPP13. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1269654)
 - P. Bortignon, [Design and performance of the upgrade of the CMS L1 muon trigger](https://cds.cern.ch/record/2043177), 13th Pisa Meeting on Advanced Detectors, CMS-CR-2015-125. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1458015)
 - M. Matveev, [Commissioning of the Upgraded CSC Endcap Muon Port Cards at CMS](https://cds.cern.ch/record/2103727), TWEPP15, CMS-CR-2015-273. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1416321)
+- N. Loukas et al., [The CMS Level-1 Trigger Barrel Track Finder](https://cds.cern.ch/record/2102885), TWEPP15, CMS-CR-2015-304. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1430836)
 - D. Rabady et al., [Upgrade of the CMS muon trigger system in the barrel region](https://cds.cern.ch/record/2153775), VCI2016, CMS-CR-2016-038. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1513598)
 - N.P. Ghanathe et al., [Software and Firmware co-development using High-level Synthesis](https://cds.cern.ch/record/2233159), TWEPP16, CMS-CR-2016-287. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1513692)
+- J. Fulcher et al., [The New Global Muon Trigger of the CMS Experiment](https://cds.cern.ch/record/2302108), RT2016. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1629878)
 - C. Lazaridis et al., [SWATCH Common software for controlling and monitoring the upgraded CMS Level-1 trigger](https://cds.cern.ch/record/2255266), CHEP2016, CMS-CR-2017-041. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1638264)
 - A. Madorsky et al., [Electronics for CMS Endcap Muon Level-1 Trigger System Phase-1 and HL LHC Upgrades Summary](https://cds.cern.ch/record/2264997), INSTR17, CMS-CR-2017-132. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1609400)
-- A. Carnes et al., [Boosted Decision Trees in the Level-1 Muon Endcap Trigger at CMS](https://cds.cern.ch/record/2290188), ACATi2017, CMS-CR-2017-357. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1700005)
+- A. Carnes et al., [Boosted Decision Trees in the Level-1 Muon Endcap Trigger at CMS](https://cds.cern.ch/record/2290188), ACAT2017, CMS-CR-2017-357. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1700005)
 - J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1665070)
 
-### Technical Reports
+### Technical Notes
 
 #### Detector Performance Summaries
 
 - CMS Collaboration, [Efficiency of the CMS level 1 muon trigger system in 2011 and 2012](https://cds.cern.ch/record/1478130), CMS-DP-2012-019. (2012)
 - CMS Collaboration, [Single Muon efficiencies in 2012 Data](https://cds.cern.ch/record/1536406), CMS-DP-2013-009. (2013)
+- CMS Collaboration, [Performance of the CMS Muon Detectors in early 2016 collision runs](https://cds.cern.ch/record/2160350), CMS-DP-2016-023. (2016)
+  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/MuonDPGPublic160609)
+- CMS Collaboration, [Pre-LHCP 2016 L1 muon trigger performance](https://cds.cern.ch/record/2160351), CMS-DP-2016-024. (2016)
+- CMS Collaboration, [Performance of the CMS Muon Detectors in 2016 collision runs](https://cds.cern.ch/record/2202964), CMS-DP-2016-046. (2016)
+  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/MuonDPGPublic160729)
 - CMS Collaboration, [L1 muon trigger performance - ICHEP16 dataset](https://cds.cern.ch/record/2202986), CMS-DP-2016-050. (2016)
   - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TMuonPerformanceICHEP16)
+- CMS Collaboration, [Performance of the CMS TwinMux Algorithm in late 2016 pp collision runs](https://cds.cern.ch/record/2239285), CMS-DP-2016-074. (2016)
+  - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/MuonDPGPublic161124)
 - CMS Collaboration, [Level-1 muon trigger performance in 2017 data and comparison with the legacy muon trigger system](https://cds.cern.ch/record/2286327), CMS-DP-2017-041. (2017)
   - [Twiki](https://twiki.cern.ch/twiki/bin/view/CMSPublic/Level1TriggerMuonPerformance2017andLegacy)
 - CMS Collaboration, [Level-1 muon trigger performance with the full 2017 dataset](https://cds.cern.ch/record/2306376), CMS-DP-2018-008. (2018)
@@ -250,8 +282,22 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 See also: <http://cms-csctf.web.cern.ch/publications/publications.html>
 
-- D. Acosta, M. Stoutimore, and S.M. Wang, [Simulated Performance of the CSC Track-Finder](https://cds.cern.ch/record/687344), CMS-NOTE-2001-033. (2001-06-21)
+See also: <http://cmsdoc.cern.ch/ftp/afscms/TRIDAS/mutrig/html/mtdoc.htm#CSC>
+
+- G. Wrochna et al., [CMS Endcap Muon RPC - CSC Trigger Connection. Specification Proposal](http://cmsdoc.cern.ch/documents/all98.html#IN1998030), CMS-IN-1998-030. (1998-12-14)
+  - [![PDF][pdf] in98_030.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3493317/in98_030.pdf)
+- G.M. Dallavalle et al., [Issues Related to the Separation of the Barrel and Endcap Muon Trigger Track-Finders](http://cmsdoc.cern.ch/documents/all99.html#IN1999015), CMS-IN-1999-015. (1999-04-26)
+  - [![PDF][pdf] in99_015.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3493310/in99_015.pdf)
+- D. Acosta, S.M. Wang, and G. Wrochna, [Muon Trigger Sectors and CSC Layout](http://cmsdoc.cern.ch/documents/all99.html#IN1999022), CMS-IN-1999-022. (1999-05-31)
+  - [![PDF][pdf] in99_022.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3493311/in99_022.pdf)
+- D. Acosta et al., [The Track-Finding Processor for the Level-1 Trigger of the CMS Endcap Muon System](https://cds.cern.ch/record/433826), CMS-NOTE-1999-060. (1999-12-08) [![Inspire][inspire]](http://inspirehep.net/record/876503)
+  - [![PDF][pdf] note99_060.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3493312/note99_060.pdf)
+- S.M. Wang and D. Acosta, [Simulation Studies on the Transverse Momentum Resolution of the CSC Track-Finder](http://cmsdoc.cern.ch/documents/all00.html#IN2000026), CMS-IN-2000-026. (2000-04-05)
+  - [![PDF][pdf] in00_026.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3493313/in00_026.pdf)
+- D. Acosta, M. Stoutimore, and S.M. Wang, [Simulated Performance of the CSC Track-Finder](https://cds.cern.ch/record/687344), CMS-NOTE-2001-033. (2001-06-21) [![Inspire][inspire]](http://inspirehep.net/record/876238)
   - [![PDF][pdf] likelihood_note01_033.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3085606/likelihood_note01_033.pdf)
+- D. Acosta et al., [Specification of the Interface between the DT and CSC Level-1 Track-Finders](http://cmsdoc.cern.ch/documents/all02.html#IN2002040), CMS-IN-2002-040. (2002-06-11)
+  - [![PDF][pdf] in02_040.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3493315/in02_040.pdf)
 - D. Acosta et al., [The CSC Beam Halo Muon Trigger in CMS](http://cms.cern.ch/iCMS/jsp/openfile.jsp?type=IN&year=2008&files=IN2008_041.pdf), CMS-IN-2008-041. (2008-10-23)
   - [![PDF][pdf] IN2008_041.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874296/3477077/IN2008_041.pdf)
 
