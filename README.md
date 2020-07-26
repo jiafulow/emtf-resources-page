@@ -38,15 +38,16 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 - [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [EMTFAnalyzer]
 - [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [EndcapMuonTrigger]
-  - :memo: &nbsp; Contain MTF7 & EMTF documentation and source codes.
+  > Contain MTF7 & EMTF documentation and source codes.
 - [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) [L1CSCTrackFinder]
+  > Contain CSCTF documentation and source codes.
 - [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [L1CSCTriggerPrimitives]
 - [L1T Offline Development Planning Page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TOfflineDev) [SWGuideL1TOfflineDev]
-  - :memo: &nbsp; Provide instructions for developing L1 Trigger emulator code, in particular the L1T NTuple code.
+  > Provide instructions for developing L1 Trigger emulator code, in particular the L1T NTuple code.
 - [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [SWGuideL1TStage2Instructions]
-  - :memo: &nbsp; Provide instructions for running L1 Trigger emulator, in particular the L1T NTuples.
+  > Provide instructions for running L1 Trigger emulator, in particular the L1T NTuples.
 - [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [SWGuideL1TPhase2Instructions]
-  - :memo: &nbsp; Provide instructions for running L1 Trigger emulator for Phase-2 Upgrade.
+  > Provide instructions for running L1 Trigger emulator for Phase-2 Upgrade.
 
 - [Level-1 Trigger](https://twiki.cern.ch/twiki/bin/view/CMS/L1Trigger) [L1Trigger]
   - [Level-1 Trigger Public Performance Results](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TriggerDPGResults) [L1TriggerDPGResults]
@@ -69,12 +70,12 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
   - [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [L1TriggerPhaseIDiagrams]
   - [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [L1KnownIssues]
   - [CSC OTMB and relevant configuration tests in autumn 2018](https://twiki.cern.ch/twiki/bin/view/CMS/CSCOTMB2018) [CSCOTMB2018]
-    - :memo: &nbsp; Describe the modified CSC LCT algorithm versions tested in data in 2018.
+    > Describe the modified CSC LCT algorithm versions tested in data in 2018.
 - Specific for Run 3:
   - [Coordination of CSC LCT + GEM with EMTF for Run 3](https://twiki.cern.ch/twiki/bin/view/CMS/CscLctGemEmtfRun3) [CscLctGemEmtfRun3]
-    - :memo: &nbsp; Describe the studies related to GEM TPs in the EMTF (no longer updated).
+    > Describe the studies related to GEM TPs in the EMTF (no longer updated).
   - [GEM CSC Trigger Task Force Run-3](https://twiki.cern.ch/twiki/bin/view/CMS/GEMCSCTriggerTaskForceRun3) [GEMCSCTriggerTaskForceRun3]
-    - :memo: &nbsp; Describe the studies related to GEM & CSC TPs for Run-3.
+    > Describe the studies related to GEM & CSC TPs for Run-3.
 - Specific for Phase 2:
   - [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMSMuonLocalTriggerPhase2]
 - Non-Wikis:
@@ -86,7 +87,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 ### Online Software
 
 - [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) [EMTFOnCallExpert]
-  - :memo: &nbsp; Mostly for the EMTF on-call shifter, but has lots of other info. It also contains a [list of other EMTF pages](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert#Important_Twiki_Pages).
+  > Mostly for the EMTF on-call shifter, but has lots of other info. It also contains a [list of other EMTF pages](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert#Important_Twiki_Pages).
 - [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) [EMTFSwatchControlSoftware]
 - [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) [OnlineWBTrigger]
 - [.CMS Cluster user's guide](https://twiki.cern.ch/twiki/bin/view/CMS/ClusterUsersGuide) [ClusterUsersGuide]
@@ -174,21 +175,25 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 ### TDRs
 
-- CMS Collaboration, [The CMS muon project : Technical Design Report](https://cds.cern.ch/record/343814), CERN-LHCC-97-032, CMS-TDR-3. (1997) [![Inspire][inspire]](http://inspirehep.net/record/1614056)
+- CMS Collaboration, [The CMS muon project : Technical Design Report](https://cds.cern.ch/record/343814), CERN-LHCC-97-032, CMS-TDR-3. (1997) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1614056)
   - See also: <https://twiki.cern.ch/twiki/bin/view/CMS/MuonTDR>
-- CMS Collaboration, [CMS TriDAS project : Technical Design Report, Volume 1: The Trigger Systems](https://cds.cern.ch/record/706847), CERN-LHCC-2000-038, CMS-TDR-6-1. (2000) [![Inspire][inspire]](http://inspirehep.net/record/541210)
+- CMS Collaboration, [CMS TriDAS project : Technical Design Report, Volume 1: The Trigger Systems](https://cds.cern.ch/record/706847), CERN-LHCC-2000-038, CMS-TDR-6-1. (2000) ![tag-l1][tag-l1] [![Inspire][inspire]](http://inspirehep.net/record/541210)
   - See also: <http://cmsdoc.cern.ch/cms/TDR/TRIGGER-public/trigger.html>
-- CMS Collaboration, [Technical proposal for the upgrade of the CMS detector through 2020](https://cdsweb.cern.ch/record/1355706), CERN-LHCC-2011-006, LHCC-P-004. (2011)
-- CMS Collaboration, [CMS Technical Design Report for the Level-1 Trigger Upgrade](https://cds.cern.ch/record/1556311), CERN-LHCC-2013-011, CMS-TDR-12. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1261310)
+- CMS Collaboration, [CMS The TriDAS Project : Technical Design Report, Volume 2: Data Acquisition and High-Level Trigger](https://cds.cern.ch/record/578006), CERN-LHCC-2002-026, CMS-TDR-6. (2002) ![tag-hlt][tag-hlt] ![tag-daq][tag-daq] [![Inspire][inspire]](http://inspirehep.net/record/609493)
+- CMS Collaboration, [CMS Physics : Technical Design Report Volume 1: Detector Performance and Software](https://cds.cern.ch/record/922757), CERN-LHCC-2006-001, CMS-TDR-8-1. (2006) [![Inspire][inspire]](http://inspirehep.net/record/1614070)
+- CMS Collaboration, [CMS Physics : Technical Design Report Volume 2: Physics Performance](https://cds.cern.ch/record/942733), CERN-LHCC-2006-021, CMS-TDR-8-2. (2007) [![Inspire][inspire]](http://inspirehep.net/record/765060)
+- CMS Collaboration, [Technical proposal for the upgrade of the CMS detector through 2020](https://cdsweb.cern.ch/record/1355706), CERN-LHCC-2011-006, LHCC-P-004. (2011) ![tag-upg][tag-upg]
+- CMS Collaboration, [CMS Technical Design Report for the Level-1 Trigger Upgrade](https://cds.cern.ch/record/1556311), CERN-LHCC-2013-011, CMS-TDR-12. (2013) ![tag-l1][tag-l1] ![tag-upg][tag-upg] [![Inspire][inspire]](http://inspirehep.net/record/1261310)
   - Note: For CMS L1 trigger, the Phase-1 upgrade would happen during Long Shutdown 1 (LS1) in 2013-14. For the rest of CMS, the Phase-1 upgrade would typically happen during Long Shutdown 2 (LS2) in 2019-2020.
-- CMS Collaboration, [CMS Technical Design Report for the Muon Endcap GEM Upgrade](https://cds.cern.ch/record/2021453), CERN-LHCC-2015-012, CMS-TDR-013. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1614098)
-- CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1614097)
-- CMS Collaboration, [CMS Phase II Upgrade Scope Document](https://cds.cern.ch/record/2055167), CERN-LHCC-2015-019, LHCC-G-165. (2015)
-- CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189/), CERN-LHCC-2017-012, CMS-TDR-016. (2017)
+- CMS Collaboration, [CMS Technical Design Report for the Muon Endcap GEM Upgrade](https://cds.cern.ch/record/2021453), CERN-LHCC-2015-012, CMS-TDR-013. (2015) ![tag-muon][tag-muon] ![tag-upg][tag-upg] [![Inspire][inspire]](http://inspirehep.net/record/1614098)
+- CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) ![tag-upg][tag-upg] [![Inspire][inspire]](http://inspirehep.net/record/1614097)
+- CMS Collaboration, [CMS Phase II Upgrade Scope Document](https://cds.cern.ch/record/2055167), CERN-LHCC-2015-019, LHCC-G-165. (2015) ![tag-upg][tag-upg]
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS Tracker](https://cds.cern.ch/record/2272264), CERN-LHCC-2017-009, CMS-TDR-014. (2017) ![tag-tracker][tag-tracker] ![tag-upg][tag-upg] [![Inspire][inspire]](http://inspirehep.net/record/1614103)
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189), CERN-LHCC-2017-012, CMS-TDR-016. (2017) ![tag-muon][tag-muon] ![tag-upg][tag-upg]
   - See also: <https://twiki.cern.ch/twiki/bin/view/CMS/MuonPhase2TDR>
-- CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017)
-- CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017)
-- CMS Collaboration, [The Phase-2 Upgrade of the CMS Level-1 Trigger](https://cds.cern.ch/record/2714892?), CERN-LHCC-2020-004, CMS-TDR-021. (2020)
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017) ![tag-l1][tag-l1] ![tag-upg][tag-upg]
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017) ![tag-daq][tag-daq] ![tag-upg][tag-upg]
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS Level-1 Trigger](https://cds.cern.ch/record/2714892), CERN-LHCC-2020-004, CMS-TDR-021. (2020) ![tag-l1][tag-l1] ![tag-upg][tag-upg]
 
 ### Papers and Publications
 
@@ -198,20 +203,20 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - A. Drozdetskiy et al., [Fast algorithm for track segment and hit reconstruction in the CMS cathode strip chambers](https://cds.cern.ch/record/1061268), Nucl.Instrum.Meth.A 589 (2008) 383-397. (2007) [![Inspire][inspire]](http://inspirehep.net/record/764609)
 - CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire][inspire]](http://inspirehep.net/record/796887)
   - [JINST 3 (2008) S08004](http://dx.doi.org/10.1088/1748-0221/3/08/S08004)
-- CMS Collaboration, [Performance of CMS muon reconstruction in pp collision events at √s = 7 TeV](https://cds.cern.ch/record/1456510), CERN-PH-EP-2012-173, CMS-MUO-10-004. (2012) [![Inspire][inspire]](http://inspirehep.net/record/1118729)
+- CMS Collaboration, [Performance of CMS muon reconstruction in pp collision events at √s = 7 TeV](https://cds.cern.ch/record/1456510), CERN-PH-EP-2012-173, CMS-MUO-10-004. (2012) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1118729)
   - [JINST 7 (2012) P10002](http://dx.doi.org/10.1088/1748-0221/7/10/P10002)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-10-004/)
-- CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) [![Inspire][inspire]](http://inspirehep.net/record/1240504)
+- CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1240504)
   - [JINST 8 (2013) P11002](http://dx.doi.org/10.1088/1748-0221/8/11/P11002)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-11-001/)
-- CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1485699)
-- CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) [![Inspire][inspire]](http://inspirehep.net/record/1667449)
+- CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) ![tag-l1][tag-l1] ![tag-hlt][tag-hlt] [![Inspire][inspire]](http://inspirehep.net/record/1485699)
+- CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1667449)
   - [JINST 13 (2018) P06015](http://dx.doi.org/10.1088/1748-0221/13/06/P06015)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
-- CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1769184)
+- CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1769184)
   - [JINST 15 (2020) P02027](http://dx.doi.org/10.1088/1748-0221/15/02/P02027)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001/)
-- CMS Collaboration, [Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2721198), CMS-TRG-17-001, CERN-EP-2020-065. (2020) [![Inspire][inspire]](http://inspirehep.net/record/1801861)
+- CMS Collaboration, [Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2721198), CMS-TRG-17-001, CERN-EP-2020-065. (2020) ![tag-l1][tag-l1] [![Inspire][inspire]](http://inspirehep.net/record/1801861)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-17-001/)
 
 ### Proceedings
@@ -520,5 +525,14 @@ This page was inspired by the [HEPML Resources](https://github.com/iml-wg/HEP-ML
 [doc]: /assets/file-doc.png 'DOC'
 [xls]: /assets/file-xls.png 'XLS'
 [link]: /assets/link.png 'Link'
-[inspire]: /assets/inspire.png 'Inspire'
-[indico]: /assets/indico.png 'Indico'
+
+[inspire]: /assets/badge-inspire-555.svg
+[indico]: /assets/badge-indico-002939.svg
+
+[tag-muon]: https://img.shields.io/badge/-muon-informational
+[tag-tracker]: https://img.shields.io/badge/-tracker-informational
+[tag-l1]: https://img.shields.io/badge/-l1-informational
+[tag-hlt]: https://img.shields.io/badge/-hlt-informational
+[tag-daq]: https://img.shields.io/badge/-daq-informational
+[tag-upg]: https://img.shields.io/badge/-upg-informational
+
