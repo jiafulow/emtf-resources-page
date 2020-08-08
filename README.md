@@ -36,77 +36,88 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 ### Offline Software
 
-- [EMTF Analyzer Tools and Coordination](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) [EMTFAnalyzer]
-- [Endcap Muon Level 1 Trigger LS1 upgrade page](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) [EndcapMuonTrigger]
-  > Contain MTF7 & EMTF documentation and source codes.
-- [L1 CSC Track-Finder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) [L1CSCTrackFinder]
-  > Contain CSCTF documentation and source codes.
-- [L1 CSC Trigger Primitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) [L1CSCTriggerPrimitives]
-- [L1T Offline Development Planning Page](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TOfflineDev) [SWGuideL1TOfflineDev]
-  > Provide instructions for developing L1 Trigger emulator code, in particular the L1T NTuple code.
-- [L1 Trigger Emulator Stage 2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) [SWGuideL1TStage2Instructions]
-  > Provide instructions for running L1 Trigger emulator, in particular the L1T NTuples.
-- [L1 Trigger Emulator Phase-2 Upgrade Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) [SWGuideL1TPhase2Instructions]
-  > Provide instructions for running L1 Trigger emulator for Phase-2 Upgrade.
+- [EMTFAnalyzer](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFAnalyzer) - EMTF Analyzer Tools and Coordination
+- [EndcapMuonTrigger](https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger) - Endcap Muon Level 1 Trigger LS1 upgrade page
+  > Contains MTF7 & EMTF documentation and source codes.
+- [L1CSCTrackFinder](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTrackFinder) - L1 CSC Track-Finder
+  > Contains CSCTF documentation and source codes. Note that CSCTF has been superseded by EMTF.
+- [L1CSCTriggerPrimitives](https://twiki.cern.ch/twiki/bin/view/CMS/L1CSCTriggerPrimitives) - L1 CSC Trigger Primitives
+  > Contains CSC trigger primitive documentation.
+- [SWGuideL1TOfflineDev](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TOfflineDev) - L1T Offline Development Planning Page
+  > Provides instructions for developing L1 Trigger emulator code, in particular the L1T NTuple code.
+- [SWGuideL1TStage2Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TStage2Instructions) - L1 Trigger Emulator Stage 2 Upgrade Instructions
+  > Provides instructions for running L1 Trigger emulator, in particular the L1T NTuples.
+- [SWGuideL1TPhase2Instructions](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideL1TPhase2Instructions) - L1 Trigger Emulator Phase-2 Upgrade Instructions
+  > Provides instructions for running L1 Trigger emulator for Phase-2 Upgrade.
 
-- [Level-1 Trigger](https://twiki.cern.ch/twiki/bin/view/CMS/L1Trigger) [L1Trigger]
-  - [Level-1 Trigger Public Performance Results](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TriggerDPGResults) [L1TriggerDPGResults]
-  - [Phase 1 L1 Trigger Upgrades](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) [L1TriggerPhase1]
-  - [Phase-2 L1 Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) [L1TriggerPhase2]
-- [HLT Triggers](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) [SWGuideGlobalHLT]
-  - [Phase-2 High Level Trigger Upgrade](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) [HighLevelTriggerPhase2]
-  - [Talks and posters about the CMS High Level Trigger](https://twiki.cern.ch/twiki/bin/view/CMSPublic/TriggerStudiesTalks) [TriggerStudiesTalks]
-- [Muon Wiki Pages](https://twiki.cern.ch/twiki/bin/view/CMS/MuonWikiHome) [MuonWikiHome]
-  - [Muon DPG Office](https://twiki.cern.ch/twiki/bin/view/CMS/MuonDPGOffice) [MuonDPGOffice]
-  - [Muon DT](https://twiki.cern.ch/twiki/bin/view/CMS/MuonDT) [MuonDT]
-  - [Muon CSC](https://twiki.cern.ch/twiki/bin/view/CMS/MuonCSC) [MuonCSC]
-    - [CSC Geometry](https://twiki.cern.ch/twiki/bin/view/CMS/CSCDPGGeometry) [CSCDPGGeometry]
-    - [CSC-related figures and diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/CSCDPGFigures) [CSCDPGFigures]
-  - [Muon RPC](https://twiki.cern.ch/twiki/bin/view/CMS/RPComm) [RPComm]
-  - [Muon GEM](https://twiki.cern.ch/twiki/bin/view/CMS/MuonGEM) [MuonGEM]
-    - [GEM Trigger Road Map](https://twiki.cern.ch/twiki/bin/view/CMS/GEMCSCIntegratedLocalTrigger) [GEMCSCIntegratedLocalTrigger]
+- [L1Trigger](https://twiki.cern.ch/twiki/bin/view/CMS/L1Trigger) - Level-1 Trigger
+  - [L1TriggerDPGResults](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TriggerDPGResults) - Level-1 Trigger Public Performance Results
+  - [L1TriggerPhase1](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) - Phase 1 L1 Trigger Upgrades
+  - [L1TriggerPhase2](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) - Phase-2 L1 Trigger Upgrade
+
+- [SWGuideGlobalHLT](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) - High Level Trigger
+  - [HighLevelTriggerPhase2](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) - Phase-2 High Level Trigger Upgrade
+  - [TriggerStudiesTalks](https://twiki.cern.ch/twiki/bin/view/CMSPublic/TriggerStudiesTalks) - Talks and posters about the CMS High Level Trigger
+
+- [MuonWikiHome](https://twiki.cern.ch/twiki/bin/view/CMS/MuonWikiHome) - CMS Muon Wiki Pages
+  - [MuonDPGOffice](https://twiki.cern.ch/twiki/bin/view/CMS/MuonDPGOffice) - Muon DPG Office
+  - [MuonDT](https://twiki.cern.ch/twiki/bin/view/CMS/MuonDT) - Muon DT
+  - [MuonCSC](https://twiki.cern.ch/twiki/bin/view/CMS/MuonCSC) - Muon CSC
+    - [CSCDPGGeometry](https://twiki.cern.ch/twiki/bin/view/CMS/CSCDPGGeometry) - CSC Geometry
+    - [CSCDPGFigures](https://twiki.cern.ch/twiki/bin/view/CMS/CSCDPGFigures) - CSC-related figures and diagrams
+  - [RPComm](https://twiki.cern.ch/twiki/bin/view/CMS/RPComm) - Muon RPC
+  - [MuonGEM](https://twiki.cern.ch/twiki/bin/view/CMS/MuonGEM) - Muon GEM
+    - [GEMCSCIntegratedLocalTrigger](https://twiki.cern.ch/twiki/bin/view/CMS/GEMCSCIntegratedLocalTrigger) - GEM Trigger Road Map
 
 - Specific for Run 2:
-  - [Level-1 Trigger Phase I Upgrade Diagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) [L1TriggerPhaseIDiagrams]
-  - [L1T known issues in 2016 to 2018](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) [L1KnownIssues]
-  - [CSC OTMB and relevant configuration tests in autumn 2018](https://twiki.cern.ch/twiki/bin/view/CMS/CSCOTMB2018) [CSCOTMB2018]
-    > Describe the modified CSC LCT algorithm versions tested in data in 2018.
+  - [L1TriggerPhaseIDiagrams](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhaseIDiagrams) - Level-1 Trigger Phase I Upgrade Diagrams
+  - [L1KnownIssues](https://twiki.cern.ch/twiki/bin/view/CMS/L1KnownIssues) - L1T known issues in 2016 to 2018
+  - [CSCOTMB2018](https://twiki.cern.ch/twiki/bin/view/CMS/CSCOTMB2018) - CSC OTMB and relevant configuration tests in autumn 2018
+    > Describes the modified CSC LCT algorithm versions tested in data in 2018.
+
 - Specific for Run 3:
-  - [Coordination of CSC LCT + GEM with EMTF for Run 3](https://twiki.cern.ch/twiki/bin/view/CMS/CscLctGemEmtfRun3) [CscLctGemEmtfRun3]
-    > Describe the studies related to GEM TPs in the EMTF (no longer updated).
-  - [GEM CSC Trigger Task Force Run-3](https://twiki.cern.ch/twiki/bin/view/CMS/GEMCSCTriggerTaskForceRun3) [GEMCSCTriggerTaskForceRun3]
-    > Describe the studies related to GEM & CSC TPs for Run-3.
+  - [CscLctGemEmtfRun3](https://twiki.cern.ch/twiki/bin/view/CMS/CscLctGemEmtfRun3) - Coordination of CSC LCT + GEM with EMTF for Run 3
+    > Describes the studies related to GEM TPs in the EMTF (no longer updated).
+  - [GEMCSCTriggerTaskForceRun3](https://twiki.cern.ch/twiki/bin/view/CMS/GEMCSCTriggerTaskForceRun3) - GEM CSC Trigger Task Force Run-3
+    > Describes the studies related to GEM & CSC TPs for Run-3.
+
 - Specific for Phase 2:
-  - [CMS Muon Local Trigger for HL-LHC](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) [CMSMuonLocalTriggerPhase2]
+  - [CMSMuonLocalTriggerPhase2](https://twiki.cern.ch/twiki/bin/view/CMS/CMSMuonLocalTriggerPhase2) - CMS Muon Local Trigger for HL-LHC
+
 - Non-Wikis:
-  - CMS CSC Level-1 Track Finder Home Page: <http://cms-csctf.web.cern.ch/>
-  - Darin Acosta's CSC Track-Finder webpage: <http://www.phys.ufl.edu/~acosta/cms/trigger.html>
-  - UCLA CSC Trigger webpage: <http://cmsdoc.cern.ch/cms/MUON/cscTrigger/html/CERN/>
-  - TriDAS Muon Trigger Home Page: <http://cmsdoc.cern.ch/ftp/afscms/TRIDAS/mutrig/html/>
+  - CMS CSC Level-1 Track Finder Home Page
+    - <http://cms-csctf.web.cern.ch/>
+  - Darin Acosta's CSC Track-Finder webpage
+    - <http://www.phys.ufl.edu/~acosta/cms/trigger.html>
+  - UCLA CSC Trigger webpage
+    - <http://cmsdoc.cern.ch/cms/MUON/cscTrigger/html/CERN/>
+  - TriDAS Muon Trigger Home Page
+    - <http://cmsdoc.cern.ch/ftp/afscms/TRIDAS/mutrig/html/>
 
 ### Online Software
 
-- [L1 EMTF Expert Page](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) [EMTFOnCallExpert]
-  > Mostly for the EMTF on-call shifter, but has lots of other info. It also contains a [list of other EMTF pages](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert#Important_Twiki_Pages).
-- [EMTF SWATCH Control Software](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) [EMTFSwatchControlSoftware]
-- [CMS Trigger Online Workbook](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) [OnlineWBTrigger]
-- [.CMS Cluster user's guide](https://twiki.cern.ch/twiki/bin/view/CMS/ClusterUsersGuide) [ClusterUsersGuide]
+- [EMTFOnCallExpert](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert) - L1 EMTF Expert Page
+  > Contains info for the EMTF on-call shifters, but has lots of other info, including a [list of other EMTF pages](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFOnCallExpert#Important_Twiki_Pages).
+- [EMTFSwatchControlSoftware](https://twiki.cern.ch/twiki/bin/view/CMS/EMTFSwatchControlSoftware) - EMTF SWATCH Control Software
+  > Contains instructions for the EMTF SWATCH software.
+- [OnlineWBTrigger](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) - CMS Trigger Online Workbook
+- [ClusterUsersGuide](https://twiki.cern.ch/twiki/bin/view/CMS/ClusterUsersGuide) - .CMS Cluster user's guide
 
 ## Code Repositories
 
 ### Offline Software
 
-- [EMTF data formats](https://github.com/cms-sw/cmssw/tree/master/DataFormats/L1TMuon) [DataFormats/L1TMuon]
-- [EMTF emulator](https://github.com/cms-sw/cmssw/tree/master/L1Trigger/L1TMuonEndCap) [L1Trigger/L1TMuonEndCap]
-- [EMTF packer/unpacker](https://github.com/cms-sw/cmssw/tree/master/EventFilter/L1TRawToDigi) [EventFilter/L1TRawToDigi]
-- [EMTF DQM](https://github.com/cms-sw/cmssw/tree/master/DQM/L1TMonitor) [DQM/L1TMonitor]
-- [EMTF O2O](https://github.com/cms-sw/cmssw/tree/master/L1TriggerConfig/L1TConfigProducers) [L1TriggerConfig/L1TConfigProducers]
+- [DataFormats/L1TMuon](https://github.com/cms-sw/cmssw/tree/master/DataFormats/L1TMuon) - EMTF data formats
+- [L1Trigger/L1TMuonEndCap](https://github.com/cms-sw/cmssw/tree/master/L1Trigger/L1TMuonEndCap) - EMTF emulator
+- [EventFilter/L1TRawToDigi](https://github.com/cms-sw/cmssw/tree/master/EventFilter/L1TRawToDigi) - EMTF DAQ
+- [DQM/L1TMonitor](https://github.com/cms-sw/cmssw/tree/master/DQM/L1TMonitor) - EMTF DQM
+- [L1TriggerConfig/L1TConfigProducers](https://github.com/cms-sw/cmssw/tree/master/L1TriggerConfig/L1TConfigProducers) - EMTF O2O
 
 ### Online Software
 
-- [Trigger Supervisor](https://gitlab.cern.ch/cms-cactus/core/ts)
-- [SWATCH](https://gitlab.cern.ch/cms-cactus/core/swatch)
-- [EMTF SWATCH cell](https://gitlab.cern.ch/cms-cactus/projects/emtf/)
+- [core/ts](https://gitlab.cern.ch/cms-cactus/core/ts) - Trigger Supervisor
+- [core/swatch](https://gitlab.cern.ch/cms-cactus/core/swatch) - SWATCH
+- [projects/emtf](https://gitlab.cern.ch/cms-cactus/projects/emtf/) - EMTF SWATCH cell
 
 ## Issue Tracking
 
@@ -116,22 +127,25 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 ### Online Software
 
-- [CMS Level-1 Trigger Operations](https://its.cern.ch/jira/projects/CMSLITOPS/summary) [CMSL1TOPS]
-- [CMS Level-1 Trigger DPG](https://its.cern.ch/jira/projects/CMSLITDPG/summary) [CMSL1TDPG]
-- [CMS Online Networks and Systems](https://its.cern.ch/jira/projects/CMSONS/summary) [CMSONS]
+- [CMSL1TOPS](https://its.cern.ch/jira/projects/CMSLITOPS/summary) - CMS Level-1 Trigger Operations
+- [CMSL1TDPG](https://its.cern.ch/jira/projects/CMSLITDPG/summary) - CMS Level-1 Trigger DPG
+- [CMSONS](https://its.cern.ch/jira/projects/CMSONS/summary) - CMS Online Networks and Systems
 
 ## Web Monitoring Tools
 
-- [CMS Online Monitoring System](https://cmsoms.cern.ch/)
-- [CMS Web-Based Monitoring](https://cmswbm.cern.ch/cmsdb/servlet/RunSummary) (obsolete)
-- [CMS Online DQM](https://cmsweb.cern.ch/dqm/online/)
-- [CMS Offline DQM](https://cmsweb.cern.ch/dqm/offline/)
-- [CMS RelVal DQM](https://cmsweb.cern.ch/dqm/relval/)
-- [CMS Online Elog](https://cmsonline.cern.ch/webcenter/portal/cmsonline/pages_common/elog)
-- [L1 Page](https://l1page.cms/)
-- [L1 Configuration Editor](https://l1ce.cms/)
-- [EMTF SWATCH Cell](http://l1ts-emtf.cms:3333/urn:xdaq-application:lid=13/)
-- [EMTF IPMITools Monitor](http://l1ts-emtf.cms:4200/)
+- EMTF SWATCH Cell
+  - <http://l1ts-emtf.cms:3333/urn:xdaq-application:lid=13/>
+- EMTF IPMITools Monitor
+  - <http://l1ts-emtf.cms:4200/>
+- [OMS](https://cmsoms.cern.ch/) - CMS Online Monitoring System
+- [WBM](https://cmswbm.cern.ch/cmsdb/servlet/RunSummary) - CMS Web-Based Monitoring (obsolete)
+- [DQM/Online](https://cmsweb.cern.ch/dqm/online/) - CMS Online DQM
+- [DQM/Offline](https://cmsweb.cern.ch/dqm/offline/) - CMS Offline DQM
+- [DQM/RelVal](https://cmsweb.cern.ch/dqm/relval/) - CMS RelVal DQM
+- [Elog](https://cmsonline.cern.ch/webcenter/portal/cmsonline/pages_common/elog) - CMS Online Elog
+- [DAQ](https://cmsonline.cern.ch/webcenter/portal/cmsonline/pages_common/daq) - CMS Online DAQ
+- [L1Page](https://l1page.cms/) - L1 Page
+- [L1CE](https://l1ce.cms/) - L1 Configuration Editor
 
 ## Meetings and News
 
@@ -153,22 +167,23 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 
 ### Hypernews
 
-- [L1 Trigger](https://hypernews.cern.ch/HyperNews/CMS/get/L1Trigger.html) [L1Trigger]
-- [L1 Trigger Software](https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerSW.html) [L1TriggerSW]
-- [L1 Trigger Upgrades](https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerUpgrades.html) [L1TriggerUpgrades]
-- [Commissioning](https://hypernews.cern.ch/HyperNews/CMS/get/commissioning.html) [commissioning]
+- [L1Trigger](https://hypernews.cern.ch/HyperNews/CMS/get/L1Trigger.html) - L1 Trigger
+- [L1TriggerSW](https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerSW.html) - L1 Trigger Software
+- [L1TriggerUpgrades](https://hypernews.cern.ch/HyperNews/CMS/get/L1TriggerUpgrades.html) - L1 Trigger Upgrades
+- [commissioning](https://hypernews.cern.ch/HyperNews/CMS/get/commissioning.html) - Commissioning
 
-### Mailing Lists
+### E-groups
 
-- CSCTF working group: <csctf-working-meeting@cern.ch>
-- Experts of muons L1 trigger emulator (EMTF,OMTF,BMTF,uGMT): <cms-l1t-emulator-muons@cern.ch>
-- Coordination of LCT and GEM trigger primitive developments: <cms-l1t-csc-lct-gem-run3@cern.ch>
-- L1T endcap muon trigger (EMTF) algorithms and software: <cms-l1t-emulator-muons-endcap@cern.ch>
-- GEM-CSC trigger task force: <cms-gem-csc-trigger-taskforce@cern.ch>
+- [csctf-working-meeting](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=csctf-working-meeting) - CSCTF working group
+- [cms-l1t-emulator-muons](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-l1t-emulator-muons) - Experts of muons L1 trigger emulator (EMTF,OMTF,BMTF,uGMT)
+- [cms-l1t-emulator-muons-endcap](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-l1t-emulator-muons-endcap) - L1T endcap muon trigger (EMTF) algorithms and software
+- [cms-l1t-csc-lct-gem-run3](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-l1t-csc-lct-gem-run3) - Coordination of LCT and GEM trigger primitive developments
+- [cms-l1p2-muon-algo](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-l1p2-muon-algo) - E-group for Phase-2 L1 muon algorithms
+- [cms-gem-csc-trigger-taskforce](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-gem-csc-trigger-taskforce) - GEM-CSC trigger task force
 
 ### Mattermost
 
-- CMS EMTF: <https://mattermost.web.cern.ch/cms-emtf>
+- [cms-emtf](https://mattermost.web.cern.ch/cms-emtf) - CMS EMTF
 
 
 ## Documents
@@ -244,6 +259,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - A. Madorsky et al., [Electronics for CMS Endcap Muon Level-1 Trigger System Phase-1 and HL LHC Upgrades Summary](https://cds.cern.ch/record/2264997), INSTR17, CMS-CR-2017-132. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1609400)
 - A. Carnes et al., [Boosted Decision Trees in the Level-1 Muon Endcap Trigger at CMS](https://cds.cern.ch/record/2290188), ACAT2017, CMS-CR-2017-357. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1700005)
 - J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1665070)
+- C. Freer, [CMS trigger in Phase-2](http://cds.cern.ch/record/2707757), LHCP2019. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1769968)
 
 ### Technical Notes
 
@@ -312,6 +328,8 @@ See also: <https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger>
 
 - M. Carver, _Description of Upgraded CSCTF Algorithm_. (2014-03-10)
   - [![PDF][pdf] Description_of_Upgraded_CSCTF_Algorithm.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085656/Description_of_Upgraded_CSCTF_Algorithm.pdf)
+- A. Madorsky, _CMS Endcap Muon Track Finder Spy Memory Data Format_. (2014-12-04)
+  - [![PDF][pdf] EMU_TF_spy_memory_format.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3505281/EMU_TF_spy_memory_format.pdf)
 - A. Madorsky, _CMS Endcap Muon Track Finder Control interface specifications_. (2014-12-04)
   - [![PDF][pdf] EMU_TF_registers.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874057/3085621/EMU_TF_registers.pdf)
 - A. Madorsky, _Modular Track Finder_. (2015-02-05)
@@ -360,6 +378,8 @@ See also: <https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger>
   - [![PDF][pdf] DN2015_017_v3.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/2071026/3085635/DN2015_017_v3.pdf)
 
 #### Working Documents
+
+Note: This is a catch-all category for documents that do not really fall into the above categories (such as slides).
 
 - Unknown author, _Table of CSC chamber parameters_. (2001-05-17)
   - [![PDF][pdf] csc_params.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3477132/csc_params.pdf)
