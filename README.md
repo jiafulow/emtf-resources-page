@@ -480,6 +480,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 ### 2020
 
+- [ISOTDAQ 2020 - International School of Trigger and Data AcQuisition](https://indico.cern.ch/event/828931/). (2020-01-13 &rarr; 2020-01-22)
 - L1 Phase 2 Upgrade TDR Review [Part 1](https://indico.cern.ch/event/891695/), [Part 2](https://indico.cern.ch/event/891704/). (2020-05-06 &rarr; 2020-05-07)
 - [ACES 2020 - Seventh Common ATLAS CMS Electronics Workshop for LHC Upgrades](https://indico.cern.ch/event/863071/timetable/?view=standard). (2020-05-26 &rarr; 2020-05-28)
 - [CMS GEM Workshop 28](https://indico.cern.ch/event/924698/). (2020-06-10 &rarr; 2020-06-12)
@@ -525,6 +526,10 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 | Neighbor sharing |
 |---|
 | [![img](figures/neighbor_sharing.png)](figures/neighbor_sharing.png) |
+
+| CSC trigger electronics |
+|---|
+| [![img](figures/nov03_block_diag400.jpg)](figures/nov03_block_diag400.jpg) |
 
 | Legacy L1 muon trigger system during Run 1 | Phase-1 L1 trigger system during Run 2 |
 |---|---|
