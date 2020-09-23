@@ -103,6 +103,10 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - [OnlineWBTrigger](https://twiki.cern.ch/twiki/bin/view/CMS/OnlineWBTrigger) - CMS Trigger Online Workbook
 - [ClusterUsersGuide](https://twiki.cern.ch/twiki/bin/view/CMS/ClusterUsersGuide) - .CMS Cluster user's guide
 
+- Non-Wikis:
+  - SWATCH's documentation
+    - <http://cactus.web.cern.ch/cactus/release/swatch/latest_doc/>
+
 ## Code Repositories
 
 ### Offline Software
@@ -204,7 +208,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - CMS Collaboration, [Technical Proposal for the Phase-II Upgrade of the CMS Detector](https://cds.cern.ch/record/2020886), CERN-LHCC-2015-010, LHCC-P-008, CMS-TDR-15-02. (2015) ![tag-upg][tag-upg] [![Inspire][inspire]](http://inspirehep.net/record/1614097)
 - CMS Collaboration, [CMS Phase II Upgrade Scope Document](https://cds.cern.ch/record/2055167), CERN-LHCC-2015-019, LHCC-G-165. (2015) ![tag-upg][tag-upg]
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS Tracker](https://cds.cern.ch/record/2272264), CERN-LHCC-2017-009, CMS-TDR-014. (2017) ![tag-tracker][tag-tracker] ![tag-upg][tag-upg] [![Inspire][inspire]](http://inspirehep.net/record/1614103)
-- CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189), CERN-LHCC-2017-012, CMS-TDR-016. (2017) ![tag-muon][tag-muon] ![tag-upg][tag-upg]
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS Muon Detectors](https://cds.cern.ch/record/2283189), CERN-LHCC-2017-012, CMS-TDR-016. (2017) ![tag-muon][tag-muon] ![tag-upg][tag-upg] [![Inspire][inspire]](http://inspirehep.net/record/1816103)
   - See also: <https://twiki.cern.ch/twiki/bin/view/CMS/MuonPhase2TDR>
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017) ![tag-l1][tag-l1] ![tag-upg][tag-upg]
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017) ![tag-daq][tag-daq] ![tag-upg][tag-upg]
@@ -397,6 +401,8 @@ Note: This is a catch-all category for documents that do not really fall into th
   - [![Link][link] emtfpp_description.ipynb](https://nbviewer.jupyter.org/github/jiafulow/L1TMuonDocsNov2018/blob/master/emtfpp_description.ipynb)
 - A. Madorsky, _Mapping between SWATCH link labels and CSC chambers_. (2019-04-25)
   - [![XLS][xls] link-chamber-map-values.xlsx](https://indico.cern.ch/event/799287/contributions/3321335/attachments/1874291/3085648/link-chamber-map-values.xlsx)
+- J.F. Low, _EMTF++: Phase-2 L1 endcap muon trigger_. (2020-06-23)
+  - [![PDF][pdf] 2020-06-23_ml_cms_l1_muon_trigger_v2.pdf](https://indico.cern.ch/event/932396/contributions/3918150/attachments/2062535/3460481/2020-06-23_ml_cms_l1_muon_trigger_v2.pdf)
 - Various contributors, [Muon algorithm TDR figures](https://twiki.cern.ch/twiki/bin/view/CMS/MuonAlgoTDRFigures). (2020)
 - S. Dildick et al., [Improving the performance of the CLCT pattern finder in
 CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master/temp/DN-19-059_temp.pdf). (2020)
