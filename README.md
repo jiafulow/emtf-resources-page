@@ -6,17 +6,42 @@ This page contains links to various resources that are relevant for the [CMS](ht
 Endcap Muon Track Finder (EMTF) &mdash; the L1 [trigger](https://cms.cern/detector/triggering-and-data-acquisition)
 for muons in the forward region (1.24 < |&eta;| < 2.4).
 
-For an introduction to the EMTF system, please check out the following:
-- D. Acosta, [Endcap Muon Trigger System Overview](https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072044/EMTFhardwareOverview.pdf). (2019-06-24)
-- A. Brinkerhoff, [The EMTF System and Projects for Run 3](https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072125/2019_06_24_EMTF_system_Run3.pdf). (2019-06-24)
-- E. Yiğitbaşı, [EMTF Emulator Status and Plans](https://indico.cern.ch/event/900292/contributions/3798560/attachments/2008546/3355213/EMTF_emulator_review_L1Tweekly_24.03.2020.pdf). (2020-03-24)
-
-For an introduction to the L1 online software, please check out the following:
-- G. Dirkx, [CMS Level-1 Trigger Online Software](https://indico.cern.ch/event/914784/contributions/3846235/attachments/2054240/3444025/induction_course_10_jun_2020.pdf). (2020-06-11)
-
-For an introduction to the Trigger & DAQ systems in CMS, please check out the following Darin Acosta's lectures:
-- D. Acosta, [Introduction to Trigger Systems](https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913452/TriggerLecture.pdf). (2019-01-31)
-- D. Acosta, [Electronics in High Energy Physics](https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913453/ElectronicsLecture.pdf). (2019-01-31)
+<table>
+  <thead>
+    <tr>
+      <th>:book: Quick Start</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        For an introduction to the EMTF system, please check out the following:
+        <ul>
+          <li>D. Acosta, <a href="https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072044/EMTFhardwareOverview.pdf" rel="nofollow">Endcap Muon Trigger System Overview</a>. (2019-06-24)</li>
+          <li>A. Brinkerhoff, <a href="https://indico.cern.ch/event/830333/contributions/3477682/attachments/1867800/3072125/2019_06_24_EMTF_system_Run3.pdf" rel="nofollow">The EMTF System and Projects for Run 3</a>. (2019-06-24)</li>
+          <li>E. Yiğitbaşı, <a href="https://indico.cern.ch/event/900292/contributions/3798560/attachments/2008546/3355213/EMTF_emulator_review_L1Tweekly_24.03.2020.pdf" rel="nofollow">EMTF Emulator Status and Plans</a>. (2020-03-24)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        For an introduction to the L1 online software, please check out the following:
+        <ul>
+          <li>G. Dirkx, <a href="https://indico.cern.ch/event/914784/contributions/3846235/attachments/2054240/3444025/induction_course_10_jun_2020.pdf" rel="nofollow">CMS Level-1 Trigger Online Software</a>. (2020-06-11)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        For an introduction to the Trigger &amp; DAQ systems in CMS, please check out the following Darin Acosta's lectures:
+        <ul>
+          <li>D. Acosta, <a href="https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913452/TriggerLecture.pdf" rel="nofollow">Introduction to Trigger Systems</a>. (2019-01-31)</li>
+          <li>D. Acosta, <a href="https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913453/ElectronicsLecture.pdf" rel="nofollow">Electronics in High Energy Physics</a>. (2019-01-31)</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Table of contents
@@ -55,7 +80,8 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
   - [L1TriggerPhase1](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) - Phase 1 L1 Trigger Upgrades
   - [L1TriggerPhase2](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) - Phase-2 L1 Trigger Upgrade
 
-- [SWGuideGlobalHLT](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) - High Level Trigger
+- [TriggerStudies](https://twiki.cern.ch/twiki/bin/view/CMS/TriggerStudies) - Trigger Studies Group (*a.k.a.* HLT)
+  - [SWGuideGlobalHLT](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) - Combining all groups of HLT triggers in a Global Table
   - [HighLevelTriggerPhase2](https://twiki.cern.ch/twiki/bin/view/CMS/HighLevelTriggerPhase2) - Phase-2 High Level Trigger Upgrade
   - [TriggerStudiesTalks](https://twiki.cern.ch/twiki/bin/view/CMSPublic/TriggerStudiesTalks) - Talks and posters about the CMS High Level Trigger
 
@@ -212,13 +238,13 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
   - See also: <https://twiki.cern.ch/twiki/bin/view/CMS/MuonPhase2TDR>
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS L1 Trigger Interim Technical Design Report](https://cds.cern.ch/record/2283192), CERN-LHCC-2017-013, CMS-TDR-017. (2017) ![tag-l1][tag-l1] ![tag-upg][tag-upg]
 - CMS Collaboration, [The Phase-2 Upgrade of the CMS DAQ Interim Technical Design Report](https://cds.cern.ch/record/2283193), CERN-LHCC-2017-014, CMS-TDR-018. (2017) ![tag-daq][tag-daq] ![tag-upg][tag-upg]
-- CMS Collaboration, [The Phase-2 Upgrade of the CMS Level-1 Trigger](https://cds.cern.ch/record/2714892), CERN-LHCC-2020-004, CMS-TDR-021. (2020) ![tag-l1][tag-l1] ![tag-upg][tag-upg]
+- CMS Collaboration, [The Phase-2 Upgrade of the CMS Level-1 Trigger](https://cds.cern.ch/record/2714892), CERN-LHCC-2020-004, CMS-TDR-021. (2020) ![tag-l1][tag-l1] ![tag-upg][tag-upg] [![Inspire][inspire]](http://inspirehep.net/record/1819968)
 
 ### Papers and Publications
 
 - M.M. Baarmand et al., [Spatial resolution attainable with cathode strip chambers at the trigger level](https://cds.cern.ch/record/394968), Nucl.Instrum.Meth.A 425 (1999) 92-105. (1999) [![Inspire][inspire]](http://inspirehep.net/record/501011)
 - D. Acosta et al., [Development and test of a prototype regional track-finder for the Level-1 trigger of the cathode strip chamber muon system of CMS](https://cds.cern.ch/record/623631), Nucl.Instrum.Meth.A 496 (2003) 64-82. (2003) [![Inspire][inspire]](http://inspirehep.net/record/614106)
-- Yu. Pakhotin et al., [Efficiency of finding muon track trigger primitives in CMS cathode strip chambers](https://cds.cern.ch/record/1073689), Nucl.Instrum.Meth.A 592 (2008) 26-37. (2007) [![Inspire][inspire]](http://inspirehep.net/record/772923)
+- D. Acosta et al., [Efficiency of finding muon track trigger primitives in CMS cathode strip chambers](https://cds.cern.ch/record/1073689), Nucl.Instrum.Meth.A 592 (2008) 26-37. (2007) [![Inspire][inspire]](http://inspirehep.net/record/772923)
 - A. Drozdetskiy et al., [Fast algorithm for track segment and hit reconstruction in the CMS cathode strip chambers](https://cds.cern.ch/record/1061268), Nucl.Instrum.Meth.A 589 (2008) 383-397. (2007) [![Inspire][inspire]](http://inspirehep.net/record/764609)
 - CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire][inspire]](http://inspirehep.net/record/796887)
   - [JINST 3 (2008) S08004](http://dx.doi.org/10.1088/1748-0221/3/08/S08004)
@@ -246,6 +272,7 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - B. Scurlock et al., [A 3-D Track-Finding Processor for the CMS Level-1 Muon Trigger](https://cds.cern.ch/record/622151), CHEP2003. (2003) [![Inspire][inspire]](http://inspirehep.net/record/621399)
 - J. Hauser et al., [Experience with Trigger Electronics for the Cathode Strip Chamber System of CMS](https://cds.cern.ch/record/814259), LECC2004. (2004)
 - A. Madorsky et al., [Performance of a Pre-Production Track-Finding Processor for the Level-1 Trigger of the CMS Endcap Muon System](https://cds.cern.ch/record/814321), LECC2004. (2004)
+- A. Madorsky and D. Acosta, _VPP - a Verilog HDL simulation and generation library for C++_, 2007 IEEE Nuclear Science Symposium Conference Record. (2007) [![Inspire][inspire]](http://inspirehep.net/record/1406388)
 - A. Madorsky et al., [Design Considerations for an Upgraded Track-Finding Processor in the Level-1 Endcap Muon Trigger of CMS for SLHC Operations](https://cds.cern.ch/record/1234904), TWEPP09, CMS-CR-2009-316. (2009) [![Inspire][inspire]](http://inspirehep.net/record/1654156)
 - M. Matveev and P. Padley, _Upgrade of the CSC endcap muon port card at CMS_, TWEPP10. (2010) [![Inspire][inspire]](http://inspirehep.net/record/881562)
 - J. Brooke, [Performance of the CMS Level-1 Trigger](https://cds.cern.ch/record/1496888), ICHEP2012, CMS-CR-2012-322. (2012) [![Inspire][inspire]](http://inspirehep.net/record/1218375)
@@ -258,12 +285,14 @@ For an introduction to the Trigger & DAQ systems in CMS, please check out the fo
 - N. Loukas et al., [The CMS Level-1 Trigger Barrel Track Finder](https://cds.cern.ch/record/2102885), TWEPP15, CMS-CR-2015-304. (2015) [![Inspire][inspire]](http://inspirehep.net/record/1430836)
 - D. Rabady et al., [Upgrade of the CMS muon trigger system in the barrel region](https://cds.cern.ch/record/2153775), VCI2016, CMS-CR-2016-038. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1513598)
 - N.P. Ghanathe et al., [Software and Firmware co-development using High-level Synthesis](https://cds.cern.ch/record/2233159), TWEPP16, CMS-CR-2016-287. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1513692)
-- J. Fulcher et al., [The New Global Muon Trigger of the CMS Experiment](https://cds.cern.ch/record/2302108), RT2016. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1629878)
+- J. Fulcher et al., [The New Global Muon Trigger of the CMS Experiment](https://cds.cern.ch/record/2302108), RT2016. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1629878)
+- S. Bologna et al., [SWATCH: Common software for controlling and monitoring the upgraded level-1 trigger of the CMS experiment](https://cds.cern.ch/record/2194548), RT2016, CMS-CR-2016-121. (2016) [![Inspire][inspire]](http://inspirehep.net/record/1592038)
 - C. Lazaridis et al., [SWATCH Common software for controlling and monitoring the upgraded CMS Level-1 trigger](https://cds.cern.ch/record/2255266), CHEP2016, CMS-CR-2017-041. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1638264)
 - A. Madorsky et al., [Electronics for CMS Endcap Muon Level-1 Trigger System Phase-1 and HL LHC Upgrades Summary](https://cds.cern.ch/record/2264997), INSTR17, CMS-CR-2017-132. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1609400)
 - A. Carnes et al., [Boosted Decision Trees in the Level-1 Muon Endcap Trigger at CMS](https://cds.cern.ch/record/2290188), ACAT2017, CMS-CR-2017-357. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1700005)
 - J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1665070)
-- C. Freer, [CMS trigger in Phase-2](http://cds.cern.ch/record/2707757), LHCP2019. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1769968)
+- G. Karathanasis et al., [Upgrade of the CMS Barrel Muon Track Finder for HL-LHC featuring a Kalman Filter algorithm and an ATCA Host Processor with Ultrascale+ FPGAs](https://cds.cern.ch/record/2648953), TWEPP18, CMS-CR-2018-294. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1747437)
+- C. Freer, [CMS trigger in Phase-2](https://cds.cern.ch/record/2707757), LHCP2019. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1769968)
 
 ### Technical Notes
 
@@ -381,6 +410,12 @@ See also: <https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger>
 - D. Rabady et al., [Interface between the Muon Track Finders and the micro-Global Muon Trigger in the Upgraded CMS Trigger for 2016](http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=DN2015_017_v3.pdf), CMS-DN-2015-017. (2016-02-05)
   - [![PDF][pdf] DN2015_017_v3.pdf](https://indico.cern.ch/event/799287/contributions/3321335/attachments/2071026/3085635/DN2015_017_v3.pdf)
 
+#### uGT Notes
+
+See also: <http://globaltrigger.hephy.at/upgrade/ugt/>
+
+- H. Bergauer et al., [Scales for inputs to uGT](http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=DN2014_029_v2.pdf), CMS-DN-2014-029. (2016-05-30)
+
 #### Working Documents
 
 Note: This is a catch-all category for documents that do not really fall into the above categories (such as slides).
@@ -412,7 +447,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 ## Lectures, Courses and Tutorials
 
-### 2017 and before
+### 2018 and before
 
 - N. Ellis, _Trigger and data acquisition_, [arXiv:1010.2942 [physics.ins-det]](https://arxiv.org/abs/1010.2942). (2010-10-14)
 - [L1 Trigger SWATCH tutorial](https://indico.cern.ch/event/436271/attachments/1136924/1627286/L1T_SWATCH_tutorial_20150806_v0.pdf) by Tom Williams. (2015-08-06)
@@ -420,9 +455,6 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [L1CE quick start guide](https://docs.google.com/presentation/d/1gG3eawOO1iZdUfI6TEPW5hF7gd3Qup3C8rzKqy5wIDU/edit) by Giuseppe & Glenn. (2017)
 - [L1 Trigger Shifter Tutorial](https://indico.cern.ch/event/668931/). (2017-10-04)
 - [Tutorial: Level-1 Seed Development](https://indico.cern.ch/event/675975/). (2017-11-02)
-
-### 2018
-
 - [L1 Trigger Shifter Tutorial](https://indico.cern.ch/event/697373/). (2018-01-22)
 - [DAQ Shifter Tutorial](https://indico.cern.ch/event/709047/). (2018-03-01)
 - [Introduction to EMTF (2018)](https://indico.cern.ch/event/737981/#5-emtf-on-call-training-friday). (2018-06-22)
@@ -446,7 +478,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 ## Workshops and Other Events
 
-### 2017 and before
+### 2018 and before
 
 - [US CMS Phase 2 Trigger Workshop](https://indico.cern.ch/event/525046/). (2016-06-01 &rarr; 2016-06-02)
 - Phase-2 Level-1 Upgrade Workshop [Part 1](https://indico.cern.ch/event/541144/), [Part 2](https://indico.cern.ch/event/541146/). (2016-06-23 &rarr; 2016-06-24)
@@ -461,14 +493,12 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [Second Muon Phase-2 Comprehensive Review](https://indico.cern.ch/event/647960/). (2017-06-27 &rarr; 2017-06-28)
 - [US CMS Phase 2 Trigger Workshop](https://indico.cern.ch/event/660072/). (2017-08-28 &rarr; 2017-08-29)
 - [CMS Trigger Workshop at Belgrade](https://indico.cern.ch/event/674023/timetable/?view=standard). (2017-12-11 &rarr; 2017-12-14)
-
-### 2018
-
 - [Triggering on New Physics at the High Luminosity LHC](https://indico.cern.ch/event/678456/timetable/?view=standard). (2018-01-15 &rarr; 2018-01-17)
 - [CMS GEM/CSC Forward Muon Upgrade Workshop](https://indico.cern.ch/event/712513/timetable/?view=standard). (2018-04-08 &rarr; 2018-04-11)
 - [ACES 2018 - Sixth Common ATLAS CMS Electronics Workshop for LHC Upgrades](https://indico.cern.ch/event/681247/timetable/?view=standard). (2018-04-24 &rarr; 2018-04-26)
 - [L1T Phase 2 Upgrade Workshop (Jun 2018)](https://indico.cern.ch/event/718306/timetable/?view=standard). (2018-06-12 &rarr; 2018-06-15)
 - [Muon Upgrade Workshop (Sep 2018)](https://indico.cern.ch/event/752547/). (2018-09-11 &rarr; 2018-09-13)
+- [Annual Review - MUONS](https://indico.cern.ch/event/757853/). (2018-09-24)
 - [Annual Review - TDAQ](https://indico.cern.ch/event/766394/). (2018-11-13)
 - [Joint P2 Muon Upgrade + P2 L1 Muon Algorithms workshop](https://indico.cern.ch/event/768856/timetable/?view=standard). (2018-11-28 &rarr; 2018-11-30)
 
@@ -482,6 +512,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [Fast Machine Learning IRIS-HEP Blueprint Workshop](https://indico.cern.ch/event/822126/timetable/). (2019-09-10 &rarr; 2019-09-13)
 - [CMS GEM Workshop 24](https://indico.cern.ch/event/847049/). (2019-09-29 &rarr; 2019-10-04)
 - [Muon P2UG Review: Slide Drafts](https://indico.cern.ch/event/859833/). (2019-11-11)
+- [Muon Annual Review](https://indico.cern.ch/event/817802/). (2019-10-15)
 - [Annual Review - TDAQ](https://indico.cern.ch/event/844212/). (2019-12-04)
 
 ### 2020
@@ -490,6 +521,8 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - L1 Phase 2 Upgrade TDR Review [Part 1](https://indico.cern.ch/event/891695/), [Part 2](https://indico.cern.ch/event/891704/). (2020-05-06 &rarr; 2020-05-07)
 - [ACES 2020 - Seventh Common ATLAS CMS Electronics Workshop for LHC Upgrades](https://indico.cern.ch/event/863071/timetable/?view=standard). (2020-05-26 &rarr; 2020-05-28)
 - [CMS GEM Workshop 28](https://indico.cern.ch/event/924698/). (2020-06-10 &rarr; 2020-06-12)
+- [Muon Annual Review](https://indico.cern.ch/event/954729/). (2020-10-15)
+
 
 ## Figures
 
@@ -533,9 +566,13 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 |---|
 | [![img](figures/neighbor_sharing.png)](figures/neighbor_sharing.png) |
 
-| CSC trigger electronics |
-|---|
-| [![img](figures/nov03_block_diag400.jpg)](figures/nov03_block_diag400.jpg) |
+| CSC stations & chambers | |
+|---|---|
+| [![img](figures/colorful_csc.png)](figures/colorful_csc.png) | <img src="figures/1x1-ffffff7f.png" width="526" /> |
+
+| CSC trigger electronics | |
+|---|---|
+| [![img](figures/nov03_block_diag400.jpg)](figures/nov03_block_diag400.jpg) | <img src="figures/1x1-ffffff7f.png" width="200" /> |
 
 | Legacy L1 muon trigger system during Run 1 | Phase-1 L1 trigger system during Run 2 |
 |---|---|
