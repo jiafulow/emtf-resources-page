@@ -79,6 +79,7 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
   - [L1TriggerDPGResults](https://twiki.cern.ch/twiki/bin/view/CMSPublic/L1TriggerDPGResults) - Level-1 Trigger Public Performance Results
   - [L1TriggerPhase1](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase1) - Phase 1 L1 Trigger Upgrades
   - [L1TriggerPhase2](https://twiki.cern.ch/twiki/bin/view/CMS/L1TriggerPhase2) - Phase-2 L1 Trigger Upgrade
+  - [HowToL1TriggerMenu](https://twiki.cern.ch/twiki/bin/view/CMS/HowToL1TriggerMenu) - L1 Trigger Menu studies for Phase-I
 
 - [TriggerStudies](https://twiki.cern.ch/twiki/bin/view/CMS/TriggerStudies) - Trigger Studies Group (*a.k.a.* HLT)
   - [SWGuideGlobalHLT](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideGlobalHLT) - Combining all groups of HLT triggers in a Global Table
@@ -188,10 +189,10 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
 
 - [TRIGGER](https://indico.cern.ch/category/2091/) [![Indico][indico]](https://indico.cern.ch/category/2091/)
   - Level-1 Trigger Weekly Meeting
+  - Level-1 Muon DPG meeting
   - L1T Operations
-  - L1T DPG meeting
   - L1T Offline SW Meeting
-  - Phase-2 L1 Trigger Muon Algorithms Group Meeting
+  - Phase-2 L1T Muon Subsystem Group Meeting
 
 - [CMS WEEKS](https://indico.cern.ch/category/154/) [![Indico][indico]](https://indico.cern.ch/category/154/)
 
@@ -442,6 +443,7 @@ Note: This is a catch-all category for documents that do not really fall into th
 - S. Dildick et al., [Improving the performance of the CLCT pattern finder in
 CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master/temp/DN-19-059_temp.pdf). (2020)
 - S. Dildick et al., [Trigger data formats for the CSC and GEM systems for Run-3](https://gitlab.cern.ch/tdr/notes/DN-20-016/blob/master/temp/DN-20-016_temp.pdf). (2020)
+- S. Dildick et al., [Triggering on Long-Lived Particles decaying to hadronic showers in muon system](https://gitlab.cern.ch/tdr/notes/DN-20-033/blob/master/temp/DN-20-033_temp.pdf). (2020)
 - J. L. Holgado et al., [Analytical Method for DT Trigger Primitive Generation in HL-LHC](http://cms.cern.ch/iCMS/user/noteinfo?cmsnoteid=CMS%20IN-2019/003). (2020)
 
 
@@ -475,6 +477,9 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [9th CMS Induction Course](https://indico.cern.ch/event/862170/timetable/). (2020-01-29 &rarr; 2020-01-31)
 - [10th CMS Induction Course](https://indico.cern.ch/event/914784/timetable/). (2020-06-10 &rarr; 2020-06-12)
 
+### 2021
+
+- [11th CMS Induction Course](https://indico.cern.ch/event/1004951/timetable/). (2021-03-10 &rarr; 2021-03-12)
 
 ## Workshops and Other Events
 
@@ -585,7 +590,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 ## Acknowledgement
 
-This page was inspired by the [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources) repo.
+This page was originally inspired by the [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources) repo.
 
 <!--Definitions-->
 
