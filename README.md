@@ -211,6 +211,7 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
 - [cms-l1t-csc-lct-gem-run3](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-l1t-csc-lct-gem-run3) - Coordination of LCT and GEM trigger primitive developments
 - [cms-l1p2-muon-algo](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-l1p2-muon-algo) - E-group for Phase-2 L1 muon algorithms
 - [cms-gem-csc-trigger-taskforce](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-gem-csc-trigger-taskforce) - GEM-CSC trigger task force
+- [cms-l1t-muon-dpg](https://e-groups.cern.ch/e-groups/Egroup.do?egroupName=cms-l1t-muon-dpg) - L1T Muon DPG: Phase-1 and Phase-2
 
 ### Mattermost
 
@@ -527,6 +528,11 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [ACES 2020 - Seventh Common ATLAS CMS Electronics Workshop for LHC Upgrades](https://indico.cern.ch/event/863071/timetable/?view=standard). (2020-05-26 &rarr; 2020-05-28)
 - [CMS GEM Workshop 28](https://indico.cern.ch/event/924698/). (2020-06-10 &rarr; 2020-06-12)
 - [Muon Annual Review](https://indico.cern.ch/event/954729/). (2020-10-15)
+
+### 2021
+
+- [Annual Review - L1T](https://indico.cern.ch/event/993018/). (2021-04-08)
+- [P2UG Review](https://indico.cern.ch/event/1023183/). (2021-05-11)
 
 
 ## Figures
