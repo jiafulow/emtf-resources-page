@@ -33,10 +33,11 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
     </tr>
     <tr>
       <td>
-        For an introduction to the Trigger &amp; DAQ systems in CMS, please check out the following Darin Acosta's lectures:
+        For an introduction to the Trigger &amp; DAQ systems in CMS, please check out the following:
         <ul>
           <li>D. Acosta, <a href="https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913452/TriggerLecture.pdf" rel="nofollow">Introduction to Trigger Systems</a>. (2019-01-31)</li>
           <li>D. Acosta, <a href="https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913453/ElectronicsLecture.pdf" rel="nofollow">Electronics in High Energy Physics</a>. (2019-01-31)</li>
+          <li>D. Acosta, <a href="https://indico.cern.ch/event/1007936/contributions/4232569/attachments/2222013/3762977/CMS-Trigger-Acosta.pdf" rel="nofollow">The CMS Trigger System</a>. (2021-04-07)</li>
         </ul>
       </td>
     </tr>
@@ -250,6 +251,8 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
 - A. Drozdetskiy et al., [Fast algorithm for track segment and hit reconstruction in the CMS cathode strip chambers](https://cds.cern.ch/record/1061268), Nucl.Instrum.Meth.A 589 (2008) 383-397. (2007) [![Inspire][inspire]](http://inspirehep.net/record/764609)
 - CMS Collaboration, [The CMS experiment at the CERN LHC](https://cds.cern.ch/record/1129810), JINST 3 (2008) S08004. (2008) [![Inspire][inspire]](http://inspirehep.net/record/796887)
   - [JINST 3 (2008) S08004](http://dx.doi.org/10.1088/1748-0221/3/08/S08004)
+- CMS Collaboration, [Performance of the CMS Level-1 trigger during commissioning with cosmic ray muons and LHC beams](https://cds.cern.ch/record/1225373), CMS-CFT-09-013. (2009) ![tag-l1][tag-l1] [![Inspire][inspire]](http://inspirehep.net/record/838349)
+  - [JINST 5 (2010) T03002](http://dx.doi.org/10.1088/1748-0221/5/03/T03002)
 - CMS Collaboration, [Performance of CMS muon reconstruction in pp collision events at √s = 7 TeV](https://cds.cern.ch/record/1456510), CERN-PH-EP-2012-173, CMS-MUO-10-004. (2012) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1118729)
   - [JINST 7 (2012) P10002](http://dx.doi.org/10.1088/1748-0221/7/10/P10002)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-10-004/)
@@ -257,6 +260,8 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
   - [JINST 8 (2013) P11002](http://dx.doi.org/10.1088/1748-0221/8/11/P11002)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-11-001/)
 - CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) ![tag-l1][tag-l1] ![tag-hlt][tag-hlt] [![Inspire][inspire]](http://inspirehep.net/record/1485699)
+  - [JINST 12 (2017) P01020](http://dx.doi.org/10.1088/1748-0221/12/01/P01020)
+  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-12-001/)
 - CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1667449)
   - [JINST 13 (2018) P06015](http://dx.doi.org/10.1088/1748-0221/13/06/P06015)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
@@ -264,6 +269,7 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
   - [JINST 15 (2020) P02027](http://dx.doi.org/10.1088/1748-0221/15/02/P02027)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001/)
 - CMS Collaboration, [Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2721198), CMS-TRG-17-001, CERN-EP-2020-065. (2020) ![tag-l1][tag-l1] [![Inspire][inspire]](http://inspirehep.net/record/1801861)
+  - [JINST 15 (2020) P10017](http://dx.doi.org/10.1088/1748-0221/15/10/P10017)
   - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-17-001/)
 
 ### Proceedings
@@ -295,6 +301,7 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
 - J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1665070)
 - G. Karathanasis et al., [Upgrade of the CMS Barrel Muon Track Finder for HL-LHC featuring a Kalman Filter algorithm and an ATCA Host Processor with Ultrascale+ FPGAs](https://cds.cern.ch/record/2648953), TWEPP18, CMS-CR-2018-294. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1747437)
 - C. Freer, [CMS trigger in Phase-2](https://cds.cern.ch/record/2707757), LHCP2019. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1769968)
+- A. Tapper, [System Design and Prototyping for the CMS Level-1 Trigger at the High-Luminosity LHC](https://www.hep.ph.imperial.ac.uk/~tapper/pubs/ieee2020.pdf), RT2020. (2020)
 
 ### Technical Notes
 
@@ -481,6 +488,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 ### 2021
 
 - [11th CMS Induction Course](https://indico.cern.ch/event/1004951/timetable/). (2021-03-10 &rarr; 2021-03-12)
+- [Level 1 Trigger Tutorial](https://indico.cern.ch/event/1060362/). (2021-07-23)
 
 ## Workshops and Other Events
 
@@ -533,6 +541,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 - [Annual Review - L1T](https://indico.cern.ch/event/993018/). (2021-04-08)
 - [P2UG Review](https://indico.cern.ch/event/1023183/). (2021-05-11)
+- [CMS Run Coordination and DPG Workshop](https://indico.cern.ch/event/1039715/timetable/). (2021-06-28 &rarr; 2021-06-30)
 
 
 ## Figures
