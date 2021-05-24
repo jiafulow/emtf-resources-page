@@ -33,10 +33,11 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
     </tr>
     <tr>
       <td>
-        For an introduction to the Trigger &amp; DAQ systems in CMS, please check out the following Darin Acosta's lectures:
+        For an introduction to the Trigger &amp; DAQ systems in CMS, please check out the following:
         <ul>
           <li>D. Acosta, <a href="https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913452/TriggerLecture.pdf" rel="nofollow">Introduction to Trigger Systems</a>. (2019-01-31)</li>
           <li>D. Acosta, <a href="https://indico.cern.ch/event/793524/contributions/3296564/subcontributions/273567/attachments/1788844/2913453/ElectronicsLecture.pdf" rel="nofollow">Electronics in High Energy Physics</a>. (2019-01-31)</li>
+          <li>D. Acosta, <a href="https://indico.cern.ch/event/1007936/contributions/4232569/attachments/2222013/3762977/CMS-Trigger-Acosta.pdf" rel="nofollow">The CMS Trigger System</a>. (2021-04-07)</li>
         </ul>
       </td>
     </tr>
@@ -295,6 +296,7 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
 - J.F. Low et al., [Boosted Decision Trees in the CMS Level-1 Endcap Muon Trigger](https://cds.cern.ch/record/2289251), TWEPP17, CMS-CR-2017-361. (2017) [![Inspire][inspire]](http://inspirehep.net/record/1665070)
 - G. Karathanasis et al., [Upgrade of the CMS Barrel Muon Track Finder for HL-LHC featuring a Kalman Filter algorithm and an ATCA Host Processor with Ultrascale+ FPGAs](https://cds.cern.ch/record/2648953), TWEPP18, CMS-CR-2018-294. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1747437)
 - C. Freer, [CMS trigger in Phase-2](https://cds.cern.ch/record/2707757), LHCP2019. (2019) [![Inspire][inspire]](http://inspirehep.net/record/1769968)
+- A. Tapper, [System Design and Prototyping for the CMS Level-1 Trigger at the High-Luminosity LHC](https://www.hep.ph.imperial.ac.uk/~tapper/pubs/ieee2020.pdf), RT2020. (2020)
 
 ### Technical Notes
 
@@ -533,6 +535,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 - [Annual Review - L1T](https://indico.cern.ch/event/993018/). (2021-04-08)
 - [P2UG Review](https://indico.cern.ch/event/1023183/). (2021-05-11)
+- [CMS Run Coordination and DPG Workshop](https://indico.cern.ch/event/1039715/timetable/). (2021-06-28 &rarr; 2021-06-30)
 
 
 ## Figures
