@@ -221,7 +221,7 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
 
 ## Documents
 
-### TDRs
+### Technical Design Reports
 
 - CMS Collaboration, [The CMS muon project : Technical Design Report](https://cds.cern.ch/record/343814), CERN-LHCC-97-032, CMS-TDR-3. (1997) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1614056)
   - See also: <https://twiki.cern.ch/twiki/bin/view/CMS/MuonTDR>
@@ -255,22 +255,26 @@ for muons in the forward region (1.24 < |&eta;| < 2.4).
   - [JINST 5 (2010) T03002](http://dx.doi.org/10.1088/1748-0221/5/03/T03002)
 - CMS Collaboration, [Performance of CMS muon reconstruction in pp collision events at √s = 7 TeV](https://cds.cern.ch/record/1456510), CERN-PH-EP-2012-173, CMS-MUO-10-004. (2012) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1118729)
   - [JINST 7 (2012) P10002](http://dx.doi.org/10.1088/1748-0221/7/10/P10002)
-  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-10-004/)
+  - [CMS Public Pages](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-10-004)
 - CMS Collaboration, [The performance of the CMS muon detector in proton-proton collisions at √s = 7 TeV at the LHC](https://cds.cern.ch/record/1558674), CERN-PH-EP-2013-072, CMS-MUO-11-001. (2013) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1240504)
   - [JINST 8 (2013) P11002](http://dx.doi.org/10.1088/1748-0221/8/11/P11002)
-  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-11-001/)
+  - [CMS Public Pages](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-11-001)
 - CMS Collaboration, [The CMS trigger system](https://cds.cern.ch/record/2212926), CERN-EP-2016-160, CMS-TRG-12-001. (2016) ![tag-l1][tag-l1] ![tag-hlt][tag-hlt] [![Inspire][inspire]](http://inspirehep.net/record/1485699)
   - [JINST 12 (2017) P01020](http://dx.doi.org/10.1088/1748-0221/12/01/P01020)
-  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-12-001/)
+  - [CMS Public Pages](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-12-001)
 - CMS Collaboration, [Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2313130), CMS-MUO-16-001, CERN-EP-2018-058. (2018) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1667449)
   - [JINST 13 (2018) P06015](http://dx.doi.org/10.1088/1748-0221/13/06/P06015)
-  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001/)
+  - [CMS Public Pages](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-16-001)
 - CMS Collaboration, [Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2703645), CMS-MUO-17-001, CERN-EP-2019-238. (2019) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1769184)
   - [JINST 15 (2020) P02027](http://dx.doi.org/10.1088/1748-0221/15/02/P02027)
-  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001/)
+  - [CMS Public Pages](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-17-001)
 - CMS Collaboration, [Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV](https://cds.cern.ch/record/2721198), CMS-TRG-17-001, CERN-EP-2020-065. (2020) ![tag-l1][tag-l1] [![Inspire][inspire]](http://inspirehep.net/record/1801861)
   - [JINST 15 (2020) P10017](http://dx.doi.org/10.1088/1748-0221/15/10/P10017)
-  - [CMS Public Results](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-17-001/)
+  - [CMS Public Pages](https://cms-results.web.cern.ch/cms-results/public-results/publications/TRG-17-001)
+- CMS Collaboration, [Performance of the CMS muon trigger system in proton-proton collisions at √s = 13 TeV](http://cds.cern.ch/record/2751483), CMS-MUO-19-001, CERN-EP-2021-013. (2021) ![tag-muon][tag-muon] [![Inspire][inspire]](http://inspirehep.net/record/1845667)
+  - [JINST 16 (2021) P07001](http://dx.doi.org/10.1088/1748-0221/16/07/P07001)
+  - [CMS Public Pages](https://cms-results.web.cern.ch/cms-results/public-results/publications/MUO-19-001)
+
 
 ### Proceedings
 
@@ -397,6 +401,8 @@ See also: <https://twiki.cern.ch/twiki/bin/view/CMS/EndcapMuonTrigger>
 
 #### EMTF++ Notes
 
+See also: <https://jiafulow.github.io/emtf-book/>
+
 - &nbsp;
 
 #### AMC13 Notes
@@ -457,7 +463,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 ## Lectures, Courses and Tutorials
 
-### 2018 and before
+### 2019 and before
 
 - N. Ellis, _Trigger and data acquisition_, [arXiv:1010.2942 [physics.ins-det]](https://arxiv.org/abs/1010.2942). (2010-10-14)
 - [L1 Trigger SWATCH tutorial](https://indico.cern.ch/event/436271/attachments/1136924/1627286/L1T_SWATCH_tutorial_20150806_v0.pdf) by Tom Williams. (2015-08-06)
@@ -468,9 +474,6 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [L1 Trigger Shifter Tutorial](https://indico.cern.ch/event/697373/). (2018-01-22)
 - [DAQ Shifter Tutorial](https://indico.cern.ch/event/709047/). (2018-03-01)
 - [Introduction to EMTF (2018)](https://indico.cern.ch/event/737981/#5-emtf-on-call-training-friday). (2018-06-22)
-
-### 2019
-
 - [CMS Data Analysis School at Fermilab LPC 2019](https://indico.cern.ch/e/cmsdas2019). (2019-01-14 &rarr; 2019-01-18)
 - [CMS Induction Course (Jan 2019)](https://indico.cern.ch/event/782790/timetable/). (2019-01-30 &rarr; 2019-02-01)
 - [Darin Acosta's lectures on Trigger/DAQ (SERB School)](https://indico.cern.ch/event/793524/#sc-1-2-darins-lectures-on-trig). (2019-01-31)
@@ -489,10 +492,11 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 
 - [11th CMS Induction Course](https://indico.cern.ch/event/1004951/timetable/). (2021-03-10 &rarr; 2021-03-12)
 - [Level 1 Trigger Tutorial](https://indico.cern.ch/event/1060362/). (2021-07-23)
+- [12th CMS Induction Course](https://indico.cern.ch/event/1050796/timetable/). (2021-09-20 &rarr; 2021-09-22)
 
 ## Workshops and Other Events
 
-### 2018 and before
+### 2019 and before
 
 - [US CMS Phase 2 Trigger Workshop](https://indico.cern.ch/event/525046/). (2016-06-01 &rarr; 2016-06-02)
 - Phase-2 Level-1 Upgrade Workshop [Part 1](https://indico.cern.ch/event/541144/), [Part 2](https://indico.cern.ch/event/541146/). (2016-06-23 &rarr; 2016-06-24)
@@ -515,9 +519,6 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [Annual Review - MUONS](https://indico.cern.ch/event/757853/). (2018-09-24)
 - [Annual Review - TDAQ](https://indico.cern.ch/event/766394/). (2018-11-13)
 - [Joint P2 Muon Upgrade + P2 L1 Muon Algorithms workshop](https://indico.cern.ch/event/768856/timetable/?view=standard). (2018-11-28 &rarr; 2018-11-30)
-
-### 2019
-
 - [Level-1 Trigger Operations + DPG: LS2 Kick-Off](https://indico.cern.ch/event/778025/timetable/). (2019-02-13 &rarr; 2019-02-15)
 - [Muon Review of LS2 plans and preparation for run3 data-taking](https://indico.cern.ch/event/790897/). (2019-02-21 &rarr; 2019-02-22)
 - [Level-1 Trigger Algorithms Workshop at CIEMAT (Madrid)](https://indico.cern.ch/event/791517/). (2019-03-25 &rarr; 2019-03-28)
@@ -542,6 +543,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [Annual Review - L1T](https://indico.cern.ch/event/993018/). (2021-04-08)
 - [P2UG Review](https://indico.cern.ch/event/1023183/). (2021-05-11)
 - [CMS Run Coordination and DPG Workshop](https://indico.cern.ch/event/1039715/timetable/). (2021-06-28 &rarr; 2021-06-30)
+- [Annual Review - Muon](https://indico.cern.ch/event/1004685/). (2021-09-27)
 
 
 ## Figures
