@@ -535,6 +535,7 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [ISOTDAQ 2020 - International School of Trigger and Data AcQuisition](https://indico.cern.ch/event/828931/). (2020-01-13 &rarr; 2020-01-22)
 - L1 Phase 2 Upgrade TDR Review [Part 1](https://indico.cern.ch/event/891695/), [Part 2](https://indico.cern.ch/event/891704/). (2020-05-06 &rarr; 2020-05-07)
 - [ACES 2020 - Seventh Common ATLAS CMS Electronics Workshop for LHC Upgrades](https://indico.cern.ch/event/863071/timetable/?view=standard). (2020-05-26 &rarr; 2020-05-28)
+- [LHCC & UCG Review of CMS L1Trigger](https://indico.cern.ch/event/919461/). (2020-06-03)
 - [CMS GEM Workshop 28](https://indico.cern.ch/event/924698/). (2020-06-10 &rarr; 2020-06-12)
 - [Muon Annual Review](https://indico.cern.ch/event/954729/). (2020-10-15)
 
@@ -544,6 +545,12 @@ CSCs using lookup-tables](https://gitlab.cern.ch/tdr/notes/DN-19-059/blob/master
 - [P2UG Review](https://indico.cern.ch/event/1023183/). (2021-05-11)
 - [CMS Run Coordination and DPG Workshop](https://indico.cern.ch/event/1039715/timetable/). (2021-06-28 &rarr; 2021-06-30)
 - [Annual Review - Muon](https://indico.cern.ch/event/1004685/). (2021-09-27)
+- [Trigger Review](https://indico.cern.ch/event/1099590/). (2021-11-30 &rarr; 2021-12-03)
+
+### 2022
+
+- [Level-1 Trigger Workshop @ CERN](https://indico.cern.ch/event/1137504/). (2022-04-27 &rarr; 2022-04-30)
+- [Annual Review - L1-Trigger](https://indico.cern.ch/event/1139246/). (2022-05-03)
 
 
 ## Figures
